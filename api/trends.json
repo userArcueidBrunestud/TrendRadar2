@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-04T20:30:50.691430+08:00",
-  "total_titles_processed": 1658,
+  "generated_at": "2025-12-04T21:32:38.523392+08:00",
+  "total_titles_processed": 1750,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 64,
+      "match_count": 66,
       "titles": [
         {
           "title": "特朗普签署法律以加深美台联系，外交部回应",
@@ -28,8 +28,21 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时25分 ~ 20时30分]"
+          "appearance_count": 11,
+          "time_info": "[12时25分 ~ 21时32分]"
+        },
+        {
+          "title": "特朗普政府转向机器人之际 两大顶流厂商上演“隔空赛跑”",
+          "url": "https://www.cls.cn/detail/2219555",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时21分 ~ 21时32分]"
         },
         {
           "title": "观察｜特朗普的俄乌“和平计划”背后：生意，生意，还是生意",
@@ -39,11 +52,12 @@
             19,
             18,
             11,
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时25分 ~ 20时30分]"
+          "appearance_count": 11,
+          "time_info": "[12时25分 ~ 21时32分]"
         },
         {
           "title": "圆桌｜美俄5个小时没谈成，特朗普力推的“和平计划”关键分歧点在哪里？",
@@ -70,19 +84,6 @@
           "is_new": false,
           "appearance_count": 16,
           "time_info": "[01时28分 ~ 17时19分]"
-        },
-        {
-          "title": "特朗普政府转向机器人之际 两大顶流厂商上演“隔空赛跑”",
-          "url": "https://www.cls.cn/detail/2219555",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时21分 ~ 20时30分]"
         },
         {
           "title": "【早报】特朗普签署涉台法案，外交部发声；摩尔线程周五上市",
@@ -155,6 +156,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时41分"
+        },
+        {
+          "title": "美部长花式“拍特朗普马屁”，特朗普听完直接笑了",
+          "url": "https://v.ifeng.com/c/8ooVjzBecEz",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时17分 ~ 21时32分]"
         },
         {
           "title": "特朗普：将很快在拉美开展地面打击",
@@ -269,17 +281,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时41分 ~ 07时24分]"
-        },
-        {
-          "title": "美部长花式“拍特朗普马屁”，特朗普听完直接笑了",
-          "url": "https://v.ifeng.com/c/8ooVjzBecEz",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时17分 ~ 20时30分]"
         },
         {
           "title": "美国总统特朗普：俄罗斯总统普京想要结束战争。",
@@ -530,6 +531,17 @@
           "time_info": "05时24分"
         },
         {
+          "title": "哥伦比亚总统警告特朗普：不要惊醒“美洲豹”",
+          "url": "https://news.ifeng.com/c/8oohPdXia4u",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时32分"
+        },
+        {
           "title": "英伟达CEO黄仁勋：特朗普总统的促增长能源政策“拯救了人工智能产业”。",
           "url": "https://flash.jin10.com/detail/20251204032609838800",
           "source": "金十数据",
@@ -561,6 +573,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时32分"
+        },
+        {
+          "title": "特朗普又有“鬼点子”：批准在美国卖日本国民神车 因为“很可爱”？",
+          "url": "https://www.cls.cn/detail/2219893",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时32分"
         },
         {
           "title": "特朗普言论加剧市场担忧 “战争溢价”推高油价",
@@ -668,7 +691,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时30分"
         },
@@ -1197,14 +1220,14 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时17分 ~ 20时30分]"
+          "appearance_count": 5,
+          "time_info": "[18时17分 ~ 21时32分]"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "亚马逊重磅发布挑战谷歌英伟达：AI芯片Trainium 3更快更节能，四款Nova 2模型，首创“开放式训练”",
@@ -1217,6 +1240,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时38分 ~ 04时32分]"
+        },
+        {
+          "title": "欧盟就谷歌广告技术反垄断合规提案征求行业意见",
+          "url": "https://flash.jin10.com/detail/20251204204409573800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时32分"
         }
       ]
     },
@@ -1248,7 +1282,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时30分"
         }
