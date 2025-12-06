@@ -1,12 +1,23 @@
 {
-  "generated_at": "2025-12-06T13:14:14.692868+08:00",
-  "total_titles_processed": 928,
+  "generated_at": "2025-12-06T14:20:09.961623+08:00",
+  "total_titles_processed": 991,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
       "match_count": 38,
       "titles": [
+        {
+          "title": "特朗普警告高市早苗别插手台海",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%AD%A6%E5%91%8A%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E5%88%AB%E6%8F%92%E6%89%8B%E5%8F%B0%E6%B5%B7%23&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时13分 ~ 14时20分]"
+        },
         {
           "title": "印媒发莫迪普京动画片 还恶搞特朗普",
           "url": "https://www.baidu.com/s?wd=%E5%8D%B0%E5%AA%92%E5%8F%91%E8%8E%AB%E8%BF%AA%E6%99%AE%E4%BA%AC%E5%8A%A8%E7%94%BB%E7%89%87+%E8%BF%98%E6%81%B6%E6%90%9E%E7%89%B9%E6%9C%97%E6%99%AE",
@@ -23,6 +34,19 @@
           "time_info": "[00时18分 ~ 09时01分]"
         },
         {
+          "title": "特朗普世界杯抽签搞抽象",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%96%E7%95%8C%E6%9D%AF%E6%8A%BD%E7%AD%BE%E6%90%9E%E6%8A%BD%E8%B1%A1",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4,
+            29,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时42分 ~ 14时20分]"
+        },
+        {
           "title": "特朗普在世界杯抽签仪式上称赞与墨西哥和加拿大的合作",
           "url": "https://flash.jin10.com/detail/20251206022018049800",
           "source": "金十数据",
@@ -33,40 +57,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[03时12分 ~ 07时14分]"
-        },
-        {
-          "title": "特朗普世界杯抽签搞抽象",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%96%E7%95%8C%E6%9D%AF%E6%8A%BD%E7%AD%BE%E6%90%9E%E6%8A%BD%E8%B1%A1",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时42分 ~ 13时14分]"
-        },
-        {
-          "title": "特朗普警告高市早苗别插手台海",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%AD%A6%E5%91%8A%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E5%88%AB%E6%8F%92%E6%89%8B%E5%8F%B0%E6%B5%B7%23&t=31&band_rank=1&Refer=top",
-          "source": "微博",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时13分 ~ 13时14分]"
-        },
-        {
-          "title": "特朗普获国际足联和平奖，给自己戴上奖牌",
-          "url": "https://flash.jin10.com/detail/20251206125008162800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时14分"
         },
         {
           "title": "日媒：特朗普与高市通话措辞非常严厉",
@@ -80,17 +70,6 @@
           "time_info": "11时40分"
         },
         {
-          "title": "特朗普签署法律，撤销阿拉斯加国家石油储备区钻探限制",
-          "url": "https://wallstreetcn.com/livenews/3016225",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时14分"
-        },
-        {
           "title": "美国最高法院同意审理关于美国总统特朗普是否有权终止出生公民权的案件。",
           "url": "https://flash.jin10.com/detail/20251206033944574800",
           "source": "金十数据",
@@ -101,6 +80,20 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[04时16分 ~ 09时01分]"
+        },
+        {
+          "title": "特朗普首次会见辛鲍姆 探讨美加墨世界杯及关税问题",
+          "url": "https://flash.jin10.com/detail/20251206105234128800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            7,
+            13,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时40分 ~ 14时20分]"
         },
         {
           "title": "加拿大总理办公室：美国总统特朗普、加拿大总理和墨西哥总统正在会面。",
@@ -127,6 +120,30 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时18分 ~ 05时13分]"
+        },
+        {
+          "title": "特朗普获国际足联和平奖，给自己戴上奖牌",
+          "url": "https://flash.jin10.com/detail/20251206125008162800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时14分 ~ 14时20分]"
+        },
+        {
+          "title": "特朗普签署法律，撤销阿拉斯加国家石油储备区钻探限制",
+          "url": "https://wallstreetcn.com/livenews/3016225",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时14分 ~ 14时20分]"
         },
         {
           "title": "加拿大总理办公室：总理卡尼、美国总统特朗普、墨西哥总统辛鲍姆（在华盛顿）会晤。",
@@ -166,19 +183,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时01分 ~ 11时40分]"
-        },
-        {
-          "title": "特朗普首次会见辛鲍姆 探讨美加墨世界杯及关税问题",
-          "url": "https://flash.jin10.com/detail/20251206105234128800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            7,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时40分 ~ 13时14分]"
         },
         {
           "title": "美国总统特朗普：已安排活动结束后（与加拿大和墨西哥方面）会面，将讨论贸易问题。",
@@ -268,6 +272,34 @@
           "time_info": "[07时14分 ~ 09时01分]"
         },
         {
+          "title": "特朗普提议给美式橄榄球改名",
+          "url": "https://wallstreetcn.com/livenews/3016211",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            12,
+            16,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时40分 ~ 14时20分]"
+        },
+        {
+          "title": "特朗普首次会见辛鲍姆 探讨美加墨世界杯及关税问题",
+          "url": "https://wallstreetcn.com/livenews/3016210",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            13,
+            17,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时40分 ~ 14时20分]"
+        },
+        {
           "title": "美国总统特朗普：正在与加拿大和墨西哥合作。",
           "url": "https://flash.jin10.com/detail/20251206004830012800",
           "source": "金十数据",
@@ -333,19 +365,6 @@
           "time_info": "[02时18分 ~ 04时16分]"
         },
         {
-          "title": "特朗普提议给美式橄榄球改名",
-          "url": "https://wallstreetcn.com/livenews/3016211",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            12,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时40分 ~ 13时14分]"
-        },
-        {
           "title": "美国总统特朗普表示，他可能会在国际足联会议上与墨西哥总统会面。",
           "url": "https://flash.jin10.com/detail/20251206003419043800",
           "source": "金十数据",
@@ -357,19 +376,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时14分 ~ 03时12分]"
-        },
-        {
-          "title": "特朗普首次会见辛鲍姆 探讨美加墨世界杯及关税问题",
-          "url": "https://wallstreetcn.com/livenews/3016210",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            13,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时40分 ~ 13时14分]"
         },
         {
           "title": "Anthropic的高管Amodei周四会见了美国总统特朗普的政府官员们，并会见了国会参议院的跨党派团体。",
@@ -494,8 +500,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时00分 ~ 13时14分]"
+          "appearance_count": 9,
+          "time_info": "[09时00分 ~ 14时20分]"
         },
         {
           "title": "大空头Burry警告美股将重演“2000年”熊市：资本开支逼近顶峰，两年足够AI泡沫破灭！",
@@ -508,8 +514,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时00分 ~ 13时14分]"
+          "appearance_count": 9,
+          "time_info": "[09时00分 ~ 14时20分]"
         },
         {
           "title": "美股收盘：标普四连涨距新高咫尺之遥 中概明星股普涨",
@@ -521,8 +527,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时00分 ~ 13时14分]"
+          "appearance_count": 9,
+          "time_info": "[09时00分 ~ 14时20分]"
         },
         {
           "title": "（美股）费城金银指数收跌0.26%，报318.46点，本周累计下跌1.89%。 （全球时段）纽约证交所ARCA金矿开采商指数收涨0.02%，报2284.96点，美股开盘之前持续微幅上涨，随后出现尖锐的冲高回落行情——北京时间23:00披露美国PCE通胀数据之后刷新日高，本周累计下跌1.41%。",
@@ -651,6 +657,18 @@
           "time_info": "[04时16分 ~ 09时01分]"
         },
         {
+          "title": "OpenAI 暂停广告业务，全力「死磕」谷歌 Gemini，这一战略调整将如何影响 AI 行业格局？",
+          "url": "https://www.zhihu.com/question/1979223676378447995",
+          "source": "知乎",
+          "ranks": [
+            20,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时40分 ~ 14时20分]"
+        },
+        {
           "title": "美国国土安全委员会：正在调查谷歌可能托管的部分应用程序，这些程序可让用户匿名举报并追踪联邦执法部门的动向。担忧部分由谷歌托管的应用程序危及国土安全部人员的安全。",
           "url": "https://flash.jin10.com/detail/20251206034235677800",
           "source": "金十数据",
@@ -673,18 +691,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时14分 ~ 09时01分]"
-        },
-        {
-          "title": "OpenAI 暂停广告业务，全力「死磕」谷歌 Gemini，这一战略调整将如何影响 AI 行业格局？",
-          "url": "https://www.zhihu.com/question/1979223676378447995",
-          "source": "知乎",
-          "ranks": [
-            20,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时40分 ~ 13时14分]"
         },
         {
           "title": "美国法官发布最终的搜索反垄断官司判决结果：谷歌公司必须将默认合同限定在一年。",
@@ -782,20 +788,6 @@
       "match_count": 4,
       "titles": [
         {
-          "title": "ChatGPT产品负责人回应广告传闻",
-          "url": "https://flash.jin10.com/detail/20251206101132584800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            12,
-            14,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时42分 ~ 13时14分]"
-        },
-        {
           "title": "SpaceX估值超越OpenAI，或翻倍至8000亿美元，计划明年下半年上市",
           "url": "https://wallstreetcn.com/articles/3760830",
           "source": "华尔街见闻",
@@ -804,8 +796,23 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时40分 ~ 13时14分]"
+          "appearance_count": 6,
+          "time_info": "[11时40分 ~ 14时20分]"
+        },
+        {
+          "title": "ChatGPT产品负责人回应广告传闻",
+          "url": "https://flash.jin10.com/detail/20251206101132584800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            12,
+            14,
+            20,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时42分 ~ 14时20分]"
         },
         {
           "title": "OpenAI最快将于下周发布GPT-5.2",
