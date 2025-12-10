@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-10T09:36:36.346728+08:00",
-  "total_titles_processed": 866,
+  "generated_at": "2025-12-10T11:18:25.556592+08:00",
+  "total_titles_processed": 1010,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 44,
+      "match_count": 45,
       "titles": [
         {
           "title": "胡锡进：特朗普对H200放行，显然受到了两大压力",
@@ -41,8 +41,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时53分 ~ 09时36分]"
+          "appearance_count": 13,
+          "time_info": "[00时53分 ~ 11时18分]"
         },
         {
           "title": "环球网：特朗普宣布允许英伟达向中国出售H200芯片",
@@ -98,6 +98,17 @@
           "time_info": "[02时19分 ~ 09时36分]"
         },
         {
+          "title": "特朗普现在很焦虑",
+          "url": "https://news.ifeng.com/c/8oxjmaqLgB3",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时36分 ~ 11时18分]"
+        },
+        {
           "title": "采访中特朗普突然发飙怒斥记者",
           "url": "https://www.baidu.com/s?wd=%E9%87%87%E8%AE%BF%E4%B8%AD%E7%89%B9%E6%9C%97%E6%99%AE%E7%AA%81%E7%84%B6%E5%8F%91%E9%A3%99%E6%80%92%E6%96%A5%E8%AE%B0%E8%80%85",
           "source": "百度热搜",
@@ -125,17 +136,6 @@
           "time_info": "[00时53分 ~ 03时12分]"
         },
         {
-          "title": "特朗普现在很焦虑",
-          "url": "https://news.ifeng.com/c/8oxjmaqLgB3",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时36分"
-        },
-        {
           "title": "欧盟重罚X平台遭特朗普抨击",
           "url": "https://www.douyin.com/hot/2331490",
           "source": "抖音",
@@ -160,13 +160,24 @@
           "time_info": "07时15分"
         },
         {
+          "title": "美国就业数据呈现矛盾信号，特朗普称“立即降息”是美联储主席人选硬指标，支撑美联储降息预期。美联储利率决议今晚重磅来袭，黄金多空争夺激烈，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅",
+          "url": "https://flash.jin10.com/detail/20251210104414511800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时18分"
+        },
+        {
           "title": "特朗普：泽连斯基要开始接受现实了",
           "url": "https://www.toutiao.com/trending/7581295755181424686/",
           "source": "今日头条",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时36分"
         },
@@ -328,7 +339,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时36分"
         },
@@ -350,7 +361,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时36分"
         },
@@ -383,7 +394,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时36分"
         },
@@ -416,7 +427,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时36分"
         },
@@ -438,7 +449,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时36分"
         },
@@ -460,7 +471,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时36分"
         },
@@ -482,7 +493,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时36分"
         },
@@ -493,7 +504,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时36分"
         },
@@ -515,7 +526,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时36分"
         }
@@ -549,6 +560,19 @@
           "time_info": "[00时53分 ~ 09时36分]"
         },
         {
+          "title": "美股收盘：三大股指涨跌不一 摩根大通成本预警施压大盘",
+          "url": "https://www.cls.cn/detail/2224722",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时14分 ~ 11时18分]"
+        },
+        {
           "title": "金十图示：2025年12月09日（周二）热门中概股行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20251210050514464800",
           "source": "金十数据",
@@ -558,18 +582,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时13分"
-        },
-        {
-          "title": "美股收盘：三大股指涨跌不一 摩根大通成本预警施压大盘",
-          "url": "https://www.cls.cn/detail/2224722",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时14分 ~ 09时36分]"
         },
         {
           "title": "美股费城银行指数转跌，此前一度上涨1.4%。",
@@ -804,6 +816,17 @@
           "time_info": "[03时12分 ~ 05时13分]"
         },
         {
+          "title": "Gemini 3赢了下载却输了习惯？ChatGPT仍垄断90%移动端会话，日均打开超8次",
+          "url": "https://wallstreetcn.com/articles/3760995",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时36分 ~ 11时18分]"
+        },
+        {
           "title": "OpenAI：与Anthropic和Block共同在Linux基金会下创立AAIF，并获得谷歌、微软、AWS、彭博和Cloudflare的支持。",
           "url": "https://flash.jin10.com/detail/20251210010957028800",
           "source": "金十数据",
@@ -813,17 +836,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时50分"
-        },
-        {
-          "title": "Gemini 3赢了下载却输了习惯？ChatGPT仍垄断90%移动端会话，日均打开超8次",
-          "url": "https://wallstreetcn.com/articles/3760995",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时36分"
         },
         {
           "title": "谷歌云：推出由Gemini驱动的编码智能体AlphaEvolve，可用于设计高级算法，现已开启私密预览。",
@@ -871,9 +883,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时36分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时36分 ~ 11时18分]"
         },
         {
           "title": "美债价格在美国职位空缺数据发布后显著下挫",
