@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-11T09:06:10.859638+08:00",
-  "total_titles_processed": 876,
+  "generated_at": "2025-12-11T11:20:27.400531+08:00",
+  "total_titles_processed": 1022,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "凤凰网",
           "ranks": [
             1,
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[04时16分 ~ 09时06分]"
+          "appearance_count": 9,
+          "time_info": "[04时16分 ~ 11时20分]"
         },
         {
           "title": "洪都拉斯现任总统：由于特朗普“干预选举”，此次大选“无效”",
@@ -93,11 +94,36 @@
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%9B%9E%E5%BA%94%E7%BE%8E%E8%81%94%E5%82%A8%E9%99%8D%E6%81%AF%EF%BC%9A%E5%B9%85%E5%BA%A6%E5%A4%AA%E5%B0%8F",
           "source": "百度热搜",
           "ranks": [
-            7
+            7,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时05分 ~ 09时06分]"
+          "appearance_count": 3,
+          "time_info": "[09时05分 ~ 11时20分]"
+        },
+        {
+          "title": "特朗普炮轰美联储决议：降息幅度太小，本应至少翻倍！",
+          "url": "https://www.cls.cn/detail/2225986",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时05分 ~ 11时20分]"
+        },
+        {
+          "title": "“特朗普黄金卡”开始接受申请",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E7%89%B9%E6%9C%97%E6%99%AE%E9%BB%84%E9%87%91%E5%8D%A1%E2%80%9D%E5%BC%80%E5%A7%8B%E6%8E%A5%E5%8F%97%E7%94%B3%E8%AF%B7",
+          "source": "百度热搜",
+          "ranks": [
+            14,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时05分 ~ 11时20分]"
         },
         {
           "title": "特朗普向哥伦比亚总统发出威胁：“他将是下一个”",
@@ -124,33 +150,11 @@
           "time_info": "[05时16分 ~ 06时15分]"
         },
         {
-          "title": "特朗普炮轰美联储决议：降息幅度太小，本应至少翻倍！",
-          "url": "https://www.cls.cn/detail/2225986",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时05分 ~ 09时06分]"
-        },
-        {
           "title": "高市早苗求见特朗普",
           "url": "https://www.toutiao.com/trending/7581648109390921774/",
           "source": "今日头条",
           "ranks": [
             13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时05分 ~ 09时06分]"
-        },
-        {
-          "title": "“特朗普黄金卡”开始接受申请",
-          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E7%89%B9%E6%9C%97%E6%99%AE%E9%BB%84%E9%87%91%E5%8D%A1%E2%80%9D%E5%BC%80%E5%A7%8B%E6%8E%A5%E5%8F%97%E7%94%B3%E8%AF%B7",
-          "source": "百度热搜",
-          "ranks": [
-            14
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -372,7 +376,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时06分"
         },
@@ -512,7 +516,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 15,
+      "match_count": 18,
       "titles": [
         {
           "title": "决议前夕美股期指窄幅震荡 华尔街等待鲍威尔亮出底牌 | 今夜看点",
@@ -534,8 +538,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时05分 ~ 09时06分]"
+          "appearance_count": 3,
+          "time_info": "[09时05分 ~ 11时20分]"
         },
         {
           "title": "美股收盘：标普500逼近历史新高 市场对未来更多宽松寄予希望",
@@ -546,8 +550,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时12分 ~ 09时06分]"
+          "appearance_count": 4,
+          "time_info": "[07时12分 ~ 11时20分]"
+        },
+        {
+          "title": "美股期货跌幅扩大，标普500指数期货跌1%，纳指期货跌1.5%。",
+          "url": "https://wallstreetcn.com/livenews/3018895",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时20分"
         },
         {
           "title": "金十图示：2025年12月10日（周三）美股热门股票行情一览（美股盘中）",
@@ -643,6 +658,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时13分"
+        },
+        {
+          "title": "美股三大股指期货跌幅扩大，纳斯达克100指数期货跌1%，标普500指数期货跌0.59%，道指期货跌0.17%。",
+          "url": "https://flash.jin10.com/detail/20251211105349305800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时20分"
+        },
+        {
+          "title": "纳斯达克100指数期货跌1%，此前甲骨文美股盘后发布财报，股价大跌。",
+          "url": "https://wallstreetcn.com/livenews/3018880",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时20分"
         },
         {
           "title": "区域银行ETF收涨超3.4%，在美联储降息日领跑美股行业ETF",
@@ -784,7 +821,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时06分"
         },
@@ -795,7 +832,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时06分"
         },
@@ -831,6 +868,58 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时52分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "市场反应：美联储决议声明发布后，美债、金价走高，道指涨幅扩大",
+          "url": "https://wallstreetcn.com/livenews/3018598",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时13分 ~ 04时17分]"
+        },
+        {
+          "title": "金价在美联储利率决议前回落 银价徘徊于高位附近",
+          "url": "https://flash.jin10.com/detail/20251211011833674800",
+          "source": "金十数据",
+          "ranks": [
+            14,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时52分 ~ 02时33分]"
+        },
+        {
+          "title": "金十图示：2025年12月11日（周四）上海金早盘价为957.9元/克，较国际金价(960.44元/克)，低2.54元/克",
+          "url": "https://flash.jin10.com/detail/20251211101756207800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时20分"
+        },
+        {
+          "title": "金价",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时20分"
         }
       ]
     },
@@ -886,6 +975,46 @@
       ]
     },
     {
+      "keyword_group": "伊朗",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "黎巴嫩外长：暂时无法接受邀请访问伊朗",
+          "url": "https://wallstreetcn.com/livenews/3018897",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时20分"
+        },
+        {
+          "title": "伊朗驻俄罗斯大使表示，伊朗总统将在土库曼斯坦会见俄罗斯总统普京。",
+          "url": "https://flash.jin10.com/detail/20251211020149364800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时33分"
+        },
+        {
+          "title": "美国司法部长邦迪：美国已执行了一项扣押令，扣押一艘用于运输委内瑞拉和伊朗受制裁原油的油轮。",
+          "url": "https://flash.jin10.com/detail/20251211060423048800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时15分 ~ 07时12分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "chatgpt openai",
       "match_count": 2,
       "titles": [
@@ -914,36 +1043,6 @@
       ]
     },
     {
-      "keyword_group": "金价",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "市场反应：美联储决议声明发布后，美债、金价走高，道指涨幅扩大",
-          "url": "https://wallstreetcn.com/livenews/3018598",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时13分 ~ 04时17分]"
-        },
-        {
-          "title": "金价在美联储利率决议前回落 银价徘徊于高位附近",
-          "url": "https://flash.jin10.com/detail/20251211011833674800",
-          "source": "金十数据",
-          "ranks": [
-            14,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时52分 ~ 02时33分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "美元",
       "match_count": 2,
       "titles": [
@@ -968,35 +1067,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时52分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "伊朗",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "伊朗驻俄罗斯大使表示，伊朗总统将在土库曼斯坦会见俄罗斯总统普京。",
-          "url": "https://flash.jin10.com/detail/20251211020149364800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时33分"
-        },
-        {
-          "title": "美国司法部长邦迪：美国已执行了一项扣押令，扣押一艘用于运输委内瑞拉和伊朗受制裁原油的油轮。",
-          "url": "https://flash.jin10.com/detail/20251211060423048800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时15分 ~ 07时12分]"
         }
       ]
     }
