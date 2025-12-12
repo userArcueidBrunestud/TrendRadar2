@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-12T18:16:25.344352+08:00",
-  "total_titles_processed": 1704,
+  "generated_at": "2025-12-12T19:14:57.763059+08:00",
+  "total_titles_processed": 1796,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 66,
+      "match_count": 67,
       "titles": [
         {
           "title": "美英法德领导人就乌克兰问题通话，特朗普：言辞相当激烈",
@@ -41,8 +41,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时18分 ~ 18时16分]"
+          "appearance_count": 10,
+          "time_info": "[11时18分 ~ 19时14分]"
         },
         {
           "title": "盘点｜从研究机构到艺术中心，这是特朗普的“冠名全家桶”",
@@ -66,11 +66,12 @@
             5,
             6,
             8,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时16分 ~ 18时16分]"
+          "appearance_count": 7,
+          "time_info": "[13时16分 ~ 19时14分]"
         },
         {
           "title": "特朗普黄金卡签证开始接受申请，个人从 500 万美元降至 100 万美元可换美国居留权，如何看待此事？",
@@ -129,6 +130,18 @@
           "time_info": "[05时16分 ~ 06时15分]"
         },
         {
+          "title": "C5替换G7？梅德韦杰夫：特朗普公然羞辱欧洲",
+          "url": "https://news.ifeng.com/c/8p1L6GS7kXE",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时21分 ~ 19时14分]"
+        },
+        {
           "title": "据AXIOS网站：特朗普政府计划任命一名美国少将指挥驻加沙国际稳定部队（ISF）。",
           "url": "https://flash.jin10.com/detail/20251212040044595800",
           "source": "金十数据",
@@ -178,6 +191,18 @@
           "time_info": "[04时17分 ~ 05时16分]"
         },
         {
+          "title": "胡锡进：即使特朗普正式提出C5，中国会否加入也是值得怀疑的",
+          "url": "https://news.ifeng.com/c/8p1ctCRfRRQ",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时21分 ~ 19时14分]"
+        },
+        {
           "title": "特朗普政府据悉计划加大企业减税力度",
           "url": "https://flash.jin10.com/detail/20251212035256895800",
           "source": "金十数据",
@@ -214,18 +239,6 @@
           "time_info": "[13时16分 ~ 14时23分]"
         },
         {
-          "title": "C5替换G7？梅德韦杰夫：特朗普公然羞辱欧洲",
-          "url": "https://news.ifeng.com/c/8p1L6GS7kXE",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时21分 ~ 18时16分]"
-        },
-        {
           "title": "加州州长再批特朗普：最具破坏性总统",
           "url": "https://news.ifeng.com/c/8p18mDHMrQq",
           "source": "凤凰网",
@@ -235,18 +248,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时18分 ~ 12时30分]"
-        },
-        {
-          "title": "胡锡进：即使特朗普正式提出C5，中国会否加入也是值得怀疑的",
-          "url": "https://news.ifeng.com/c/8p1ctCRfRRQ",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时21分 ~ 18时16分]"
         },
         {
           "title": "美众议院有关弹劾总统特朗普的动议经表决后被搁置",
@@ -273,6 +274,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时17分 ~ 06时15分]"
+        },
+        {
+          "title": "面对特朗普施压 泽连斯基最新表态：领土问题应由乌人民决定",
+          "url": "https://www.cls.cn/detail/2227581",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时19分 ~ 19时14分]"
         },
         {
           "title": "泰国总理给特朗普“泼冷水”",
@@ -347,18 +360,6 @@
           "time_info": "[03时15分 ~ 04时17分]"
         },
         {
-          "title": "面对特朗普施压 泽连斯基最新表态：领土问题应由乌人民决定",
-          "url": "https://www.cls.cn/detail/2227581",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时19分 ~ 18时16分]"
-        },
-        {
           "title": "据熟悉竞标过程的消息人士透露，派拉蒙在竞标华纳兄弟探索频道的过程中不得不做出一个关键改变——明确承诺其外国合作伙伴和特朗普的女婿库什纳的基金将没有任何投票权或管理权。",
           "url": "https://flash.jin10.com/detail/20251212045820378800",
           "source": "金十数据",
@@ -428,6 +429,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时29分 ~ 12时30分]"
+        },
+        {
+          "title": "火速任命地方联储主席，特朗普不能随心所欲了？丨Hi，今天怎么看？",
+          "url": "https://flash.jin10.com/detail/20251212184015295800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时14分"
         },
         {
           "title": "白宫：特朗普跟中日都能搞好关系",
@@ -797,8 +809,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时29分 ~ 18时16分]"
+          "appearance_count": 9,
+          "time_info": "[12时29分 ~ 19时14分]"
         },
         {
           "title": "美联储重新任命11位地区联储主席 OpenAI发布更先进模型GPT-5.2 | 环球市场",
@@ -1254,7 +1266,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "OpenAI发布GPT-5.2迎战Gemini，号称智能体编码最强，赶超人类专家，Altman料1月解除红色警报",
@@ -1267,8 +1279,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时18分 ~ 18时16分]"
+          "appearance_count": 10,
+          "time_info": "[11时18分 ~ 19时14分]"
         },
         {
           "title": "TD Cowen：将谷歌母公司Alphabet目标股价从335美元上调至350美元。",
@@ -1277,7 +1289,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时16分"
         },
@@ -1383,6 +1395,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时15分"
+        },
+        {
+          "title": "UP主解读OpenAI和谷歌的AI大战",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%A7%A3%E8%AF%BBOpenAI%E5%92%8C%E8%B0%B7%E6%AD%8C%E7%9A%84AI%E5%A4%A7%E6%88%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时14分"
         },
         {
           "title": "消息人士：谷歌(GOOG.O)为遵守具有里程碑意义的欧盟新规所做的努力仍显不足，其明年将因偏袒自家服务而面临欧盟罚款。",
@@ -1528,6 +1551,46 @@
       ]
     },
     {
+      "keyword_group": "伊朗",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "伊朗外交部谴责美国违背联合国东道国义务",
+          "url": "https://flash.jin10.com/detail/20251212141346689800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时23分 ~ 15时18分]"
+        },
+        {
+          "title": "俄罗斯与伊朗两国总统举行会谈 讨论伊核问题等议题",
+          "url": "https://wallstreetcn.com/livenews/3019890",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时14分"
+        },
+        {
+          "title": "消息人士：美国正准备扣押更多运输委内瑞拉石油的船只，美国的行动将针对可能运输过其他受制裁原油（如伊朗原油）的油轮。",
+          "url": "https://flash.jin10.com/detail/20251212023459470800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时15分"
+        }
+      ]
+    },
+    {
       "keyword_group": "金价",
       "match_count": 2,
       "titles": [
@@ -1552,35 +1615,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时18分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "伊朗",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "伊朗外交部谴责美国违背联合国东道国义务",
-          "url": "https://flash.jin10.com/detail/20251212141346689800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时23分 ~ 15时18分]"
-        },
-        {
-          "title": "消息人士：美国正准备扣押更多运输委内瑞拉石油的船只，美国的行动将针对可能运输过其他受制裁原油（如伊朗原油）的油轮。",
-          "url": "https://flash.jin10.com/detail/20251212023459470800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时15分"
         }
       ]
     }
