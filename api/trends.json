@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-12T11:18:45.877622+08:00",
-  "total_titles_processed": 1023,
+  "generated_at": "2025-12-12T12:30:26.339829+08:00",
+  "total_titles_processed": 1139,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 54,
+      "match_count": 57,
       "titles": [
         {
           "title": "美英法德领导人就乌克兰问题通话，特朗普：言辞相当激烈",
@@ -32,6 +32,17 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时21分 ~ 07时14分]"
+        },
+        {
+          "title": "白宫：特朗普对俄乌都很失望",
+          "url": "https://news.ifeng.com/c/8p1LpVJOOIe",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时29分 ~ 12时30分]"
         },
         {
           "title": "特朗普黄金卡签证开始接受申请，个人从 500 万美元降至 100 万美元可换美国居留权，如何看待此事？",
@@ -141,6 +152,17 @@
           "time_info": "[03时15分 ~ 04时17分]"
         },
         {
+          "title": "加州州长再批特朗普：最具破坏性总统",
+          "url": "https://news.ifeng.com/c/8p18mDHMrQq",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时18分 ~ 12时30分]"
+        },
+        {
           "title": "美众议院有关弹劾总统特朗普的动议经表决后被搁置",
           "url": "https://wallstreetcn.com/livenews/3019392",
           "source": "华尔街见闻-快讯",
@@ -165,6 +187,28 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时17分 ~ 06时15分]"
+        },
+        {
+          "title": "高市早苗在日本众院预算委员会会议上示意，希望尽早与特朗普会面，此举释放了什么信号？",
+          "url": "https://www.zhihu.com/question/1982382027627073644",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时18分 ~ 12时30分]"
+        },
+        {
+          "title": "特朗普破大妨：美国AI电力遥遥领先，都归功于我",
+          "url": "https://news.ifeng.com/c/8p1EpDusf8A",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时18分 ~ 12时30分]"
         },
         {
           "title": "泰国总理给特朗普“泼冷水”",
@@ -299,15 +343,15 @@
           "time_info": "[03时15分 ~ 04时17分]"
         },
         {
-          "title": "加州州长再批特朗普：最具破坏性总统",
-          "url": "https://news.ifeng.com/c/8p18mDHMrQq",
-          "source": "凤凰网",
+          "title": "特朗普称美对委行动很快将延伸至陆地",
+          "url": "https://www.toutiao.com/trending/7582515717653315611/",
+          "source": "今日头条",
           "ranks": [
-            7
+            25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时18分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时29分 ~ 12时30分]"
         },
         {
           "title": "特朗普政府在加州边境建立新的军事化区域",
@@ -363,28 +407,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时17分"
-        },
-        {
-          "title": "高市早苗在日本众院预算委员会会议上示意，希望尽早与特朗普会面，此举释放了什么信号？",
-          "url": "https://www.zhihu.com/question/1982382027627073644",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时18分"
-        },
-        {
-          "title": "特朗普破大妨：美国AI电力遥遥领先，都归功于我",
-          "url": "https://news.ifeng.com/c/8p1EpDusf8A",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时18分"
         },
         {
           "title": "特朗普称美对委行动“很快将从海上延伸至陆地”",
@@ -459,7 +481,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时18分"
         },
@@ -563,6 +585,17 @@
           "time_info": "09时06分"
         },
         {
+          "title": "泰国总理：与美国总统特朗普的通话定于泰国时间晚上9:20（北京时间22:20）举行。",
+          "url": "https://flash.jin10.com/detail/20251212111451238800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时30分"
+        },
+        {
           "title": "特朗普称赞股市再创新高",
           "url": "https://flash.jin10.com/detail/20251211234650410800",
           "source": "金十数据",
@@ -632,8 +665,20 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 22,
+      "match_count": 23,
       "titles": [
+        {
+          "title": "GPT-5.2来了！OpenAI称其为“最强专业知识工作大模型”",
+          "url": "https://www.cls.cn/detail/2227243",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时05分 ~ 12时30分]"
+        },
         {
           "title": "博通：公司并不预计OpenAI会在2026年带来太多的营收。",
           "url": "https://wallstreetcn.com/livenews/3019450",
@@ -646,16 +691,16 @@
           "time_info": "07时14分"
         },
         {
-          "title": "GPT-5.2来了！OpenAI称其为“最强专业知识工作大模型”",
-          "url": "https://www.cls.cn/detail/2227243",
+          "title": "美联储重新任命11位地区联储主席 OpenAI发布更先进模型GPT-5.2 | 环球市场",
+          "url": "https://www.cls.cn/detail/2227268",
           "source": "财联社热门",
           "ranks": [
-            7,
-            4
+            13,
+            12
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[09时05分 ~ 11时18分]"
+          "time_info": "[11时18分 ~ 12时30分]"
         },
         {
           "title": "GPT-5.2来了！OpenAI最新发布",
@@ -718,13 +763,24 @@
           "time_info": "[00时21分 ~ 01时21分]"
         },
         {
+          "title": "ChatGPT5.2有哪些新升级",
+          "url": "https://search.bilibili.com/all?keyword=ChatGPT5.2%E6%9C%89%E5%93%AA%E4%BA%9B%E6%96%B0%E5%8D%87%E7%BA%A7",
+          "source": "bilibili 热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时29分 ~ 12时30分]"
+        },
+        {
           "title": "全面解析ChatGPT5.2",
           "url": "https://search.bilibili.com/all?keyword=%E5%85%A8%E9%9D%A2%E8%A7%A3%E6%9E%90ChatGPT5.2",
           "source": "bilibili 热搜",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时18分"
         },
@@ -746,7 +802,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时18分"
         },
@@ -793,17 +849,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时17分"
-        },
-        {
-          "title": "美联储重新任命11位地区联储主席 OpenAI发布更先进模型GPT-5.2 | 环球市场",
-          "url": "https://www.cls.cn/detail/2227268",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时18分"
         },
         {
           "title": "OpenAI：预计未来几周将发布针对CodeX优化的GPT-5.2版本。",
@@ -909,8 +954,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时14分 ~ 11时18分]"
+          "appearance_count": 6,
+          "time_info": "[07时14分 ~ 12时30分]"
         },
         {
           "title": "博通第四财季调整后净营收180.2亿美元，分析师预期174.7亿美元。 第四财季半导体解决方案营收110.7亿美元，分析师预期107.4亿美元。 第一财季营收大约191亿美元，分析师预期184.8亿美元。 预计AI半导体营收将同比翻倍，至82亿美元。 股息季环比提高10%，至每股0.65美元。 博通股价（AVGO）美股盘后涨4%。",
@@ -1137,6 +1182,17 @@
           "time_info": "[00时21分 ~ 01时21分]"
         },
         {
+          "title": "OpenAI发布GPT-5.2迎战Gemini，号称智能体编码最强，赶超人类专家，Altman料1月解除红色警报",
+          "url": "https://wallstreetcn.com/articles/3761213",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时18分 ~ 12时30分]"
+        },
+        {
           "title": "谷歌母公司Alphabet跌幅扩大至3.5%。 微软涨1.2%，刷新日高。",
           "url": "https://wallstreetcn.com/livenews/3019371",
           "source": "华尔街见闻-快讯",
@@ -1169,17 +1225,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时16分"
-        },
-        {
-          "title": "OpenAI发布GPT-5.2迎战Gemini，号称智能体编码最强，赶超人类专家，Altman料1月解除红色警报",
-          "url": "https://wallstreetcn.com/articles/3761213",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时18分"
         },
         {
           "title": "谷歌(GOOG.O)：发布更强大的Gemini深度研究代理，可通过交互API获得并使用。",
@@ -1357,7 +1402,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时18分"
         }
