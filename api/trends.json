@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-13T13:14:56.181750+08:00",
-  "total_titles_processed": 971,
+  "generated_at": "2025-12-13T14:21:04.786733+08:00",
+  "total_titles_processed": 1012,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 40,
+      "match_count": 42,
       "titles": [
         {
           "title": "泽连斯基：特朗普让我们撤离乌东，他要建“自由经济区”",
@@ -40,8 +40,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时17分 ~ 13时14分]"
+          "appearance_count": 16,
+          "time_info": "[00时17分 ~ 14时21分]"
         },
         {
           "title": "特朗普称泰柬已同意停火，泰方否认",
@@ -52,8 +52,22 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时11分 ~ 13时14分]"
+          "appearance_count": 5,
+          "time_info": "[11时11分 ~ 14时21分]"
+        },
+        {
+          "title": "白宫：特朗普对俄乌都很失望",
+          "url": "https://www.douyin.com/hot/2334474",
+          "source": "抖音",
+          "ranks": [
+            19,
+            16,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时11分 ~ 14时21分]"
         },
         {
           "title": "特朗普称泰柬同意全面停火",
@@ -68,29 +82,31 @@
           "time_info": "[07时14分 ~ 09时01分]"
         },
         {
-          "title": "美国文物保护组织就白宫宴会厅项目起诉特朗普",
-          "url": "https://flash.jin10.com/detail/20251213111612295800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时20分 ~ 13时14分]"
-        },
-        {
           "title": "法院文件显示，加利福尼亚州起诉特朗普政府，因其撤销超3300万美元联邦拨款，这些拨款原用于针对非美国居民的卡车司机英语能力要求规定。",
           "url": "https://flash.jin10.com/detail/20251213102355663800",
           "source": "金十数据",
           "ranks": [
             1,
             4,
+            8,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时11分 ~ 14时21分]"
+        },
+        {
+          "title": "美国文物保护组织就白宫宴会厅项目起诉特朗普",
+          "url": "https://flash.jin10.com/detail/20251213111612295800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            5,
             8
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[11时11分 ~ 13时14分]"
+          "time_info": "[12时20分 ~ 14时21分]"
         },
         {
           "title": "分析人士：特朗普的人工智能行政令可能无法阻止各州立法",
@@ -103,6 +119,31 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[05时13分 ~ 09时01分]"
+        },
+        {
+          "title": "特朗普说倾向选择沃什或哈西特接任美联储主席",
+          "url": "https://flash.jin10.com/detail/20251213131305142800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时21分"
+        },
+        {
+          "title": "特朗普称泰柬已同意停火 泰方否认",
+          "url": "https://flash.jin10.com/detail/20251213092752773800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            6,
+            10,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时11分 ~ 14时21分]"
         },
         {
           "title": "马来西亚总理Anwar：接到美国总统特朗普的电话。",
@@ -174,6 +215,32 @@
           "time_info": "[02时21分 ~ 05时13分]"
         },
         {
+          "title": "柬埔寨首相：已与美国总统特朗普和马来西亚领导人安瓦尔就停火问题进行了通话。柬埔寨坚持其立场，寻求和平解决争端。",
+          "url": "https://flash.jin10.com/detail/20251213092310404800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            8,
+            12,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时11分 ~ 14时21分]"
+        },
+        {
+          "title": "“鲍威尔继任者”逐渐明朗？特朗普：目前最青睐沃什，利率决议应与我商议！",
+          "url": "https://www.cls.cn/detail/2228592",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时11分 ~ 14时21分]"
+        },
+        {
           "title": "美国部分州宣布起诉特朗普H-1B签证申请费用问题",
           "url": "https://flash.jin10.com/detail/20251213022744229800",
           "source": "金十数据",
@@ -185,19 +252,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[03时13分 ~ 07时14分]"
-        },
-        {
-          "title": "特朗普称泰柬已同意停火 泰方否认",
-          "url": "https://flash.jin10.com/detail/20251213092752773800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            6,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时11分 ~ 13时14分]"
         },
         {
           "title": "美国总统特朗普：在俄罗斯与乌克兰问题上取得了许多“进展”。",
@@ -252,19 +306,6 @@
           "time_info": "[02时21分 ~ 04时16分]"
         },
         {
-          "title": "柬埔寨首相：已与美国总统特朗普和马来西亚领导人安瓦尔就停火问题进行了通话。柬埔寨坚持其立场，寻求和平解决争端。",
-          "url": "https://flash.jin10.com/detail/20251213092310404800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            8,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时11分 ~ 13时14分]"
-        },
-        {
           "title": "美国白宫人工智能（AI）事务主管David Sacks捍卫总特朗普关于AI的行政命令。（彭博电视）",
           "url": "https://wallstreetcn.com/livenews/3020086",
           "source": "华尔街见闻-快讯",
@@ -278,17 +319,15 @@
           "time_info": "[01时14分 ~ 03时13分]"
         },
         {
-          "title": "白宫：特朗普对俄乌都很失望",
-          "url": "https://www.douyin.com/hot/2334474",
-          "source": "抖音",
+          "title": "爱泼斯坦案新影像曝光，有特朗普照片",
+          "url": "https://news.ifeng.com/c/8p315VNzI20",
+          "source": "凤凰网",
           "ranks": [
-            19,
-            16,
-            4
+            6
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[11时11分 ~ 13时14分]"
+          "time_info": "[13时14分 ~ 14时21分]"
         },
         {
           "title": "美国多个州将起诉总统特朗普的10万美元H-1B签证申请费政策。",
@@ -315,18 +354,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时01分 ~ 12时20分]"
-        },
-        {
-          "title": "“鲍威尔继任者”逐渐明朗？特朗普：目前最青睐沃什，利率决议应与我商议！",
-          "url": "https://www.cls.cn/detail/2228592",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时11分 ~ 13时14分]"
         },
         {
           "title": "美国总统特朗普谈论所谓的“顿巴斯自由经济区”构想，称：现在还不想要这个。 这不会起作用。",
@@ -365,15 +392,15 @@
           "time_info": "[09时01分 ~ 11时11分]"
         },
         {
-          "title": "爱泼斯坦案新影像曝光，有特朗普照片",
-          "url": "https://news.ifeng.com/c/8p315VNzI20",
-          "source": "凤凰网",
+          "title": "特朗普回应与爱泼斯坦同框照片",
+          "url": "https://www.toutiao.com/trending/7582957093125636122/",
+          "source": "今日头条",
           "ranks": [
-            6
+            25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时14分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时20分 ~ 14时21分]"
         },
         {
           "title": "泰国总理：美国总统特朗普在通话中承诺，会达成“更好的”贸易协议。",
@@ -448,7 +475,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时14分"
         },
@@ -522,8 +549,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时14分 ~ 13时14分]"
+          "appearance_count": 7,
+          "time_info": "[07时14分 ~ 14时21分]"
         },
         {
           "title": "美股盘中跌幅扩大，纳指跌超1.5%，博通跌超10%，铜银续创新高，现货黄金重新站上4300美元",
@@ -659,6 +686,21 @@
           "time_info": "[00时17分 ~ 12时20分]"
         },
         {
+          "title": "AI交易再遭重挫！甲骨文据悉将部分OpenAI数据中心项目推迟至2028年",
+          "url": "https://www.cls.cn/detail/2228537",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9,
+            5,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[07时14分 ~ 14时21分]"
+        },
+        {
           "title": "甲骨文发言人声明：对OpenAI的（数据中心）“合同承诺”并没有推迟。 公司对承诺与项目扩建仍然有信心。",
           "url": "https://wallstreetcn.com/livenews/3020118",
           "source": "华尔街见闻-快讯",
@@ -685,20 +727,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[04时16分 ~ 09时01分]"
-        },
-        {
-          "title": "AI交易再遭重挫！甲骨文据悉将部分OpenAI数据中心项目推迟至2028年",
-          "url": "https://www.cls.cn/detail/2228537",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            9,
-            5,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时14分 ~ 13时14分]"
         },
         {
           "title": "甲骨文(ORCL.N)：在协议签署后，与OpenAI密切协调确定了选址及交付时间表，并达成一致意见。为履行合同义务所需的所有站点均未出现延误，所有里程碑均按计划推进。",
