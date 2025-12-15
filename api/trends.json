@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-15T18:19:31.976640+08:00",
-  "total_titles_processed": 1426,
+  "generated_at": "2025-12-15T19:14:25.420377+08:00",
+  "total_titles_processed": 1515,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "不确定经济政策能否赢中选，特朗普质疑“现在有好消息股市反而下跌，消息特别好股市就会崩盘”，这都是美联储的错！",
@@ -17,8 +17,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时25分 ~ 18时19分]"
+          "appearance_count": 12,
+          "time_info": "[11时25分 ~ 19时14分]"
         },
         {
           "title": "3名美国人在叙遇袭身亡，特朗普：将严厉报复",
@@ -63,6 +63,29 @@
           "time_info": "[01时12分 ~ 07时13分]"
         },
         {
+          "title": "日媒：特朗普曾警告高市早苗“别来添乱”",
+          "url": "https://news.ifeng.com/c/8p6g6UaeUPY",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时25分 ~ 19时14分]"
+        },
+        {
+          "title": "连续表达“独立性”！哈塞特：若被选中领导美联储，特朗普可以提意见，但对美联储决策“毫无分量”",
+          "url": "https://wallstreetcn.com/articles/3761377",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[14时24分 ~ 19时14分]"
+        },
+        {
           "title": "美国总统特朗普：很快就会选择新的美联储主席。 新任美联储主席想要看到利率下降。 虽然（现在还是）是鲍威尔担任美联储主席，但利率正在下降。",
           "url": "https://wallstreetcn.com/livenews/3020431",
           "source": "华尔街见闻-快讯",
@@ -91,29 +114,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[03时11分 ~ 07时13分]"
-        },
-        {
-          "title": "日媒：特朗普曾警告高市早苗“别来添乱”",
-          "url": "https://news.ifeng.com/c/8p6g6UaeUPY",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时25分 ~ 18时19分]"
-        },
-        {
-          "title": "连续表达“独立性”！哈塞特：若被选中领导美联储，特朗普可以提意见，但对美联储决策“毫无分量”",
-          "url": "https://wallstreetcn.com/articles/3761377",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时24分 ~ 18时19分]"
         },
         {
           "title": "悉尼水果店老板徒手夺枪获特朗普称赞",
@@ -161,8 +161,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时23分 ~ 18时19分]"
+          "appearance_count": 4,
+          "time_info": "[16时23分 ~ 19时14分]"
         },
         {
           "title": "哈塞特谈接掌美联储：考虑特朗普意见 但坚持决策独立性",
@@ -181,11 +181,12 @@
           "url": "https://flash.jin10.com/detail/20251215180602946800",
           "source": "金十数据",
           "ranks": [
-            10
+            10,
+            25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时19分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时19分 ~ 19时14分]"
         },
         {
           "title": "欧盟官员表示，美国中东问题特使威特科夫和及特朗普高级顾问库什纳通过视频会议向欧盟各国外交部长简要通报加沙局势。",
@@ -194,9 +195,20 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时19分"
+        },
+        {
+          "title": "特朗普指着台下女子说你好像伊万卡",
+          "url": "https://www.toutiao.com/trending/7583883670654681098/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时14分"
         },
         {
           "title": "悉尼水果店老板徒手夺枪获特朗普称赞",
@@ -240,8 +252,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时25分 ~ 18时19分]"
+          "appearance_count": 12,
+          "time_info": "[11时25分 ~ 19时14分]"
         },
         {
           "title": "华尔街的“2026美股主题”是轮动！“老登”胜过Mag 7，高盛高呼“周期股尚未被完全定价”",
@@ -264,11 +276,12 @@
             12,
             9,
             10,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时24分 ~ 18时19分]"
+          "appearance_count": 8,
+          "time_info": "[14时24分 ~ 19时14分]"
         },
         {
           "title": "iRobot股价美股盘前暴跌超80%，至0.76美元，此前公司已申请破产，并寻求收购制造商。",
@@ -276,11 +289,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             6,
-            13
+            13,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时25分 ~ 18时19分]"
+          "appearance_count": 3,
+          "time_info": "[17时25分 ~ 19时14分]"
         },
         {
           "title": "iRobot股价美股盘前暴跌82.5%，至0.76美元，此前公司已申请破产，并寻求收购制造商。",
@@ -364,6 +378,18 @@
       "match_count": 4,
       "titles": [
         {
+          "title": "伊朗外交部：伊朗外长与白俄罗斯外长在明斯克会晤。",
+          "url": "https://flash.jin10.com/detail/20251215180713563800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时19分 ~ 19时14分]"
+        },
+        {
           "title": "伊朗外长抵达白俄罗斯总统府会见卢卡申科。",
           "url": "https://flash.jin10.com/detail/20251215155631635800",
           "source": "金十数据",
@@ -373,17 +399,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时23分"
-        },
-        {
-          "title": "伊朗外交部：伊朗外长与白俄罗斯外长在明斯克会晤。",
-          "url": "https://flash.jin10.com/detail/20251215180713563800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时19分"
         },
         {
           "title": "伊朗外交部：伊朗外长与白俄罗斯总统卢卡申科会面。",
