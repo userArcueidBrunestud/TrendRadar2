@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-17T13:17:53.167005+08:00",
-  "total_titles_processed": 1143,
+  "generated_at": "2025-12-17T14:22:56.431268+08:00",
+  "total_titles_processed": 1239,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 62,
+      "match_count": 64,
       "titles": [
         {
           "title": "特朗普称自己执政近一年来在经济方面取得了成功，但赢得中期选举很困难，赢的概率有多大？会有哪些影响？",
@@ -23,8 +23,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时20分 ~ 13时17分]"
+          "appearance_count": 15,
+          "time_info": "[00时20分 ~ 14时22分]"
         },
         {
           "title": "“这是特朗普给泽连斯基的最后通牒：接受条件，否则就没机会了”",
@@ -79,18 +79,6 @@
           "time_info": "[00时20分 ~ 07时14分]"
         },
         {
-          "title": "特朗普政府宣布对40国实施入境限制",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C%E5%AE%A3%E5%B8%83%E5%AF%B940%E5%9B%BD%E5%AE%9E%E6%96%BD%E5%85%A5%E5%A2%83%E9%99%90%E5%88%B6",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时15分 ~ 13时17分]"
-        },
-        {
           "title": "特朗普：认定委内瑞拉现政府是“外国恐怖组织”",
           "url": "https://news.ifeng.com/c/8p9PufcVOa6",
           "source": "凤凰网",
@@ -98,8 +86,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时15分 ~ 13时17分]"
+          "appearance_count": 4,
+          "time_info": "[11时15分 ~ 14时22分]"
         },
         {
           "title": "特朗普签署公告，进一步限制外国公民入境美国",
@@ -109,8 +97,21 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时15分 ~ 13时17分]"
+          "appearance_count": 4,
+          "time_info": "[11时15分 ~ 14时22分]"
+        },
+        {
+          "title": "特朗普政府宣布对40国实施入境限制",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C%E5%AE%A3%E5%B8%83%E5%AF%B940%E5%9B%BD%E5%AE%9E%E6%96%BD%E5%85%A5%E5%A2%83%E9%99%90%E5%88%B6",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1,
+            2,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时15分 ~ 14时22分]"
         },
         {
           "title": "特朗普将发表全国讲话：应对民调下滑 或预告新年政策",
@@ -310,6 +311,17 @@
           "time_info": "[04时17分 ~ 05时15分]"
         },
         {
+          "title": "特朗普有“酒鬼性格”，万斯“阴谋论者”，马斯克“嗑药的怪人”...“白宫大管家”的炸裂采访爆了",
+          "url": "https://wallstreetcn.com/articles/3761525",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时17分 ~ 14时22分]"
+        },
+        {
           "title": "特朗普签署公告 进一步限制外国公民入境美国",
           "url": "https://flash.jin10.com/detail/20251217040248349800",
           "source": "金十数据",
@@ -370,6 +382,18 @@
           "time_info": "[11时15分 ~ 12时28分]"
         },
         {
+          "title": "马斯克又要给特朗普花钱了",
+          "url": "https://www.toutiao.com/trending/7584667287097986610/",
+          "source": "今日头条",
+          "ranks": [
+            23,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时17分 ~ 14时22分]"
+        },
+        {
           "title": "特朗普封锁委内瑞拉油轮刺激油价反弹 但全球供应过剩压力巨大",
           "url": "https://flash.jin10.com/detail/20251217082133732800",
           "source": "金十数据",
@@ -412,17 +436,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时15分"
-        },
-        {
-          "title": "特朗普有“酒鬼性格”，万斯“阴谋论者”，马斯克“嗑药的怪人”...“白宫大管家”的炸裂采访爆了",
-          "url": "https://wallstreetcn.com/articles/3761525",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时17分"
         },
         {
           "title": "据华盛顿邮报：特朗普提名Joshua M. Rudd为国家安全局局长。",
@@ -480,6 +493,17 @@
           "time_info": "09时01分"
         },
         {
+          "title": "特朗普称已下令封锁所有进出委内瑞拉受制裁油轮",
+          "url": "https://www.cls.cn/detail/2231712",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时22分"
+        },
+        {
           "title": "据NBC新闻：预计美国总统特朗普最早将于本周签署一项行政命令，以加快大麻的重新分类进程。",
           "url": "https://flash.jin10.com/detail/20251217080138619800",
           "source": "金十数据",
@@ -535,17 +559,6 @@
           "time_info": "11时15分"
         },
         {
-          "title": "马斯克又要给特朗普花钱了",
-          "url": "https://www.toutiao.com/trending/7584667287097986610/",
-          "source": "今日头条",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时17分"
-        },
-        {
           "title": "美国总统特朗普：将于明晚9点（北京时间次日上午10:00）在白宫向全国发表讲话。",
           "url": "https://flash.jin10.com/detail/20251217022634818800",
           "source": "金十数据",
@@ -588,6 +601,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时28分"
+        },
+        {
+          "title": "关税裁决将至特朗普频繁发声",
+          "url": "https://www.toutiao.com/trending/7584652314854559238/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时22分"
         },
         {
           "title": "美国总统特朗普：委内瑞拉政权已被指定为外国恐怖组织。",
@@ -673,7 +697,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时17分"
         },
@@ -749,8 +773,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时13分 ~ 13时17分]"
+          "appearance_count": 7,
+          "time_info": "[07时13分 ~ 14时22分]"
         },
         {
           "title": "能源业ETF收跌3%，领跌美股行业ETF，标普能源板块也跌将近3%",
