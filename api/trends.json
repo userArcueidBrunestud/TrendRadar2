@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-17T14:22:56.431268+08:00",
-  "total_titles_processed": 1239,
+  "generated_at": "2025-12-17T15:18:40.454363+08:00",
+  "total_titles_processed": 1350,
   "failed_sources": [],
   "trends": [
     {
@@ -86,8 +86,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时15分 ~ 14时22分]"
+          "appearance_count": 5,
+          "time_info": "[11时15分 ~ 15时18分]"
         },
         {
           "title": "特朗普签署公告，进一步限制外国公民入境美国",
@@ -97,8 +97,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时15分 ~ 14时22分]"
+          "appearance_count": 5,
+          "time_info": "[11时15分 ~ 15时18分]"
         },
         {
           "title": "特朗普政府宣布对40国实施入境限制",
@@ -107,11 +107,12 @@
           "ranks": [
             1,
             2,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时15分 ~ 14时22分]"
+          "appearance_count": 5,
+          "time_info": "[11时15分 ~ 15时18分]"
         },
         {
           "title": "特朗普将发表全国讲话：应对民调下滑 或预告新年政策",
@@ -252,6 +253,17 @@
           "time_info": "[09时01分 ~ 13时17分]"
         },
         {
+          "title": "特朗普有“酒鬼性格”，万斯“阴谋论者”，马斯克“嗑药的怪人”...“白宫大管家”的炸裂采访爆了",
+          "url": "https://wallstreetcn.com/articles/3761525",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时17分 ~ 15时18分]"
+        },
+        {
           "title": "哈塞特势头不稳，特朗普亲信推举沃什当美联储主席，预测市场大变脸",
           "url": "https://wallstreetcn.com/articles/3761439",
           "source": "华尔街见闻",
@@ -309,17 +321,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时17分 ~ 05时15分]"
-        },
-        {
-          "title": "特朗普有“酒鬼性格”，万斯“阴谋论者”，马斯克“嗑药的怪人”...“白宫大管家”的炸裂采访爆了",
-          "url": "https://wallstreetcn.com/articles/3761525",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时17分 ~ 14时22分]"
         },
         {
           "title": "特朗普签署公告 进一步限制外国公民入境美国",
@@ -499,7 +500,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时22分"
         },
@@ -609,7 +610,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时22分"
         },
@@ -752,6 +753,19 @@
       "match_count": 13,
       "titles": [
         {
+          "title": "美股收盘：三大指数涨跌不一 特斯拉创历史新高",
+          "url": "https://www.cls.cn/detail/2231583",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[07时13分 ~ 15时18分]"
+        },
+        {
           "title": "非农超预期，美股低开，现货黄金小幅上涨，布油跌破60美元",
           "url": "https://wallstreetcn.com/articles/3761475",
           "source": "华尔街见闻",
@@ -762,19 +776,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时20分 ~ 06时15分]"
-        },
-        {
-          "title": "美股收盘：三大指数涨跌不一 特斯拉创历史新高",
-          "url": "https://www.cls.cn/detail/2231583",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时13分 ~ 14时22分]"
         },
         {
           "title": "能源业ETF收跌3%，领跌美股行业ETF，标普能源板块也跌将近3%",
