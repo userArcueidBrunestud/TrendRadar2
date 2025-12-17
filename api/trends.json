@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-17T18:17:30.405782+08:00",
-  "total_titles_processed": 1656,
+  "generated_at": "2025-12-17T19:14:59.602845+08:00",
+  "total_titles_processed": 1753,
   "failed_sources": [],
   "trends": [
     {
@@ -118,6 +118,18 @@
           "time_info": "[11时15分 ~ 15时18分]"
         },
         {
+          "title": "特朗普有“酒鬼性格”，万斯“阴谋论者”，马斯克“嗑药的怪人”...“白宫大管家”的炸裂采访爆了",
+          "url": "https://wallstreetcn.com/articles/3761525",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时17分 ~ 19时14分]"
+        },
+        {
           "title": "特朗普将发表全国讲话：应对民调下滑 或预告新年政策",
           "url": "https://flash.jin10.com/detail/20251217031120622800",
           "source": "金十数据",
@@ -127,18 +139,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时15分"
-        },
-        {
-          "title": "特朗普有“酒鬼性格”，万斯“阴谋论者”，马斯克“嗑药的怪人”...“白宫大管家”的炸裂采访爆了",
-          "url": "https://wallstreetcn.com/articles/3761525",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时17分 ~ 18时17分]"
         },
         {
           "title": "白宫新闻秘书莱维特：特朗普将于明天前往多佛空军基地，出席在叙利亚阵亡美军士兵的移交仪式。",
@@ -169,7 +169,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时17分"
         },
