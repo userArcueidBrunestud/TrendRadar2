@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-17T15:18:40.454363+08:00",
-  "total_titles_processed": 1350,
+  "generated_at": "2025-12-17T16:21:55.747058+08:00",
+  "total_titles_processed": 1453,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 64,
+      "match_count": 65,
       "titles": [
         {
           "title": "特朗普称自己执政近一年来在经济方面取得了成功，但赢得中期选举很困难，赢的概率有多大？会有哪些影响？",
@@ -108,11 +108,12 @@
             1,
             2,
             10,
-            9
+            9,
+            26
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时15分 ~ 15时18分]"
+          "appearance_count": 6,
+          "time_info": "[11时15分 ~ 16时21分]"
         },
         {
           "title": "特朗普将发表全国讲话：应对民调下滑 或预告新年政策",
@@ -242,6 +243,18 @@
           "time_info": "[04时17分 ~ 05时15分]"
         },
         {
+          "title": "特朗普有“酒鬼性格”，万斯“阴谋论者”，马斯克“嗑药的怪人”...“白宫大管家”的炸裂采访爆了",
+          "url": "https://wallstreetcn.com/articles/3761525",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时17分 ~ 16时21分]"
+        },
+        {
           "title": "特朗普下令封锁所有受制裁委油轮",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8B%E4%BB%A4%E5%B0%81%E9%94%81%E6%89%80%E6%9C%89%E5%8F%97%E5%88%B6%E8%A3%81%E5%A7%94%E6%B2%B9%E8%BD%AE",
           "source": "百度热搜",
@@ -251,17 +264,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时01分 ~ 13时17分]"
-        },
-        {
-          "title": "特朗普有“酒鬼性格”，万斯“阴谋论者”，马斯克“嗑药的怪人”...“白宫大管家”的炸裂采访爆了",
-          "url": "https://wallstreetcn.com/articles/3761525",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时17分 ~ 15时18分]"
         },
         {
           "title": "哈塞特势头不稳，特朗普亲信推举沃什当美联储主席，预测市场大变脸",
@@ -321,6 +323,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时17分 ~ 05时15分]"
+        },
+        {
+          "title": "特朗普称已下令封锁所有进出委内瑞拉受制裁油轮",
+          "url": "https://www.cls.cn/detail/2231712",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时22分 ~ 16时21分]"
         },
         {
           "title": "特朗普签署公告 进一步限制外国公民入境美国",
@@ -494,15 +508,15 @@
           "time_info": "09时01分"
         },
         {
-          "title": "特朗普称已下令封锁所有进出委内瑞拉受制裁油轮",
-          "url": "https://www.cls.cn/detail/2231712",
+          "title": "特朗普签署公告 进一步限制外国公民入境美国",
+          "url": "https://www.cls.cn/detail/2231615",
           "source": "财联社热门",
           "ranks": [
             13
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时22分"
+          "time_info": "16时21分"
         },
         {
           "title": "据NBC新闻：预计美国总统特朗普最早将于本周签署一项行政命令，以加快大麻的重新分类进程。",
