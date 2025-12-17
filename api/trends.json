@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-17T20:30:47.383319+08:00",
-  "total_titles_processed": 1861,
+  "generated_at": "2025-12-17T21:31:08.645386+08:00",
+  "total_titles_processed": 1958,
   "failed_sources": [],
   "trends": [
     {
@@ -47,6 +47,20 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时20分 ~ 09时01分]"
+        },
+        {
+          "title": "特朗普有“酒鬼性格”，万斯“阴谋论者”，马斯克“嗑药的怪人”...“白宫大管家”的炸裂采访爆了",
+          "url": "https://wallstreetcn.com/articles/3761525",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[13时17分 ~ 21时31分]"
         },
         {
           "title": "“爱泼斯坦案”背后的正义、叙述与情绪：特朗普和美国政治的梦魇",
@@ -116,19 +130,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[11时15分 ~ 15时18分]"
-        },
-        {
-          "title": "特朗普有“酒鬼性格”，万斯“阴谋论者”，马斯克“嗑药的怪人”...“白宫大管家”的炸裂采访爆了",
-          "url": "https://wallstreetcn.com/articles/3761525",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时17分 ~ 20时30分]"
         },
         {
           "title": "特朗普将发表全国讲话：应对民调下滑 或预告新年政策",
@@ -801,7 +802,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "美股收盘：三大指数涨跌不一 特斯拉创历史新高",
@@ -838,6 +839,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时15分"
+        },
+        {
+          "title": "美股期货短线走低，纳指期货日内涨幅收窄至0.12%，标普500指数期货涨幅收窄至0.16%。",
+          "url": "https://wallstreetcn.com/livenews/3022443",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时31分"
         },
         {
           "title": "金十图示：2025年12月16日（周二）美股热门股票行情一览（美股收盘）",
@@ -1096,11 +1108,12 @@
           "url": "https://www.zhihu.com/question/1970631480595190298",
           "source": "知乎",
           "ranks": [
-            11
+            11,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时29分 ~ 20时30分]"
+          "appearance_count": 4,
+          "time_info": "[20时29分 ~ 21时31分]"
         },
         {
           "title": "OpenAI和谷歌通过免费赠品争夺印度用户和训练数据",
@@ -1109,7 +1122,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时30分"
         }
@@ -1137,7 +1150,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时30分"
         },
