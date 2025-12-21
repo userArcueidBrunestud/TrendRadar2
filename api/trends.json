@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-21T15:14:26.367690+08:00",
-  "total_titles_processed": 940,
+  "generated_at": "2025-12-21T16:18:33.688781+08:00",
+  "total_titles_processed": 1000,
   "failed_sources": [],
   "trends": [
     {
@@ -75,11 +75,12 @@
           "source": "金十数据",
           "ranks": [
             2,
-            3
+            3,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时21分 ~ 15时14分]"
+          "appearance_count": 3,
+          "time_info": "[14时21分 ~ 16时18分]"
         },
         {
           "title": "美联储主席之争白热化，华尔街和华盛顿“暗流涌动”，特朗普“举棋不定”",
@@ -141,11 +142,12 @@
           "ranks": [
             10,
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时16分 ~ 15时14分]"
+          "appearance_count": 4,
+          "time_info": "[13时16分 ~ 16时18分]"
         },
         {
           "title": "美外交人员协会称特朗普正解雇多名拜登任命的驻外大使",
@@ -153,11 +155,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             10,
-            12
+            12,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时21分 ~ 15时14分]"
+          "appearance_count": 3,
+          "time_info": "[14时21分 ~ 16时18分]"
         },
         {
           "title": "高市早苗着急早点见特朗普",
@@ -199,7 +202,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时14分"
         }
@@ -229,11 +232,12 @@
             6,
             7,
             8,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时16分 ~ 15时14分]"
+          "appearance_count": 17,
+          "time_info": "[00时16分 ~ 16时18分]"
         },
         {
           "title": "通胀降温令美股回暖，交易员希望利用2025年剩余时间喘口气",
@@ -242,11 +246,12 @@
           "ranks": [
             4,
             9,
-            10
+            10,
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时16分 ~ 15时14分]"
+          "appearance_count": 4,
+          "time_info": "[13时16分 ~ 16时18分]"
         },
         {
           "title": "美股连涨两天后 华尔街又“神气”了：今年圣诞行情有戏？",
@@ -269,8 +274,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时21分 ~ 15时14分]"
+          "appearance_count": 3,
+          "time_info": "[14时21分 ~ 16时18分]"
         }
       ]
     },
@@ -351,11 +356,12 @@
             7,
             8,
             6,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时24分 ~ 15时14分]"
+          "appearance_count": 6,
+          "time_info": "[11时24分 ~ 16时18分]"
         },
         {
           "title": "谷歌的“回流”之年：2025年新聘AI软件工程师中，20%为前员工",
@@ -374,11 +380,12 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时21分 ~ 15时14分]"
+          "appearance_count": 3,
+          "time_info": "[14时21分 ~ 16时18分]"
         }
       ]
     },
@@ -406,8 +413,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时16分 ~ 15时14分]"
+          "appearance_count": 4,
+          "time_info": "[13时16分 ~ 16时18分]"
         },
         {
           "title": "金价又涨了",
@@ -433,11 +440,12 @@
           "source": "凤凰网",
           "ranks": [
             1,
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时32分 ~ 15时14分]"
+          "appearance_count": 5,
+          "time_info": "[12时32分 ~ 16时18分]"
         },
         {
           "title": "以色列拟告知美方或再次打击伊朗",
@@ -446,11 +454,12 @@
           "ranks": [
             7,
             16,
-            18
+            18,
+            23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时16分 ~ 15时14分]"
+          "appearance_count": 4,
+          "time_info": "[13时16分 ~ 16时18分]"
         }
       ]
     }
