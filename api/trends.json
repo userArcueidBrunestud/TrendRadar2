@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-23T19:14:11.721790+08:00",
-  "total_titles_processed": 1693,
+  "generated_at": "2025-12-23T20:29:47.800261+08:00",
+  "total_titles_processed": 1788,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 78,
+      "match_count": 79,
       "titles": [
         {
           "title": "美国人发愁：特朗普明摆着抢英伟达钱，但一个愿打一个愿挨",
@@ -24,11 +24,12 @@
           "source": "华尔街见闻",
           "ranks": [
             7,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时05分 ~ 19时14分]"
+          "appearance_count": 15,
+          "time_info": "[09时05分 ~ 20时29分]"
         },
         {
           "title": "特朗普将建特朗普级新型战舰",
@@ -37,11 +38,12 @@
           "ranks": [
             4,
             6,
-            11
+            11,
+            13
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时21分 ~ 19时14分]"
+          "appearance_count": 13,
+          "time_info": "[11时21分 ~ 20时29分]"
         },
         {
           "title": "特朗普换大使细节披露：涉及全球近30国，均拜登时期上任",
@@ -271,7 +273,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时14分"
         },
@@ -328,6 +330,31 @@
           "time_info": "[03时13分 ~ 05时13分]"
         },
         {
+          "title": "泰国外长：上次停火谈判太仓促，就为了给特朗普面子",
+          "url": "https://news.ifeng.com/c/8pJycIBu5di",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时16分 ~ 20时29分]"
+        },
+        {
+          "title": "特朗普又自恋,新战舰用自己名",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348288&amp;topic_name=%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%88%E8%87%AA%E6%81%8B%2C%E6%96%B0%E6%88%98%E8%88%B0%E7%94%A8%E8%87%AA%E5%B7%B1%E5%90%8D",
+          "source": "贴吧",
+          "ranks": [
+            7,
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时16分 ~ 20时29分]"
+        },
+        {
           "title": "据华尔街日报：美国新级别军舰将以美国总统特朗普命名。",
           "url": "https://flash.jin10.com/detail/20251223044243476800",
           "source": "金十数据",
@@ -338,30 +365,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时13分 ~ 06时15分]"
-        },
-        {
-          "title": "特朗普又自恋,新战舰用自己名",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348288&amp;topic_name=%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%88%E8%87%AA%E6%81%8B%2C%E6%96%B0%E6%88%98%E8%88%B0%E7%94%A8%E8%87%AA%E5%B7%B1%E5%90%8D",
-          "source": "贴吧",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时16分 ~ 19时14分]"
-        },
-        {
-          "title": "泰国外长：上次停火谈判太仓促，就为了给特朗普面子",
-          "url": "https://news.ifeng.com/c/8pJycIBu5di",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时16分 ~ 19时14分]"
         },
         {
           "title": "以色列总理内塔尼亚胡：与特朗普的会谈将聚焦加沙和黎巴嫩问题。",
@@ -554,7 +557,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时14分"
         },
@@ -777,6 +780,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时14分"
+        },
+        {
+          "title": "专家：特朗普战列舰政治意义大于实战",
+          "url": "https://www.toutiao.com/trending/7586991061680000531/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时29分"
         },
         {
           "title": "美国总统特朗普：将从两艘舰艇开始，将发展到十艘，最终达到20到25艘。",
@@ -1179,19 +1193,20 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时16分 ~ 19时14分]"
+          "appearance_count": 4,
+          "time_info": "[18时16分 ~ 20时29分]"
         },
         {
           "title": "金价彻底爆了 有人拖行李箱抢购",
           "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E5%BD%BB%E5%BA%95%E7%88%86%E4%BA%86+%E6%9C%89%E4%BA%BA%E6%8B%96%E8%A1%8C%E6%9D%8E%E7%AE%B1%E6%8A%A2%E8%B4%AD",
           "source": "百度热搜",
           "ranks": [
-            22
+            22,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时13分 ~ 19时14分]"
+          "appearance_count": 3,
+          "time_info": "[19时13分 ~ 20时29分]"
         },
         {
           "title": "金价大涨的背后原因是什么",
@@ -1323,7 +1338,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "最近24小时，MarketVector数字资产100小盘指数涨3.67%，暂报3623.80点，整体持续走高。 Solana目前涨1.39%，狗狗币涨3.09%，XRP涨1.15%。 MarketVector数字资产100涨1.56%，报18392.00点。 比特币涨1.55%，咱博爱89627.99美元；以太坊涨1.80%，报3043.51美元。",
@@ -1395,6 +1410,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时21分"
+        },
+        {
+          "title": "美元指数DXY日内下跌0.4%，跌至10月3日以来新低，报97.853。",
+          "url": "https://flash.jin10.com/detail/20251223192922576800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时29分"
         }
       ]
     },
@@ -1415,8 +1441,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[01时14分 ~ 19时14分]"
+          "appearance_count": 24,
+          "time_info": "[01时14分 ~ 20时29分]"
         },
         {
           "title": "谷歌母公司Alphabet将以47.5亿美元（现金+债务）收购数据中心的能源/电力供应商Intersect。",
