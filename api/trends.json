@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-25T18:15:54.098583+08:00",
-  "total_titles_processed": 1506,
+  "generated_at": "2025-12-25T19:13:50.409575+08:00",
+  "total_titles_processed": 1579,
   "failed_sources": [],
   "trends": [
     {
@@ -56,6 +56,30 @@
           "time_info": "[00时18分 ~ 03时12分]"
         },
         {
+          "title": "高市早苗：想尽快与特朗普会晤",
+          "url": "https://news.ifeng.com/c/8pNHf17pGd9",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时17分 ~ 19时13分]"
+        },
+        {
+          "title": "肯尼迪中心冠特朗普名后，年度音乐会取消",
+          "url": "https://v.ifeng.com/c/8pNDMX3vTpu",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时17分 ~ 19时13分]"
+        },
+        {
           "title": "特朗普回应克林顿大尺度照被公布",
           "url": "https://www.toutiao.com/trending/7586912730720947748/",
           "source": "今日头条",
@@ -68,52 +92,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[03时11分 ~ 06时15分]"
-        },
-        {
-          "title": "高市早苗：想尽快与特朗普会晤",
-          "url": "https://news.ifeng.com/c/8pNHf17pGd9",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时17分 ~ 18时15分]"
-        },
-        {
-          "title": "肯尼迪中心冠特朗普名后，年度音乐会取消",
-          "url": "https://v.ifeng.com/c/8pNDMX3vTpu",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时17分 ~ 18时15分]"
-        },
-        {
-          "title": "特朗普这一年如何搅乱全球",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E8%BF%99%E4%B8%80%E5%B9%B4%E5%A6%82%E4%BD%95%E6%90%85%E4%B9%B1%E5%85%A8%E7%90%83",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时15分"
-        },
-        {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-25）",
-          "url": "https://flash.jin10.com/detail/20251225173408748800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时15分"
         },
         {
           "title": "美国法官支持特朗普推进10万美元天价H-1B签证费，美商会表达失望",
@@ -168,6 +146,18 @@
           "time_info": "[03时12分 ~ 05时13分]"
         },
         {
+          "title": "特朗普这一年如何搅乱全球",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E8%BF%99%E4%B8%80%E5%B9%B4%E5%A6%82%E4%BD%95%E6%90%85%E4%B9%B1%E5%85%A8%E7%90%83",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时15分 ~ 19时13分]"
+        },
+        {
           "title": "帕劳与特朗普政府签署备忘录，从美国接收75名移民",
           "url": "https://flash.jin10.com/detail/20251225121328471800",
           "source": "金十数据",
@@ -178,6 +168,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时33分 ~ 13时19分]"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-25）",
+          "url": "https://flash.jin10.com/detail/20251225173408748800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时15分 ~ 19时13分]"
         },
         {
           "title": "特朗普为何强调新战列舰不针对中国",
@@ -262,8 +264,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时05分 ~ 18时15分]"
+          "appearance_count": 13,
+          "time_info": "[09时05分 ~ 19时13分]"
         },
         {
           "title": "美股收盘：三大指数连涨五日 道指、标普双双收新高",
@@ -286,11 +288,12 @@
           "ranks": [
             10,
             9,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时22分 ~ 18时15分]"
+          "appearance_count": 8,
+          "time_info": "[11时22分 ~ 19时13分]"
         },
         {
           "title": "美股行业ETF普遍收涨",
@@ -423,7 +426,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "联合国专家谴责美对委的封锁 多家国际机构预计明年金价冲击5000美元 | 环球市场",
@@ -473,6 +476,17 @@
           "time_info": "11时22分"
         },
         {
+          "title": "金价、银价、铜价，均创历史新高，发生了什么？后市怎么走？",
+          "url": "https://www.zhihu.com/question/1987171318681068732",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时13分"
+        },
+        {
           "title": "金价又创历史新高",
           "url": "https://www.douyin.com/hot/2346801",
           "source": "抖音",
@@ -487,7 +501,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "伊朗在波斯湾查获一艘走私燃料的船只",
@@ -512,6 +526,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时18分 ~ 05时13分]"
+        },
+        {
+          "title": "以色列公民被控为伊朗间谍 曾侦察前总理住所",
+          "url": "https://flash.jin10.com/detail/20251225181314638800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时13分"
         },
         {
           "title": "以色列防长称正密切关注伊朗局势",
