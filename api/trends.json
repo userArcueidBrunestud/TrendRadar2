@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-25T12:33:11.135820+08:00",
-  "total_titles_processed": 972,
+  "generated_at": "2025-12-25T13:19:26.776319+08:00",
+  "total_titles_processed": 1059,
   "failed_sources": [],
   "trends": [
     {
@@ -30,8 +30,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时18分 ~ 12时33分]"
+          "appearance_count": 17,
+          "time_info": "[00时18分 ~ 13时19分]"
         },
         {
           "title": "特朗普要建“特朗普级”战列舰，称战力爆棚，专家打出多个问号",
@@ -68,17 +68,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[03时11分 ~ 06时15分]"
-        },
-        {
-          "title": "帕劳与特朗普政府签署备忘录，从美国接收75名移民",
-          "url": "https://flash.jin10.com/detail/20251225121328471800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时33分"
         },
         {
           "title": "美国法官支持特朗普推进10万美元天价H-1B签证费，美商会表达失望",
@@ -131,6 +120,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时12分 ~ 05时13分]"
+        },
+        {
+          "title": "帕劳与特朗普政府签署备忘录，从美国接收75名移民",
+          "url": "https://flash.jin10.com/detail/20251225121328471800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时33分 ~ 13时19分]"
         },
         {
           "title": "特朗普为何强调新战列舰不针对中国",
@@ -196,6 +197,17 @@
       "match_count": 13,
       "titles": [
         {
+          "title": "平安夜美股债汇涨，标普新高，黄金失守4500，人民币三连涨，加密货币疲软",
+          "url": "https://wallstreetcn.com/articles/3761989",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时05分 ~ 13时19分]"
+        },
+        {
           "title": "美股收盘：三大指数连涨五日 道指、标普双双收新高",
           "url": "https://www.cls.cn/detail/2239383",
           "source": "财联社热门",
@@ -208,17 +220,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[06时14分 ~ 12时33分]"
-        },
-        {
-          "title": "平安夜美股债汇涨，标普新高，黄金失守4500，人民币三连涨，加密货币疲软",
-          "url": "https://wallstreetcn.com/articles/3761989",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时05分 ~ 12时33分]"
         },
         {
           "title": "美股行业ETF普遍收涨",
@@ -432,11 +433,12 @@
           "url": "https://www.cls.cn/detail/2239423",
           "source": "财联社热门",
           "ranks": [
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时22分 ~ 12时33分]"
+          "appearance_count": 5,
+          "time_info": "[11时22分 ~ 13时19分]"
         },
         {
           "title": "金价狂飙 千元内几乎买不到金饰",
@@ -444,11 +446,12 @@
           "source": "百度热搜",
           "ranks": [
             24,
-            25
+            25,
+            28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时22分 ~ 12时33分]"
+          "appearance_count": 5,
+          "time_info": "[11时22分 ~ 13时19分]"
         },
         {
           "title": "金十图示：2025年12月25日（周四）上海金早盘价为1002.46元/克，较国际金价(1008.23元/克)，低5.77元/克",
