@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-26T11:20:14.389053+08:00",
-  "total_titles_processed": 814,
+  "generated_at": "2025-12-26T12:35:21.382645+08:00",
+  "total_titles_processed": 930,
   "failed_sources": [],
   "trends": [
     {
@@ -65,7 +65,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时20分"
         },
@@ -79,6 +79,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时14分"
+        },
+        {
+          "title": "特朗普圣诞夜动手！美国空袭尼日利亚，目标直指石油和稀土？",
+          "url": "https://wallstreetcn.com/articles/3762107",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时19分 ~ 12时35分]"
         },
         {
           "title": "乌克兰总统泽连斯基：与美国特使威特科夫和特朗普高级顾问库什纳通话约一小时。",
@@ -110,17 +122,6 @@
           "time_info": "[01时13分 ~ 04时16分]"
         },
         {
-          "title": "特朗普圣诞夜动手！美国空袭尼日利亚，目标直指石油和稀土？",
-          "url": "https://wallstreetcn.com/articles/3762107",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时19分 ~ 11时20分]"
-        },
-        {
           "title": "特朗普官宣“黄金舰队”计划：真不是冲着中国，两国关系可好了",
           "url": "https://news.ifeng.com/c/8pOSTawSWI3",
           "source": "凤凰网",
@@ -128,8 +129,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时19分 ~ 11时20分]"
+          "appearance_count": 3,
+          "time_info": "[11时19分 ~ 12时35分]"
         },
         {
           "title": "专家：特朗普或在2026“压榨”美联储",
@@ -179,7 +180,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "金价、银价、铜价，均创历史新高，发生了什么？后市怎么走？",
@@ -219,19 +220,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时19分 ~ 11时20分]"
+          "appearance_count": 3,
+          "time_info": "[11时19分 ~ 12时35分]"
         },
         {
           "title": "铂金价格飙升至每盎司2390美元以上，创历史新高。",
           "url": "https://wallstreetcn.com/livenews/3026999",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            6,
+            23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时20分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时20分 ~ 12时35分]"
         },
         {
           "title": "中信证券：流动性宽松预期下金价有望延续涨势，2026年或冲击5000美元",
@@ -251,9 +253,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时20分"
+        },
+        {
+          "title": "铂金价格创纪录新高，因欧盟拟撤销燃油车禁售令",
+          "url": "https://flash.jin10.com/detail/20251226112935984800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时35分"
         },
         {
           "title": "中金：建议淡化黄金价格点位预测 更关注资产趋势改变时点",
@@ -329,6 +342,35 @@
       ]
     },
     {
+      "keyword_group": "美股",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "平安夜美股债汇涨，标普新高，黄金失守4500，人民币三连涨，加密货币疲软",
+          "url": "https://wallstreetcn.com/articles/3761989",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时17分 ~ 07时14分]"
+        },
+        {
+          "title": "美股今日正常开市，欧洲股市继续休市",
+          "url": "https://flash.jin10.com/detail/20251226112952955800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时35分"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 1,
       "titles": [
@@ -342,8 +384,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时17分 ~ 11时20分]"
+          "appearance_count": 17,
+          "time_info": "[00时17分 ~ 12时35分]"
         }
       ]
     },
@@ -357,24 +399,6 @@
           "source": "华尔街见闻",
           "ranks": [
             10
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时17分 ~ 07时14分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "平安夜美股债汇涨，标普新高，黄金失守4500，人民币三连涨，加密货币疲软",
-          "url": "https://wallstreetcn.com/articles/3761989",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            3
           ],
           "is_new": false,
           "appearance_count": 12,
