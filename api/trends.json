@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-28T19:13:08.973840+08:00",
-  "total_titles_processed": 1049,
+  "generated_at": "2025-12-28T20:26:54.600518+08:00",
+  "total_titles_processed": 1130,
   "failed_sources": [],
   "trends": [
     {
@@ -26,11 +26,12 @@
           "ranks": [
             10,
             9,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时39分 ~ 19时13分]"
+          "appearance_count": 12,
+          "time_info": "[12时39分 ~ 20时26分]"
         },
         {
           "title": "邵永灵：美媒承认斩杀线并甩锅特朗普",
@@ -40,11 +41,12 @@
             8,
             4,
             1,
-            2
+            2,
+            15
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时18分 ~ 19时13分]"
+          "appearance_count": 7,
+          "time_info": "[16时18分 ~ 20时26分]"
         },
         {
           "title": "泽连斯基周日会晤特朗普讨论“敏感问题”，俄副外长：乌公布的“和平计划”草案与俄美商讨内容“根本不同”",
@@ -110,6 +112,17 @@
           "time_info": "[00时16分 ~ 03时11分]"
         },
         {
+          "title": "泽连斯基：我想跟特朗普谈5个问题",
+          "url": "https://news.ifeng.com/c/8pS8Ckuh1cP",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时14分 ~ 20时26分]"
+        },
+        {
           "title": "乌媒：泽连斯基概述想和特朗普讨论“和平计划”的5个问题",
           "url": "https://flash.jin10.com/detail/20251228145227378800",
           "source": "金十数据",
@@ -136,17 +149,6 @@
           "time_info": "[15时15分 ~ 17时15分]"
         },
         {
-          "title": "泽连斯基：我想跟特朗普谈5个问题",
-          "url": "https://news.ifeng.com/c/8pS8Ckuh1cP",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时14分 ~ 19时13分]"
-        },
-        {
           "title": "特朗普与泽连斯基会晤时间有所调整",
           "url": "https://flash.jin10.com/detail/20251228094750696800",
           "source": "金十数据",
@@ -164,11 +166,12 @@
           "url": "https://flash.jin10.com/detail/20251228180224795800",
           "source": "金十数据",
           "ranks": [
-            9
+            9,
+            28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时13分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时13分 ~ 20时26分]"
         },
         {
           "title": "特朗普为美国带来了什么改变",
@@ -242,8 +245,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时42分 ~ 19时13分]"
+          "appearance_count": 13,
+          "time_info": "[11时42分 ~ 20时26分]"
         },
         {
           "title": "佩泽希齐扬：伊朗正与美欧打“全面战争”",
@@ -329,11 +332,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时15分 ~ 19时13分]"
+          "appearance_count": 6,
+          "time_info": "[15时15分 ~ 20时26分]"
         },
         {
           "title": "铂金价格一周涨了超20% 黄金白银铂金价格都爆了什么原因?",
