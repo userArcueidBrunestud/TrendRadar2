@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-28T07:14:24.201742+08:00",
-  "total_titles_processed": 406,
+  "generated_at": "2025-12-28T09:13:29.210678+08:00",
+  "total_titles_processed": 492,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,49 @@
           "url": "https://news.ifeng.com/c/8pQGvvrjsvt",
           "source": "凤凰网",
           "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时16分 ~ 09时13分]"
+        },
+        {
+          "title": "泽连斯基周日会晤特朗普讨论“敏感问题”，俄副外长：乌公布的“和平计划”草案与俄美商讨内容“根本不同”",
+          "url": "https://wallstreetcn.com/articles/3762172",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时16分 ~ 07时14分]"
+          "appearance_count": 9,
+          "time_info": "[00时16分 ~ 09时13分]"
+        },
+        {
+          "title": "美国总统特朗普：关税正在为美国创造巨大财富，并带来前所未有的国家安全保障。贸易逆差已削减60%，实属史无前例。GDP增长率达4.3%，且持续攀升。没有通货膨胀！！！我们国家再次赢得世界尊重。",
+          "url": "https://flash.jin10.com/detail/20251227214522049800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时16分 ~ 09时13分]"
+        },
+        {
+          "title": "美国总统特朗普：美国的犯罪率处于历史最低水平。这在很大程度上要归功于历史上最成功的南部边境行动。此外，今天在美国工作的人比以往任何时候都多。",
+          "url": "https://flash.jin10.com/detail/20251227213217547800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时16分 ~ 09时13分]"
         },
         {
           "title": "特朗普海湖庄园将上演“鸿门宴”吗",
@@ -32,40 +70,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时16分 ~ 06时13分]"
-        },
-        {
-          "title": "美国总统特朗普：关税正在为美国创造巨大财富，并带来前所未有的国家安全保障。贸易逆差已削减60%，实属史无前例。GDP增长率达4.3%，且持续攀升。没有通货膨胀！！！我们国家再次赢得世界尊重。",
-          "url": "https://flash.jin10.com/detail/20251227214522049800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时16分 ~ 07时14分]"
-        },
-        {
-          "title": "泽连斯基周日会晤特朗普讨论“敏感问题”，俄副外长：乌公布的“和平计划”草案与俄美商讨内容“根本不同”",
-          "url": "https://wallstreetcn.com/articles/3762172",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时16分 ~ 07时14分]"
-        },
-        {
-          "title": "美国总统特朗普：美国的犯罪率处于历史最低水平。这在很大程度上要归功于历史上最成功的南部边境行动。此外，今天在美国工作的人比以往任何时候都多。",
-          "url": "https://flash.jin10.com/detail/20251227213217547800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时16分 ~ 07时14分]"
         },
         {
           "title": "日本给特朗普的5500亿“大礼包”第一笔要落地了，财务省拨460亿支持投资及核电",
