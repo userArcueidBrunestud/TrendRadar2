@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-28T16:19:06.245740+08:00",
-  "total_titles_processed": 877,
+  "generated_at": "2025-12-28T17:15:21.416422+08:00",
+  "total_titles_processed": 925,
   "failed_sources": [],
   "trends": [
     {
@@ -80,8 +80,20 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时39分 ~ 16时19分]"
+          "appearance_count": 8,
+          "time_info": "[12时39分 ~ 17时15分]"
+        },
+        {
+          "title": "邵永灵：美媒承认斩杀线并甩锅特朗普",
+          "url": "https://www.toutiao.com/trending/7588795037148794414/",
+          "source": "今日头条",
+          "ranks": [
+            8,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时18分 ~ 17时15分]"
         },
         {
           "title": "日本给特朗普的5500亿“大礼包”第一笔要落地了，财务省拨460亿支持投资及核电",
@@ -100,11 +112,12 @@
           "source": "金十数据",
           "ranks": [
             2,
-            11
+            11,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时15分 ~ 16时19分]"
+          "appearance_count": 3,
+          "time_info": "[15时15分 ~ 17时15分]"
         },
         {
           "title": "特朗普秘密指令对24个“贩毒集团”实施海上打击",
@@ -112,11 +125,12 @@
           "source": "金十数据",
           "ranks": [
             3,
-            12
+            12,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时15分 ~ 16时19分]"
+          "appearance_count": 3,
+          "time_info": "[15时15分 ~ 17时15分]"
         },
         {
           "title": "特朗普与泽连斯基会晤时间有所调整",
@@ -130,17 +144,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时42分 ~ 13时19分]"
-        },
-        {
-          "title": "邵永灵：美媒承认斩杀线并甩锅特朗普",
-          "url": "https://www.toutiao.com/trending/7588795037148794414/",
-          "source": "今日头条",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时18分 ~ 16时19分]"
         },
         {
           "title": "特朗普为美国带来了什么改变",
@@ -213,8 +216,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时42分 ~ 16时19分]"
+          "appearance_count": 9,
+          "time_info": "[11时42分 ~ 17时15分]"
         },
         {
           "title": "佩泽希齐扬：伊朗正与美欧打“全面战争”",
@@ -235,11 +238,12 @@
           "source": "金十数据",
           "ranks": [
             5,
-            14
+            14,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时15分 ~ 16时19分]"
+          "appearance_count": 3,
+          "time_info": "[15时15分 ~ 17时15分]"
         },
         {
           "title": "伊朗总统：正与美欧打“全面战争”",
@@ -252,6 +256,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[14时21分 ~ 15时15分]"
+        },
+        {
+          "title": "伊朗总统：伊朗正跟西方全面开战",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%80%BB%E7%BB%9F%EF%BC%9A%E4%BC%8A%E6%9C%97%E6%AD%A3%E8%B7%9F%E8%A5%BF%E6%96%B9%E5%85%A8%E9%9D%A2%E5%BC%80%E6%88%98",
+          "source": "百度热搜",
+          "ranks": [
+            30,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时15分 ~ 17时15分]"
         },
         {
           "title": "伊朗总统称，如今伊朗的军队和武器比以色列夏季发动袭击时更加强大。",
@@ -274,17 +290,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时42分"
-        },
-        {
-          "title": "伊朗总统：伊朗正跟西方全面开战",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%80%BB%E7%BB%9F%EF%BC%9A%E4%BC%8A%E6%9C%97%E6%AD%A3%E8%B7%9F%E8%A5%BF%E6%96%B9%E5%85%A8%E9%9D%A2%E5%BC%80%E6%88%98",
-          "source": "百度热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时15分"
         }
       ]
     },
@@ -313,8 +318,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时15分"
+          "appearance_count": 2,
+          "time_info": "[15时15分 ~ 17时15分]"
         }
       ]
     },
