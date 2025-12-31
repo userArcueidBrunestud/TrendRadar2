@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-31T20:29:10.257406+08:00",
-  "total_titles_processed": 1712,
+  "generated_at": "2025-12-31T21:29:21.653489+08:00",
+  "total_titles_processed": 1789,
   "failed_sources": [],
   "trends": [
     {
@@ -93,6 +93,17 @@
           "time_info": "11时22分"
         },
         {
+          "title": "李在明展示特朗普送的白宫金钥匙(图)",
+          "url": "https://news.ifeng.com/c/8pWu87Onyz4",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时15分 ~ 21时29分]"
+        },
+        {
           "title": "外交部回应特朗普谈解放军军演",
           "url": "https://www.douyin.com/hot/2352044",
           "source": "抖音",
@@ -142,17 +153,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时14分 ~ 06时15分]"
-        },
-        {
-          "title": "李在明展示特朗普送的白宫金钥匙(图)",
-          "url": "https://news.ifeng.com/c/8pWu87Onyz4",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时15分 ~ 20时29分]"
         },
         {
           "title": "国台办回应特朗普称不担心台海局势",
@@ -327,8 +327,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时07分 ~ 20时29分]"
+          "appearance_count": 16,
+          "time_info": "[09时07分 ~ 21时29分]"
         },
         {
           "title": "美股回调，金属全线回落，现货白银重挫8%，沪金跌破千元关口，原油反弹",
@@ -521,8 +521,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时15分 ~ 20时29分]"
+          "appearance_count": 5,
+          "time_info": "[18时15分 ~ 21时29分]"
         },
         {
           "title": "伊朗外长：伊朗不会放弃和平核技术",
