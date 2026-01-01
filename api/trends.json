@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-01T14:23:32.506711+08:00",
-  "total_titles_processed": 1048,
+  "generated_at": "2026-01-01T15:18:52.473744+08:00",
+  "total_titles_processed": 1103,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时13分 ~ 14时23分]"
+          "appearance_count": 6,
+          "time_info": "[09时13分 ~ 15时18分]"
         },
         {
           "title": "美国总统特朗普宣布：从芝加哥、洛杉矶、波特兰撤走国民警卫队。",
@@ -250,8 +250,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时13分 ~ 14时23分]"
+          "appearance_count": 6,
+          "time_info": "[09时13分 ~ 15时18分]"
         },
         {
           "title": "金十图示：2025年12月31日（周三）美股热门股票行情一览（美股盘中）",
@@ -397,8 +397,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时13分 ~ 14时23分]"
+          "appearance_count": 6,
+          "time_info": "[09时13分 ~ 15时18分]"
         }
       ]
     },
