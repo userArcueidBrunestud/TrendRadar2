@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-09T20:31:41.245469+08:00",
-  "total_titles_processed": 1936,
+  "generated_at": "2026-01-09T21:34:07.461146+08:00",
+  "total_titles_processed": 2039,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 150,
+      "match_count": 154,
       "titles": [
         {
           "title": "彻底不减支了？特朗普称2027年美军事预算应是1.5万亿美元，较今年暴增50%",
@@ -20,6 +20,29 @@
           "time_info": "[00时21分 ~ 07时14分]"
         },
         {
+          "title": "特朗普：取消对委内瑞拉第二波打击",
+          "url": "https://news.ifeng.com/c/8pmFjAsY9wc",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[18时16分 ~ 21时34分]"
+        },
+        {
+          "title": "中方回应特朗普涉台言论：解决台湾问题是中国人自己的事",
+          "url": "https://www.cls.cn/detail/2252966",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[16时22分 ~ 21时34分]"
+        },
+        {
           "title": "特朗普放话“我不需要国际法”",
           "url": "https://news.ifeng.com/c/8plmHsoaK5L",
           "source": "凤凰网",
@@ -28,8 +51,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时25分 ~ 20时31分]"
+          "appearance_count": 14,
+          "time_info": "[11时25分 ~ 21时34分]"
         },
         {
           "title": "特朗普表示，美国必须「拥有」整个格陵兰，释放了什么信号？",
@@ -47,8 +70,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时34分 ~ 20时31分]"
+          "appearance_count": 13,
+          "time_info": "[12时34分 ~ 21时34分]"
         },
         {
           "title": "“特朗普版QE”？特朗普指示“两房”购买2000亿美元美国抵押贷款债券",
@@ -60,8 +83,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时25分 ~ 20时31分]"
+          "appearance_count": 14,
+          "time_info": "[11时25分 ~ 21时34分]"
         },
         {
           "title": "特朗普创纪录1.5万亿军费要打“世界大战”？军工股大反弹，无人机厂商两位数高涨",
@@ -71,11 +94,12 @@
             6,
             7,
             8,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时25分 ~ 20时31分]"
+          "appearance_count": 14,
+          "time_info": "[11时25分 ~ 21时34分]"
         },
         {
           "title": "特朗普一口气退出了哪66个国际组织？",
@@ -114,17 +138,6 @@
           "time_info": "[00时21分 ~ 12时34分]"
         },
         {
-          "title": "特朗普：取消对委内瑞拉第二波打击",
-          "url": "https://news.ifeng.com/c/8pmFjAsY9wc",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时16分 ~ 20时31分]"
-        },
-        {
           "title": "崔天凯：特朗普退出66个国际组织求“破”，中方应以“立”为主",
           "url": "https://m.thepaper.cn/newsDetail_forward_32345211",
           "source": "澎湃新闻",
@@ -140,16 +153,27 @@
           "time_info": "[11时25分 ~ 18时17分]"
         },
         {
-          "title": "中方回应特朗普涉台言论：解决台湾问题是中国人自己的事",
-          "url": "https://www.cls.cn/detail/2252966",
-          "source": "财联社热门",
+          "title": "特朗普妄称中国若在其任内改变台湾现状，他将非常不悦，中方回应",
+          "url": "https://news.ifeng.com/c/8pm6HIDB94W",
+          "source": "凤凰网",
           "ranks": [
-            10,
-            1
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[16时22分 ~ 21时34分]"
+        },
+        {
+          "title": "外交部回应特朗普涉台言论",
+          "url": "https://www.douyin.com/hot/2362093",
+          "source": "抖音",
+          "ranks": [
+            9,
+            2
           ],
           "is_new": false,
           "appearance_count": 7,
-          "time_info": "[16时22分 ~ 20时31分]"
+          "time_info": "[18时16分 ~ 21时34分]"
         },
         {
           "title": "特朗普指示美国退出“不再符合美国利益”的66个国际组织",
@@ -181,29 +205,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时21分 ~ 07时14分]"
-        },
-        {
-          "title": "特朗普妄称中国若在其任内改变台湾现状，他将非常不悦，中方回应",
-          "url": "https://news.ifeng.com/c/8pm6HIDB94W",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时22分 ~ 20时31分]"
-        },
-        {
-          "title": "外交部回应特朗普涉台言论",
-          "url": "https://www.douyin.com/hot/2362093",
-          "source": "抖音",
-          "ranks": [
-            9,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时16分 ~ 20时31分]"
         },
         {
           "title": "特朗普：美联储主席人选已定，但我暂时不想说",
@@ -307,6 +308,17 @@
           "time_info": "07时14分"
         },
         {
+          "title": "美国能源部长赖特：特朗普总统将改变条件，允许企业进入委内瑞拉。",
+          "url": "https://flash.jin10.com/detail/20260109212658629800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时34分"
+        },
+        {
           "title": "这招儿恐被用在台海？特朗普听完，耸耸肩说…",
           "url": "https://news.ifeng.com/c/8pls4YBnj3I",
           "source": "凤凰网",
@@ -325,7 +337,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时31分"
         },
@@ -711,6 +723,17 @@
           "time_info": "[11时25分 ~ 12时34分]"
         },
         {
+          "title": "特朗普：取消对委内瑞拉第二波打击，油企将投资至少1000亿美元",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32351594",
+          "source": "澎湃新闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时33分 ~ 21时34分]"
+        },
+        {
           "title": "当被问及美国民众何时才能收到特朗普承诺从关税收入中拨出的2000美元支票，特朗普表示，发放这些款项无需国会批准。当被问及具体时间表时，他回答说：“我想大概在年底左右。”",
           "url": "https://flash.jin10.com/detail/20260109032840133800",
           "source": "金十数据",
@@ -939,6 +962,17 @@
           "time_info": "11时25分"
         },
         {
+          "title": "特朗普会晤17家油企高管 拟投千亿美元重启委内瑞拉石油版图",
+          "url": "https://flash.jin10.com/detail/20260109212131250800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时34分"
+        },
+        {
           "title": "美国总统特朗普：我不需要国际法。 美国需要遵守国际法。（纽约时报）",
           "url": "https://wallstreetcn.com/livenews/3033519",
           "source": "华尔街见闻-快讯",
@@ -989,7 +1023,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时31分"
         },
@@ -1682,7 +1716,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时31分"
         },
@@ -1740,13 +1774,40 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时25分"
+        },
+        {
+          "title": "白宫官员：雪佛龙、埃克森美孚和哈利伯顿将出席与特朗普的会唔。 壳牌、瓦莱罗、马拉松、埃尼将出席与特朗普的会唔。",
+          "url": "https://wallstreetcn.com/livenews/3034131",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时34分"
         }
       ]
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 27,
+      "match_count": 31,
       "titles": [
+        {
+          "title": "伊朗大范围断网，澳大利亚曾发警告，要求其公民尽快离伊，大规模断网是什么原因？如何解读当前伊朗局势？",
+          "url": "https://www.zhihu.com/question/1992897642179552544",
+          "source": "知乎",
+          "ranks": [
+            17,
+            13,
+            10,
+            8,
+            3,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[15时21分 ~ 21时34分]"
+        },
         {
           "title": "媒体称伊朗抗议席卷全国一半省份，至少 36 人死亡，一旦伊朗失控谁是背后赢家？谁失利？",
           "url": "https://www.zhihu.com/question/1992559906939696772",
@@ -1788,22 +1849,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时08分 ~ 13时20分]"
-        },
-        {
-          "title": "伊朗大范围断网，澳大利亚曾发警告，要求其公民尽快离伊，大规模断网是什么原因？如何解读当前伊朗局势？",
-          "url": "https://www.zhihu.com/question/1992897642179552544",
-          "source": "知乎",
-          "ranks": [
-            17,
-            13,
-            10,
-            8,
-            3,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时21分 ~ 20时31分]"
         },
         {
           "title": "伊朗采取极端措施了",
@@ -1909,6 +1954,17 @@
           "time_info": "[09时08分 ~ 11时25分]"
         },
         {
+          "title": "伊朗指责美以策划动乱",
+          "url": "https://www.douyin.com/hot/2362541",
+          "source": "抖音",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时33分 ~ 21时34分]"
+        },
+        {
           "title": "伊朗军方称不会对敌人威胁置之不理",
           "url": "https://www.toutiao.com/trending/7592155520685883446/",
           "source": "今日头条",
@@ -1993,7 +2049,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时31分"
         },
@@ -2007,6 +2063,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时15分"
+        },
+        {
+          "title": "迪拜机场确认多趟飞往伊朗航班被取消",
+          "url": "https://wallstreetcn.com/livenews/3034149",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时34分"
         },
         {
           "title": "美国财长贝森特：伊朗正处于岌岌可危的时刻；经济已岌岌可危。",
@@ -2031,6 +2098,17 @@
           "time_info": "02时20分"
         },
         {
+          "title": "欧盟外交与安全政策高级代表卡拉斯：来自德黑兰的影像显示，伊朗安全部队采取了过度且强硬的应对措施。",
+          "url": "https://flash.jin10.com/detail/20260109211220996800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时34分"
+        },
+        {
           "title": "伊朗最高领袖哈梅内伊：伊朗不会容忍外国支持的行动。",
           "url": "https://flash.jin10.com/detail/20260109164927482800",
           "source": "金十数据",
@@ -2051,6 +2129,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时22分"
+        },
+        {
+          "title": "据伊朗塔斯尼姆通讯社：德黑兰刑事调查部门多名警官在夜间遭武装抗议者杀害。",
+          "url": "https://flash.jin10.com/detail/20260109210656059800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时34分"
         },
         {
           "title": "伊朗外长称做好准备应对战争",
@@ -2077,8 +2166,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时08分 ~ 20时31分]"
+          "appearance_count": 15,
+          "time_info": "[09时08分 ~ 21时34分]"
         },
         {
           "title": "美股收盘：三大指数涨跌不一 军工股全线走强 阿里巴巴涨超5%",
@@ -2378,8 +2467,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时25分 ~ 20时31分]"
+          "appearance_count": 14,
+          "time_info": "[11时25分 ~ 21时34分]"
         },
         {
           "title": "美经济数据喜忧参半，美股涨势暂歇，美债受捧，美元两连涨，金银铜跌离高位",
@@ -2487,9 +2576,59 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时31分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "DeepSeek将在未来几周推出新一代旗舰AI模型，具备强大的编程能力。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3034166",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时34分"
+        },
+        {
+          "title": "DeepSeek将发布具备强劲编程能力的下一代旗舰AI模型",
+          "url": "https://flash.jin10.com/detail/20260109211825941800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时34分"
+        },
+        {
+          "title": "据The Information：DeepSeek将于2月发布下一代旗舰AI模型。",
+          "url": "https://flash.jin10.com/detail/20260109211554693800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时34分"
+        },
+        {
+          "title": "微软报告：DeepSeek人工智能在发展中国家崭露头角",
+          "url": "https://wallstreetcn.com/livenews/3033475",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时20分"
         }
       ]
     },
@@ -2541,23 +2680,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时15分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "微软报告：DeepSeek人工智能在发展中国家崭露头角",
-          "url": "https://wallstreetcn.com/livenews/3033475",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时20分"
         }
       ]
     }
