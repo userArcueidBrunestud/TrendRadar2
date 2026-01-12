@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-12T14:27:17.496516+08:00",
-  "total_titles_processed": 1002,
+  "generated_at": "2026-01-12T15:22:29.089119+08:00",
+  "total_titles_processed": 1084,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 45,
+      "match_count": 46,
       "titles": [
         {
           "title": "特朗普再次威胁伊朗，被曝已听取军事打击方案汇报 伊朗军方：团结起来挫败敌人阴谋",
@@ -40,8 +40,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时11分 ~ 14时27分]"
+          "appearance_count": 8,
+          "time_info": "[09时11分 ~ 15时22分]"
         },
         {
           "title": "2026最大的交易主题：输不起的特朗普，国际秩序的终结",
@@ -53,8 +53,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时16分 ~ 14时27分]"
+          "appearance_count": 18,
+          "time_info": "[00时16分 ~ 15时22分]"
+        },
+        {
+          "title": "特朗普发图自称“委内瑞拉代总统”",
+          "url": "https://news.ifeng.com/c/8pqpIh8lxzW",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时44分 ~ 15时22分]"
         },
         {
           "title": "美银Hartnett谈“一季度策略”：特朗普为中选“压通胀、降利率”，投资者“做多经济繁荣、做空AI泡沫”",
@@ -79,17 +90,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时16分 ~ 09时11分]"
-        },
-        {
-          "title": "特朗普发图自称“委内瑞拉代总统”",
-          "url": "https://news.ifeng.com/c/8pqpIh8lxzW",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时44分 ~ 14时27分]"
         },
         {
           "title": "特朗普最新涉台表态：台湾问题是中国自己的事",
@@ -119,6 +119,18 @@
           "time_info": "[00时17分 ~ 06时14分]"
         },
         {
+          "title": "为「保护」美方所持委石油收入，特朗普宣布进入国家紧急状态，这意味着什么？将带来哪些影响？",
+          "url": "https://www.zhihu.com/question/1993540481494311303",
+          "source": "知乎",
+          "ranks": [
+            6,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时11分 ~ 15时22分]"
+        },
+        {
           "title": "又要动手了？美媒爆料：特朗普或向中东派航母战斗群",
           "url": "https://news.ifeng.com/c/8ppuy7JPm5z",
           "source": "凤凰网",
@@ -141,18 +153,6 @@
           "time_info": "[01时12分 ~ 07时14分]"
         },
         {
-          "title": "为「保护」美方所持委石油收入，特朗普宣布进入国家紧急状态，这意味着什么？将带来哪些影响？",
-          "url": "https://www.zhihu.com/question/1993540481494311303",
-          "source": "知乎",
-          "ranks": [
-            6,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时11分 ~ 14时27分]"
-        },
-        {
           "title": "“台湾问题是中国自己的事！”特朗普最新表态，岛内震动",
           "url": "https://news.ifeng.com/c/8pqfcPi6t1P",
           "source": "凤凰网",
@@ -160,8 +160,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时43分 ~ 14时27分]"
+          "appearance_count": 7,
+          "time_info": "[11时43分 ~ 15时22分]"
         },
         {
           "title": "特朗普威胁古巴尽快同美国“达成协议”",
@@ -174,8 +174,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时43分 ~ 14时27分]"
+          "appearance_count": 7,
+          "time_info": "[11时43分 ~ 15时22分]"
         },
         {
           "title": "美媒：特朗普政府正考虑多种方案，以支持伊朗抗议活动并削弱该国政权",
@@ -203,6 +203,17 @@
           "time_info": "[00时17分 ~ 05时13分]"
         },
         {
+          "title": "美国驻印度大使在新德里表示，希望特朗普在一两年内访问印度。 美国和印度继续积极在贸易、安全和科技领域合作。 有关贸易问题的下一次讨论将在周二进行。",
+          "url": "https://wallstreetcn.com/livenews/3035048",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时22分"
+        },
+        {
           "title": "美国总统特朗普将于周二听取与伊朗相关选项的介绍。 这些考虑还处于早期阶段。（华尔街日报）",
           "url": "https://wallstreetcn.com/livenews/3034760",
           "source": "华尔街见闻-快讯",
@@ -215,6 +226,19 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时16分 ~ 07时14分]"
+        },
+        {
+          "title": "特朗普对台问题表态引岛内热议",
+          "url": "https://www.douyin.com/hot/2364980",
+          "source": "抖音",
+          "ranks": [
+            16,
+            19,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时44分 ~ 15时22分]"
         },
         {
           "title": "特朗普谈古巴：我强烈建议他们趁为时未晚达成协议",
@@ -299,19 +323,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时44分 ~ 13时25分]"
-        },
-        {
-          "title": "特朗普对台问题表态引岛内热议",
-          "url": "https://www.douyin.com/hot/2364980",
-          "source": "抖音",
-          "ranks": [
-            16,
-            19,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时44分 ~ 14时27分]"
         },
         {
           "title": "有网友在社交媒体平台上称，美国国务卿鲁比奥将成为“古巴总统”。 美国总统特朗普随后截图并在自家社交媒体平台评论称：“听起来不错！”",
@@ -542,7 +553,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 39,
+      "match_count": 42,
       "titles": [
         {
           "title": "伊朗媒体：“大量人员”在近期骚乱中死亡",
@@ -579,8 +590,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时16分 ~ 14时27分]"
+          "appearance_count": 18,
+          "time_info": "[00时16分 ~ 15时22分]"
         },
         {
           "title": "伊朗总统称美国与以色列指使「暴徒」在伊朗制造不稳定局势，透露出哪些信息？",
@@ -593,6 +604,18 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时16分 ~ 09时11分]"
+        },
+        {
+          "title": "伊朗哀悼3天",
+          "url": "https://www.douyin.com/hot/2364835",
+          "source": "抖音",
+          "ranks": [
+            2,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时43分 ~ 15时22分]"
         },
         {
           "title": "总台现场直击丨德黑兰民众生活基本正常，伊朗称将捍卫国家利益",
@@ -622,18 +645,6 @@
           "time_info": "[00时16分 ~ 07时14分]"
         },
         {
-          "title": "伊朗哀悼3天",
-          "url": "https://www.douyin.com/hot/2364835",
-          "source": "抖音",
-          "ranks": [
-            2,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时43分 ~ 14时27分]"
-        },
-        {
           "title": "据以色列官员透露，该国总理内塔尼亚胡周六深夜与美国国务卿卢比奥通话，讨论伊朗局势。（美联社）",
           "url": "https://wallstreetcn.com/livenews/3034751",
           "source": "华尔街见闻-快讯",
@@ -646,6 +657,18 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时17分 ~ 06时14分]"
+        },
+        {
+          "title": "为什么近两年时间，以伊朗为首的势力突然不行了？",
+          "url": "https://www.zhihu.com/question/1989482381921518040",
+          "source": "知乎",
+          "ranks": [
+            11,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时43分 ~ 15时22分]"
         },
         {
           "title": "以色列总理内塔尼亚胡：以色列正紧盯伊朗局势。",
@@ -671,6 +694,20 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时14分 ~ 07时14分]"
+        },
+        {
+          "title": "伊朗政府宣布全国哀悼三天",
+          "url": "https://www.cls.cn/detail/2254259",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10,
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时43分 ~ 15时22分]"
         },
         {
           "title": "据美联社：以色列官员透露，该国总理内塔尼亚胡周六深夜与美国国务卿鲁比奥通话，讨论伊朗局势。",
@@ -700,6 +737,17 @@
           "time_info": "[00时17分 ~ 06时14分]"
         },
         {
+          "title": "伊朗政府宣布全国哀悼三天",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%94%BF%E5%BA%9C%E5%AE%A3%E5%B8%83%E5%85%A8%E5%9B%BD%E5%93%80%E6%82%BC%E4%B8%89%E5%A4%A9",
+          "source": "百度热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时43分 ~ 15时22分]"
+        },
+        {
           "title": "总部位于美国、关注人权状况的媒体机构HRANA称，与抗议活动相关的伊朗死亡人数已升至203人。",
           "url": "https://flash.jin10.com/detail/20260111222005048800",
           "source": "金十数据",
@@ -713,18 +761,6 @@
           "time_info": "[00时17分 ~ 06时14分]"
         },
         {
-          "title": "为什么近两年时间，以伊朗为首的势力突然不行了？",
-          "url": "https://www.zhihu.com/question/1989482381921518040",
-          "source": "知乎",
-          "ranks": [
-            11,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时43分 ~ 14时27分]"
-        },
-        {
           "title": "伊朗政府多举措应对局势，强化安全与供应",
           "url": "https://wallstreetcn.com/livenews/3034768",
           "source": "华尔街见闻-快讯",
@@ -736,30 +772,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时13分 ~ 07时14分]"
-        },
-        {
-          "title": "伊朗政府宣布全国哀悼三天",
-          "url": "https://www.cls.cn/detail/2254259",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            10,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时43分 ~ 14时27分]"
-        },
-        {
-          "title": "伊朗政府宣布全国哀悼三天",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%94%BF%E5%BA%9C%E5%AE%A3%E5%B8%83%E5%85%A8%E5%9B%BD%E5%93%80%E6%82%BC%E4%B8%89%E5%A4%A9",
-          "source": "百度热搜",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时43分 ~ 14时27分]"
         },
         {
           "title": "以色列总理内塔尼亚胡：以色列正密切关注伊朗局势的发展，并希望该国很快就能摆脱“暴政”。",
@@ -971,6 +983,18 @@
           "time_info": "[09时11分 ~ 11时44分]"
         },
         {
+          "title": "美国将讨论干涉伊朗方案",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E5%B0%86%E8%AE%A8%E8%AE%BA%E5%B9%B2%E6%B6%89%E4%BC%8A%E6%9C%97%E6%96%B9%E6%A1%88",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时27分 ~ 15时22分]"
+        },
+        {
           "title": "伊朗或很快遭美国以色列攻击",
           "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E6%88%96%E5%BE%88%E5%BF%AB%E9%81%AD%E7%BE%8E%E5%9B%BD%E4%BB%A5%E8%89%B2%E5%88%97%E6%94%BB%E5%87%BB%23&t=31&band_rank=19&Refer=top",
           "source": "微博",
@@ -993,15 +1017,15 @@
           "time_info": "[07时14分 ~ 09时11分]"
         },
         {
-          "title": "美国将讨论干涉伊朗方案",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E5%B0%86%E8%AE%A8%E8%AE%BA%E5%B9%B2%E6%B6%89%E4%BC%8A%E6%9C%97%E6%96%B9%E6%A1%88",
-          "source": "bilibili 热搜",
+          "title": "伊朗外长：局势现已完全受控。",
+          "url": "https://flash.jin10.com/detail/20260112150228914800",
+          "source": "金十数据",
           "ranks": [
-            6
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时27分"
+          "time_info": "15时22分"
         },
         {
           "title": "伊朗为骚乱中死难人员举行全国哀悼",
@@ -1015,6 +1039,17 @@
           "time_info": "09时11分"
         },
         {
+          "title": "伊朗已有超百名安全人员在骚乱中丧生，美国将讨论干涉方案，骚乱的根本原因是何？美国或将从哪些方面干涉？",
+          "url": "https://www.zhihu.com/question/1993995898699658333",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时22分"
+        },
+        {
           "title": "伊朗哀悼3天",
           "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%93%80%E6%82%BC3%E5%A4%A9%23&t=31&band_rank=16&Refer=top",
           "source": "微博",
@@ -1024,12 +1059,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时11分"
+        },
+        {
+          "title": "市场消息：伊朗外长对印度的访问已被推迟，原定于本周进行。",
+          "url": "https://flash.jin10.com/detail/20260112143417293800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时22分"
         }
       ]
     },
     {
       "keyword_group": "金价",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "鲍威尔遭刑事调查冲击全球市场：美元急跌、金价升破4600美元",
@@ -1040,8 +1086,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时44分 ~ 14时27分]"
+          "appearance_count": 5,
+          "time_info": "[12时44分 ~ 15时22分]"
         },
         {
           "title": "金价飙升 多家银行公告提醒",
@@ -1053,6 +1099,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时16分 ~ 01时13分]"
+        },
+        {
+          "title": "金十图示：2026年01月12日（周一）上海金午盘价为1023.27元/克，较国际金价（1026.16元/克）低2.89元/克",
+          "url": "https://flash.jin10.com/detail/20260112150725808800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时22分"
         },
         {
           "title": "金价",
@@ -1091,7 +1148,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "沃尔玛与谷歌母公司Alphabet组团，在Gemini上提供由AI支持的购物功能。",
@@ -1132,12 +1189,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时25分 ~ 14时27分]"
+        },
+        {
+          "title": "备受关注的“AI商业模式”：谷歌率先在Gemini中引入广告",
+          "url": "https://wallstreetcn.com/articles/3763059",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时22分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "下周重磅日程：美国通胀、中国外贸数据，美股财报季正式开启，美高院关税裁决将出",
@@ -1161,8 +1229,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时11分 ~ 14时27分]"
+          "appearance_count": 8,
+          "time_info": "[09时11分 ~ 15时22分]"
         },
         {
           "title": "伊朗局势微妙，鲍威尔被诉，金银再创新高，油价连续走高、美股期货下跌",
@@ -1171,11 +1239,23 @@
           "ranks": [
             6,
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时43分 ~ 14时27分]"
+          "appearance_count": 7,
+          "time_info": "[11时43分 ~ 15时22分]"
+        },
+        {
+          "title": "美股期货走低，标普500指数期货跌0.6%，纳指期货跌0.9%。",
+          "url": "https://wallstreetcn.com/livenews/3035046",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时22分"
         }
       ]
     },
