@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-19T12:46:22.384815+08:00",
-  "total_titles_processed": 897,
+  "generated_at": "2026-01-19T13:27:18.885859+08:00",
+  "total_titles_processed": 955,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 50,
+      "match_count": 51,
       "titles": [
         {
           "title": "特朗普挥关税大棒强索格陵兰岛，意大利总理：这是个“错误”",
@@ -55,6 +55,29 @@
           "time_info": "[00时16分 ~ 11时45分]"
         },
         {
+          "title": "欧洲8国集体回应特朗普关税威胁",
+          "url": "https://news.ifeng.com/c/8q27ChONuGJ",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时12分 ~ 13时27分]"
+        },
+        {
+          "title": "【早报】中国商业航天首次！载人飞船着陆缓冲技术获成功验证；特朗普再打“关税牌”，欧盟多国：正考虑反制",
+          "url": "https://www.cls.cn/detail/2261562",
+          "source": "财联社热门",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时12分 ~ 13时27分]"
+        },
+        {
           "title": "欧洲指责特朗普引发“危险恶性循环”，将面临哪些艰难抉择？",
           "url": "https://m.thepaper.cn/newsDetail_forward_32410190",
           "source": "澎湃新闻",
@@ -66,8 +89,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时16分 ~ 12时46分]"
+          "appearance_count": 16,
+          "time_info": "[00时16分 ~ 13时27分]"
         },
         {
           "title": "伊朗总统警告特朗普：攻击哈梅内伊将引发全面战争",
@@ -80,29 +103,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[01时12分 ~ 09时12分]"
-        },
-        {
-          "title": "欧洲8国集体回应特朗普关税威胁",
-          "url": "https://news.ifeng.com/c/8q27ChONuGJ",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时12分 ~ 12时46分]"
-        },
-        {
-          "title": "【早报】中国商业航天首次！载人飞船着陆缓冲技术获成功验证；特朗普再打“关税牌”，欧盟多国：正考虑反制",
-          "url": "https://www.cls.cn/detail/2261562",
-          "source": "财联社热门",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时12分 ~ 12时46分]"
         },
         {
           "title": "联合国秘书长古特雷斯：（当被问及特朗普提出的和平委员会倡议时）会员国可以自由组成不同的团体。",
@@ -225,6 +225,18 @@
           "time_info": "[03时12分 ~ 07时14分]"
         },
         {
+          "title": "伊朗：将追究特朗普等人责任",
+          "url": "https://news.ifeng.com/c/8q2B9XoMclS",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时12分 ~ 13时27分]"
+        },
+        {
           "title": "美国财长贝森特：欧美贸易协议尚未达成最终协议。 特朗普拥有使用关税的紧急权力。 特朗普在处理格陵兰问题时采取了“策略性”的做法。 我们将继续留在北约内。 最高法院不大可能推翻特朗普的关税政策。",
           "url": "https://wallstreetcn.com/livenews/3039276",
           "source": "华尔街见闻-快讯",
@@ -298,6 +310,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[03时12分 ~ 07时14分]"
+        },
+        {
+          "title": "特朗普称将对欧洲 8 国加征关税，直至「完全收购格陵兰岛」，对国际秩序有哪些影响？",
+          "url": "https://www.zhihu.com/question/1996211344383435054",
+          "source": "知乎",
+          "ranks": [
+            9,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时44分 ~ 13时27分]"
         },
         {
           "title": "美国财长贝森特：最高法院推翻特朗普关税的可能性不大。",
@@ -390,18 +414,6 @@
           "time_info": "[06时14分 ~ 07时14分]"
         },
         {
-          "title": "伊朗：将追究特朗普等人责任",
-          "url": "https://news.ifeng.com/c/8q2B9XoMclS",
-          "source": "凤凰网",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时12分 ~ 12时46分]"
-        },
-        {
           "title": "特朗普欲将加沙“和平委员会”模式全球复制，视为“联合国的可能替代机构”",
           "url": "https://wallstreetcn.com/articles/3763529",
           "source": "华尔街见闻",
@@ -415,6 +427,18 @@
           "time_info": "[05时13分 ~ 09时12分]"
         },
         {
+          "title": "特朗普为何强夺格陵兰岛？贝森特：因为欧洲“软弱”",
+          "url": "https://wallstreetcn.com/articles/3763548",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时46分 ~ 13时27分]"
+        },
+        {
           "title": "特朗普发黑白照：我是关税之王(图)",
           "url": "https://news.ifeng.com/c/8q0nQjJB7h7",
           "source": "凤凰网",
@@ -426,16 +450,15 @@
           "time_info": "[00时16分 ~ 01时12分]"
         },
         {
-          "title": "特朗普称将对欧洲 8 国加征关税，直至「完全收购格陵兰岛」，对国际秩序有哪些影响？",
-          "url": "https://www.zhihu.com/question/1996211344383435054",
-          "source": "知乎",
+          "title": "从抢油到夺岛：解析特朗普的“唐罗主义”",
+          "url": "https://wallstreetcn.com/articles/3763551",
+          "source": "华尔街见闻",
           "ranks": [
-            9,
-            12
+            10
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[11时44分 ~ 12时46分]"
+          "time_info": "[12时46分 ~ 13时27分]"
         },
         {
           "title": "特朗普称加拿大需要增加国防开支。（NBC）",
@@ -464,6 +487,54 @@
           "time_info": "[00时17分 ~ 02时19分]"
         },
         {
+          "title": "美财长声援特朗普加税夺岛",
+          "url": "https://www.toutiao.com/trending/7595914700006211647/",
+          "source": "今日头条",
+          "ranks": [
+            29,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时46分 ~ 13时27分]"
+        },
+        {
+          "title": "美国总统特朗普：在达拉斯建立“纽约证券交易所”对纽约来说是难以置信的坏事。",
+          "url": "https://flash.jin10.com/detail/20260119121744013800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时46分 ~ 13时27分]"
+        },
+        {
+          "title": "特朗普称将“清除格陵兰岛俄罗斯威胁”",
+          "url": "https://flash.jin10.com/detail/20260119121117362800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时46分 ~ 13时27分]"
+        },
+        {
+          "title": "特朗普称，在达拉斯建造一个“纽约证券交易所”对纽约来说是一件糟糕透顶的事。",
+          "url": "https://wallstreetcn.com/livenews/3039516",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时46分 ~ 13时27分]"
+        },
+        {
           "title": "美国邀约60国加入特朗普版联合国",
           "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E9%82%80%E7%BA%A660%E5%9B%BD%E5%8A%A0%E5%85%A5%E7%89%B9%E6%9C%97%E6%99%AE%E7%89%88%E8%81%94%E5%90%88%E5%9B%BD%23&t=31&band_rank=12&Refer=top",
           "source": "微博",
@@ -473,6 +544,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时44分 ~ 11时45分]"
+        },
+        {
+          "title": "特朗普：北约20年来一直告诉丹麦，“你必须让俄罗斯的威胁远离格陵兰岛”。 丹麦在应对俄罗斯威胁方面无能为力。 现在是时候了，一定会采取行动！",
+          "url": "https://wallstreetcn.com/livenews/3039514",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时46分 ~ 13时27分]"
         },
         {
           "title": "英国首相斯塔默与欧洲领导人及特朗普通话 重申反对美国关税政策",
@@ -487,6 +570,17 @@
           "time_info": "[05时13分 ~ 06时14分]"
         },
         {
+          "title": "内塔尼亚胡罕见公开“叫板”特朗普",
+          "url": "https://www.toutiao.com/trending/7596220832478363654/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时26分 ~ 13时27分]"
+        },
+        {
           "title": "特朗普发布个人黑白照",
           "url": "https://wallstreetcn.com/livenews/3039253",
           "source": "华尔街见闻-快讯",
@@ -499,79 +593,13 @@
           "time_info": "[00时17分 ~ 01时12分]"
         },
         {
-          "title": "特朗普为何强夺格陵兰岛？贝森特：因为欧洲“软弱”",
-          "url": "https://wallstreetcn.com/articles/3763548",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时46分"
-        },
-        {
-          "title": "美国总统特朗普：在达拉斯建立“纽约证券交易所”对纽约来说是难以置信的坏事。",
-          "url": "https://flash.jin10.com/detail/20260119121744013800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时46分"
-        },
-        {
-          "title": "特朗普称将“清除格陵兰岛俄罗斯威胁”",
-          "url": "https://flash.jin10.com/detail/20260119121117362800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时46分"
-        },
-        {
-          "title": "从抢油到夺岛：解析特朗普的“唐罗主义”",
-          "url": "https://wallstreetcn.com/articles/3763551",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时46分"
-        },
-        {
-          "title": "特朗普称，在达拉斯建造一个“纽约证券交易所”对纽约来说是一件糟糕透顶的事。",
-          "url": "https://wallstreetcn.com/livenews/3039516",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时46分"
-        },
-        {
           "title": "市场分析：特朗普对欧洲的关税威胁最终将反噬自身",
           "url": "https://flash.jin10.com/detail/20260119115225347800",
           "source": "金十数据",
           "ranks": [
             12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时46分"
-        },
-        {
-          "title": "特朗普：北约20年来一直告诉丹麦，“你必须让俄罗斯的威胁远离格陵兰岛”。 丹麦在应对俄罗斯威胁方面无能为力。 现在是时候了，一定会采取行动！",
-          "url": "https://wallstreetcn.com/livenews/3039514",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时46分"
         },
@@ -582,7 +610,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时46分"
         },
@@ -596,17 +624,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时12分"
-        },
-        {
-          "title": "美财长声援特朗普加税夺岛",
-          "url": "https://www.toutiao.com/trending/7595914700006211647/",
-          "source": "今日头条",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时46分"
         }
       ]
     },
@@ -624,11 +641,26 @@
             26,
             18,
             24,
-            20
+            20,
+            4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时12分 ~ 11时45分]"
+          "appearance_count": 11,
+          "time_info": "[01时12分 ~ 13时27分]"
+        },
+        {
+          "title": "伊朗总统：袭击最高领袖等同全面战争",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%80%BB%E7%BB%9F%EF%BC%9A%E8%A2%AD%E5%87%BB%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%E7%AD%89%E5%90%8C%E5%85%A8%E9%9D%A2%E6%88%98%E4%BA%89",
+          "source": "百度热搜",
+          "ranks": [
+            27,
+            9,
+            18,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时12分 ~ 13时27分]"
         },
         {
           "title": "伊朗外交部：美国干涉应为美伊关系紧张负责",
@@ -657,19 +689,6 @@
           "time_info": "[03时12分 ~ 07时14分]"
         },
         {
-          "title": "伊朗总统：袭击最高领袖等同全面战争",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%80%BB%E7%BB%9F%EF%BC%9A%E8%A2%AD%E5%87%BB%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%E7%AD%89%E5%90%8C%E5%85%A8%E9%9D%A2%E6%88%98%E4%BA%89",
-          "source": "百度热搜",
-          "ranks": [
-            27,
-            9,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时12分 ~ 12时46分]"
-        },
-        {
           "title": "一图看懂｜从中产跌落到空难激增：美国制裁如何重创伊朗？",
           "url": "https://m.thepaper.cn/newsDetail_forward_32411977",
           "source": "澎湃新闻",
@@ -677,8 +696,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时44分 ~ 12时46分]"
+          "appearance_count": 5,
+          "time_info": "[11时44分 ~ 13时27分]"
         },
         {
           "title": "土耳其外长称以色列摩萨德正在介入伊朗局势",
@@ -803,8 +822,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时16分 ~ 12时46分]"
+          "appearance_count": 16,
+          "time_info": "[00时16分 ~ 13时27分]"
         }
       ]
     },
