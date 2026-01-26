@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-26T20:32:55.562286+08:00",
-  "total_titles_processed": 1607,
+  "generated_at": "2026-01-26T21:40:25.399435+08:00",
+  "total_titles_processed": 1706,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 40,
+      "match_count": 41,
       "titles": [
         {
           "title": "历史学大佬：特朗普“明抢格陵兰”，是为了“暗度伊朗和乌克兰”",
@@ -51,8 +51,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时51分 ~ 20时32分]"
+          "appearance_count": 12,
+          "time_info": "[11时51分 ~ 21时40分]"
         },
         {
           "title": "白宫发布特朗普和企鹅漫步格陵兰岛图，遭群嘲",
@@ -120,6 +120,17 @@
           "time_info": "[00时17分 ~ 06时15分]"
         },
         {
+          "title": "特朗普就加中贸易协定发出威胁，中方回应",
+          "url": "https://news.ifeng.com/c/8qEKozGmbDH",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时28分 ~ 21时40分]"
+        },
+        {
           "title": "特朗普承认使用“秘密”武器",
           "url": "https://www.cls.cn/detail/2268653",
           "source": "财联社热门",
@@ -169,17 +180,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时17分 ~ 06时15分]"
-        },
-        {
-          "title": "特朗普就加中贸易协定发出威胁，中方回应",
-          "url": "https://news.ifeng.com/c/8qEKozGmbDH",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时28分 ~ 20时32分]"
         },
         {
           "title": "市场消息：俄罗斯副外长里亚布科夫证实，特朗普已收到访俄邀请。",
@@ -343,6 +343,29 @@
           "time_info": "[06时15分 ~ 07时15分]"
         },
         {
+          "title": "特朗普政府被爆试图颠覆古巴政权，克宫回应",
+          "url": "https://news.ifeng.com/c/8qEZiQr69Vb",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时32分 ~ 21时40分]"
+        },
+        {
+          "title": "特朗普政府将入股美国稀土公司，持股10%涉资16亿美元",
+          "url": "https://wallstreetcn.com/articles/3764157",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时32分 ~ 21时40分]"
+        },
+        {
           "title": "美国明尼苏达州多位CEO呼吁缓解特朗普移民局与抗议者之间的紧张局势",
           "url": "https://wallstreetcn.com/livenews/3043410",
           "source": "华尔街见闻-快讯",
@@ -388,17 +411,6 @@
           "time_info": "09时14分"
         },
         {
-          "title": "特朗普政府被爆试图颠覆古巴政权，克宫回应",
-          "url": "https://news.ifeng.com/c/8qEZiQr69Vb",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时32分"
-        },
-        {
           "title": "特朗普要求明尼苏达州移交所有犯罪非法移民",
           "url": "https://wallstreetcn.com/livenews/3043511",
           "source": "华尔街见闻-快讯",
@@ -419,17 +431,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时17分"
-        },
-        {
-          "title": "特朗普政府将入股美国稀土公司，持股10%涉资16亿美元",
-          "url": "https://wallstreetcn.com/articles/3764157",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时32分"
         },
         {
           "title": "俄外交部证实俄方曾向特朗普发出访俄邀请，但之后没有取得任何实质性进展",
@@ -476,13 +477,24 @@
           "time_info": "16时23分"
         },
         {
+          "title": "德防长：建议特朗普道歉但不抱希望",
+          "url": "https://www.toutiao.com/trending/7599628634244694058/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时40分"
+        },
+        {
           "title": "特朗普与奥巴马克林顿呛声",
           "url": "https://www.toutiao.com/trending/7598711075387195443/",
           "source": "今日头条",
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时32分"
         }
@@ -515,8 +527,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时29分 ~ 20时32分]"
+          "appearance_count": 10,
+          "time_info": "[13时29分 ~ 21时40分]"
         },
         {
           "title": "伊朗官员称伊武装力量已进入全面戒备状态",
@@ -608,6 +620,18 @@
           "time_info": "[09时13分 ~ 13时29分]"
         },
         {
+          "title": "外媒报道称伊朗最高领袖哈梅内伊已进入德黑兰一处加固地堡，美国会对伊朗动武吗？当前伊朗局势如何？",
+          "url": "https://www.zhihu.com/question/1999117900200551138",
+          "source": "知乎",
+          "ranks": [
+            17,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时20分 ~ 21时40分]"
+        },
+        {
           "title": "伊朗称若遭军事打击将袭击美航母",
           "url": "https://www.toutiao.com/trending/7599250332044230719/",
           "source": "今日头条",
@@ -619,18 +643,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[13时29分 ~ 15时23分]"
-        },
-        {
-          "title": "外媒报道称伊朗最高领袖哈梅内伊已进入德黑兰一处加固地堡，美国会对伊朗动武吗？当前伊朗局势如何？",
-          "url": "https://www.zhihu.com/question/1999117900200551138",
-          "source": "知乎",
-          "ranks": [
-            17,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时20分 ~ 20时32分]"
         },
         {
           "title": "美重兵逼近 伊朗手中有何底牌",
@@ -725,8 +737,19 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 12,
+      "match_count": 17,
       "titles": [
+        {
+          "title": "美日干预叠加政府关门预期，黄金站上5100、白银突破110，日元强势反弹，美股汇齐跌",
+          "url": "https://wallstreetcn.com/articles/3764111",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时28分 ~ 21时40分]"
+        },
         {
           "title": "美日干预叠加政府关门预期，金银新高、白银飙涨6%，日元大涨1%，非美货币全线爆发，日美股市下挫",
           "url": "https://wallstreetcn.com/articles/3764111",
@@ -737,17 +760,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[11时51分 ~ 14时28分]"
-        },
-        {
-          "title": "美日干预叠加政府关门预期，黄金站上5100、白银突破110，日元强势反弹，美股汇齐跌",
-          "url": "https://wallstreetcn.com/articles/3764111",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时28分 ~ 20时32分]"
         },
         {
           "title": "从“七巨头信仰”到“用表现说话” 下周美股面临财报生死局",
@@ -828,9 +840,31 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时32分"
+        },
+        {
+          "title": "Coreweave(CRWV.O)美股盘前短线拉升，一度涨超11%。",
+          "url": "https://flash.jin10.com/detail/20260126210223888800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时40分"
+        },
+        {
+          "title": "CoreWeave美股盘前涨超10%，报道称英伟达向CoreWeave A类普通股投资20亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3044022",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时40分"
         },
         {
           "title": "ABRDN实物白银股票ETF美股盘前涨6.7%，Global X白银矿业ETF涨6.2%，iShares白银信托上涨6.6%。",
@@ -861,9 +895,42 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时32分"
+        },
+        {
+          "title": "IONQ美股盘前涨超3%，该公司将以每股35美元的价格收购Skywater Technology。",
+          "url": "https://wallstreetcn.com/livenews/3044013",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时40分"
+        },
+        {
+          "title": "IONQ美股盘前涨2.7%；该公司将以每股35美元的价格收购Skywater Technology。",
+          "url": "https://flash.jin10.com/detail/20260126205303894800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时40分"
+        },
+        {
+          "title": "美国稀土(USAR.O)美股盘前涨幅收窄，现涨12.6%。",
+          "url": "https://flash.jin10.com/detail/20260126204312954800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时40分"
         }
       ]
     },
@@ -882,11 +949,12 @@
             9,
             7,
             8,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时51分 ~ 20时32分]"
+          "appearance_count": 12,
+          "time_info": "[11时51分 ~ 21时40分]"
         },
         {
           "title": "现货黄金价格首次突破 5000 美元 / 盎司，创历史新高，如何评价这轮涨势？后续走势会如何？",
@@ -942,6 +1010,18 @@
           "time_info": "[09时13分 ~ 13时29分]"
         },
         {
+          "title": "金价飙升原因找到了",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E9%A3%99%E5%8D%87%E5%8E%9F%E5%9B%A0%E6%89%BE%E5%88%B0%E4%BA%86%23&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时16分 ~ 21时40分]"
+        },
+        {
           "title": "全球领先独立飞机租赁公司AerCap CEO：黄金价格反映了主要货币的贬值。目前“完全看不到”对美元计价投资兴趣减弱的任何迹象。",
           "url": "https://flash.jin10.com/detail/20260126173425177800",
           "source": "金十数据",
@@ -984,17 +1064,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时20分"
-        },
-        {
-          "title": "金价飙升原因找到了",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E9%A3%99%E5%8D%87%E5%8E%9F%E5%9B%A0%E6%89%BE%E5%88%B0%E4%BA%86%23&t=31&band_rank=27&Refer=top",
-          "source": "微博",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时16分"
         }
       ]
     },
@@ -1020,9 +1089,37 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时32分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "美元指数短线波动不大，现报97.27。",
+          "url": "https://wallstreetcn.com/livenews/3044038",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时40分"
+        },
+        {
+          "title": "美元指数走弱，日元、欧元周一走强",
+          "url": "https://wallstreetcn.com/livenews/3043439",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时15分"
         }
       ]
     },
@@ -1060,23 +1157,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时17分 ~ 05时14分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美元指数走弱，日元、欧元周一走强",
-          "url": "https://wallstreetcn.com/livenews/3043439",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时15分"
         }
       ]
     }
