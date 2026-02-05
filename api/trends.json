@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-05T22:02:10.025227+08:00",
-  "total_titles_processed": 1987,
+  "generated_at": "2026-02-05T23:35:32.366826+08:00",
+  "total_titles_processed": 2111,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 45,
+      "match_count": 49,
       "titles": [
         {
           "title": "习近平同特朗普通电话",
@@ -130,6 +130,17 @@
           "time_info": "[06时19分 ~ 09时19分]"
         },
         {
+          "title": "美国驻波兰大使Tom Rose声称，其将切断与波兰众议院议长沃齐米日·恰扎斯蒂 (Włodzimierz Czarzasty)的所有联系。 这位外交官宣称，该议长的表态“直接冒犯”美国总统特朗普，不利于曾称呼特朗普为“爸爸”的波兰总理图斯克和其政府与美方的“卓越关系”。",
+          "url": "https://wallstreetcn.com/livenews/3050769",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时35分"
+        },
+        {
           "title": "美国总统特朗普：美联储将下调利率，这是毫无疑问的。 我认为，美联储主席提名人沃什无论如何都想要降息。",
           "url": "https://wallstreetcn.com/livenews/3050075",
           "source": "华尔街见闻-快讯",
@@ -229,6 +240,18 @@
           "time_info": "[03时35分 ~ 05时27分]"
         },
         {
+          "title": "是否谋求第三任期？特朗普：告诉你就太无聊了",
+          "url": "https://news.ifeng.com/c/8qUsyGpiCYu",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时42分 ~ 23时35分]"
+        },
+        {
           "title": "美国联邦住房金融局局长普尔特：房利美和房地美已做好上市准备，接下来就看总统特朗普的决定了。",
           "url": "https://flash.jin10.com/detail/20260205033722491800",
           "source": "金十数据",
@@ -239,18 +262,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时27分 ~ 05时27分]"
-        },
-        {
-          "title": "是否谋求第三任期？特朗普：告诉你就太无聊了",
-          "url": "https://news.ifeng.com/c/8qUsyGpiCYu",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时42分 ~ 22时02分]"
         },
         {
           "title": "美国总统特朗普：利率将会下调，这“几乎是毫无疑问的”。",
@@ -303,6 +314,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时38分 ~ 04时27分]"
+        },
+        {
+          "title": "沃什未上任已被特朗普施压",
+          "url": "https://www.douyin.com/hot/2390169",
+          "source": "抖音",
+          "ranks": [
+            16,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时01分 ~ 23时35分]"
         },
         {
           "title": "企图在高尔夫球场刺杀特朗普的枪手被判终身监禁",
@@ -365,17 +388,6 @@
           "time_info": "[06时19分 ~ 07时20分]"
         },
         {
-          "title": "沃什未上任已被特朗普施压",
-          "url": "https://www.douyin.com/hot/2390169",
-          "source": "抖音",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时01分 ~ 22时02分]"
-        },
-        {
           "title": "特朗普政府为何急于将爱泼斯坦案翻篇",
           "url": "https://www.toutiao.com/trending/7602790456565006372/",
           "source": "今日头条",
@@ -393,7 +405,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时02分"
         },
@@ -407,6 +419,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时19分"
+        },
+        {
+          "title": "巴西总统卢拉：或于3月第一周赴华盛顿会见美国总统特朗普。",
+          "url": "https://wallstreetcn.com/livenews/3050760",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时35分"
         },
         {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-02-05）",
@@ -508,6 +531,17 @@
           "time_info": "00时38分"
         },
         {
+          "title": "美国总统特朗普：尼日利亚政府必须“更强硬”。",
+          "url": "https://flash.jin10.com/detail/20260205230133804800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时35分"
+        },
+        {
           "title": "特朗普也该就爱泼斯坦案去国会作证？美众议长回应",
           "url": "https://wallstreetcn.com/livenews/3050592",
           "source": "华尔街见闻-快讯",
@@ -530,6 +564,17 @@
           "time_info": "20时42分"
         },
         {
+          "title": "美国总统特朗普：正努力结束苏丹战争，即将完成。",
+          "url": "https://flash.jin10.com/detail/20260205225952323800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时35分"
+        },
+        {
           "title": "金十提示：美国总统特朗普将于周四晚7点（北京时间周五8点）发表声明。",
           "url": "https://flash.jin10.com/detail/20260205075841513800",
           "source": "金十数据",
@@ -544,7 +589,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 33,
+      "match_count": 34,
       "titles": [
         {
           "title": "啥情况｜两起军事摩擦，伊朗想改会谈地点：美伊谈判前再生变数？",
@@ -572,6 +617,22 @@
           "time_info": "[00时38分 ~ 07时20分]"
         },
         {
+          "title": "一图看懂｜调重兵前往中东，美军目前在伊朗周边军事集结如何？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32533277",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            13,
+            11,
+            12,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[12时08分 ~ 23时35分]"
+        },
+        {
           "title": "鲁比奥否认向伊朗让步，透露美方条件",
           "url": "https://news.ifeng.com/c/8qUUgmewA1z",
           "source": "凤凰网",
@@ -583,21 +644,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[12时08分 ~ 20时42分]"
-        },
-        {
-          "title": "一图看懂｜调重兵前往中东，美军目前在伊朗周边军事集结如何？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32533277",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            13,
-            11,
-            12,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时08分 ~ 22时02分]"
         },
         {
           "title": "伊朗扣押两艘燃油走私船",
@@ -816,6 +862,17 @@
           "time_info": "18时34分"
         },
         {
+          "title": "伊朗外长与沙特外交大臣讨论了缓和局势的努力。",
+          "url": "https://flash.jin10.com/detail/20260205230804005800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时35分"
+        },
+        {
           "title": "美国国务卿鲁比奥：如果伊朗方面想在星期五会面，我们已经准备好了。",
           "url": "https://flash.jin10.com/detail/20260204234340449800",
           "source": "金十数据",
@@ -929,7 +986,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 27,
+      "match_count": 30,
       "titles": [
         {
           "title": "软件股重挫打压美股，纳指跌超1%，黄金一度重回5000关口，白银涨逾7%，比特币曾跌超7%",
@@ -1014,11 +1071,12 @@
           "url": "https://wallstreetcn.com/articles/3765023",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时01分 ~ 22时02分]"
+          "appearance_count": 3,
+          "time_info": "[22时01分 ~ 23时35分]"
         },
         {
           "title": "蔚来美股盘前涨超11%，此前公司发布盈利预告：2025年四季度实现季度盈利，经营利润7亿至12亿元。",
@@ -1038,7 +1096,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时02分"
         },
@@ -1073,11 +1131,12 @@
           "url": "https://www.zhihu.com/question/2002675555208803379",
           "source": "知乎",
           "ranks": [
-            13
+            13,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时42分 ~ 22时02分]"
+          "appearance_count": 4,
+          "time_info": "[20时42分 ~ 23时35分]"
         },
         {
           "title": "百度将派发股息 美股盘后涨超3%",
@@ -1147,6 +1206,17 @@
           "time_info": "18时34分"
         },
         {
+          "title": "美股三大指数集体低开 纳指跌超1%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%9B%86%E4%BD%93%E4%BD%8E%E5%BC%80+%E7%BA%B3%E6%8C%87%E8%B7%8C%E8%B6%851%25",
+          "source": "百度热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时35分"
+        },
+        {
           "title": "Arm(ARM.O)美股盘后跌超10%。",
           "url": "https://flash.jin10.com/detail/20260205051229076800",
           "source": "金十数据",
@@ -1167,6 +1237,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时20分"
+        },
+        {
+          "title": "可选消费ETF跌1.39%，能源业ETF跌1.15%，网络股指数ETF跌1.05%，科技行业ETF跌0.59%，在美股盘初领跌行业ETF，生物科技指数ETF涨0.63%。",
+          "url": "https://wallstreetcn.com/livenews/3050756",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时35分"
+        },
+        {
+          "title": "美股三大股指均跌超1%，纳指跌1.7%，标普500指数跌1.28%。",
+          "url": "https://flash.jin10.com/detail/20260205231307246800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时35分"
         },
         {
           "title": "金十图示：2026年02月04日（周三）美股热门股票行情一览（美股收盘）",
@@ -1249,7 +1341,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 25,
+      "match_count": 28,
       "titles": [
         {
           "title": "谷歌All in AI：Q4云收入猛增48%，今年支出指引接近翻倍大超预期，盘后巨震 | 财报见闻",
@@ -1260,8 +1352,22 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时18分 ~ 22时02分]"
+          "appearance_count": 15,
+          "time_info": "[09时18分 ~ 23时35分]"
+        },
+        {
+          "title": "谷歌电话会：1850亿支出“不得不花”，确认与苹果合作，Gemini并非SaaS的“终结者”",
+          "url": "https://wallstreetcn.com/articles/3765004",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[15时45分 ~ 23时35分]"
         },
         {
           "title": "谷歌财报电话会实录：首要任务是提高算力 否认“AI取代软件”担忧",
@@ -1275,19 +1381,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[13时50分 ~ 19时31分]"
-        },
-        {
-          "title": "谷歌电话会：1850亿支出“不得不花”，确认与苹果合作，Gemini并非SaaS的“终结者”",
-          "url": "https://wallstreetcn.com/articles/3765004",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时45分 ~ 22时02分]"
         },
         {
           "title": "谷歌ALL in AI！Q4云业务激增48% 2026“烧钱”速度翻倍",
@@ -1341,11 +1434,12 @@
           "url": "https://www.cls.cn/detail/2282073",
           "source": "财联社热门",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时01分 ~ 22时02分]"
+          "appearance_count": 3,
+          "time_info": "[22时01分 ~ 23时35分]"
         },
         {
           "title": "谷歌母公司Alphabet：所搜同比增长17%。 YouTube 9%的增长来自直接响应的广告。 公司在AI模型中测试广告。",
@@ -1487,6 +1581,28 @@
           "time_info": "06时19分"
         },
         {
+          "title": "Gemini跌5%，该公司计划裁员，关闭多地的账号。",
+          "url": "https://wallstreetcn.com/livenews/3050752",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时35分"
+        },
+        {
+          "title": "谷歌母公司Alphabet跌7%，创5月7日以来最差盘中表现。 该公司出现历史性财务里程碑：年营收首破4000亿美元大关。季度合并营收同比增长18%，全年营收同比增长15%。预计2026年资本支出将进一步扩大至1750亿-1850亿美元，同比翻倍。",
+          "url": "https://wallstreetcn.com/livenews/3050751",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时35分"
+        },
+        {
           "title": "谷歌(GOOG.O)美股盘后跌超6%。",
           "url": "https://flash.jin10.com/detail/20260205050408864800",
           "source": "金十数据",
@@ -1540,6 +1656,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时19分"
+        },
+        {
+          "title": "Gemini Space Station Inc.（GEMI）计划裁员至多200人，在全球员工总数占比大约25%。 预计将发生大约0.11亿美元费用。 将继续在美国和新加坡运营。 将退出欧洲和澳大利亚市场。",
+          "url": "https://wallstreetcn.com/livenews/3050744",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时35分"
         }
       ]
     },
@@ -1579,7 +1706,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时02分"
         },
