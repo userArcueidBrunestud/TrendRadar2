@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-05T20:42:54.781450+08:00",
-  "total_titles_processed": 1866,
+  "generated_at": "2026-02-05T22:02:10.025227+08:00",
+  "total_titles_processed": 1987,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 43,
+      "match_count": 45,
       "titles": [
         {
           "title": "习近平同特朗普通电话",
@@ -78,8 +78,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[01时40分 ~ 20时42分]"
+          "appearance_count": 21,
+          "time_info": "[01时40分 ~ 22时02分]"
         },
         {
           "title": "降息快了？特朗普直言：若沃什表达过加息意愿 就不会获提名！",
@@ -241,6 +241,18 @@
           "time_info": "[04时27分 ~ 05时27分]"
         },
         {
+          "title": "是否谋求第三任期？特朗普：告诉你就太无聊了",
+          "url": "https://news.ifeng.com/c/8qUsyGpiCYu",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时42分 ~ 22时02分]"
+        },
+        {
           "title": "美国总统特朗普：利率将会下调，这“几乎是毫无疑问的”。",
           "url": "https://flash.jin10.com/detail/20260205030511300800",
           "source": "金十数据",
@@ -353,6 +365,17 @@
           "time_info": "[06时19分 ~ 07时20分]"
         },
         {
+          "title": "沃什未上任已被特朗普施压",
+          "url": "https://www.douyin.com/hot/2390169",
+          "source": "抖音",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时01分 ~ 22时02分]"
+        },
+        {
           "title": "特朗普政府为何急于将爱泼斯坦案翻篇",
           "url": "https://www.toutiao.com/trending/7602790456565006372/",
           "source": "今日头条",
@@ -364,15 +387,15 @@
           "time_info": "[09时18分 ~ 09时19分]"
         },
         {
-          "title": "是否谋求第三任期？特朗普：告诉你就太无聊了",
-          "url": "https://news.ifeng.com/c/8qUsyGpiCYu",
-          "source": "凤凰网",
+          "title": "特朗普预计将于今日推出名为TrumpRx的全新处方药直销平台。（CNN）",
+          "url": "https://wallstreetcn.com/livenews/3050711",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时42分"
+          "time_info": "22时02分"
         },
         {
           "title": "特朗普：美联储“理论上”是一个独立机构",
@@ -469,7 +492,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时42分"
         },
@@ -502,7 +525,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时42分"
         },
@@ -569,11 +592,12 @@
             16,
             13,
             11,
-            12
+            12,
+            9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时08分 ~ 20时42分]"
+          "appearance_count": 12,
+          "time_info": "[12时08分 ~ 22时02分]"
         },
         {
           "title": "伊朗扣押两艘燃油走私船",
@@ -897,7 +921,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时42分"
         }
@@ -905,7 +929,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 25,
+      "match_count": 27,
       "titles": [
         {
           "title": "软件股重挫打压美股，纳指跌超1%，黄金一度重回5000关口，白银涨逾7%，比特币曾跌超7%",
@@ -986,6 +1010,17 @@
           "time_info": "[00时38分 ~ 07时20分]"
         },
         {
+          "title": "美股盘前三大股指齐跌，纳指期货跌逾1%，比特币跌破7万关键心理位，VIX指数飙升7%，白银再度暴跌10%",
+          "url": "https://wallstreetcn.com/articles/3765023",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时01分 ~ 22时02分]"
+        },
+        {
           "title": "蔚来美股盘前涨超11%，此前公司发布盈利预告：2025年四季度实现季度盈利，经营利润7亿至12亿元。",
           "url": "https://wallstreetcn.com/livenews/3050580",
           "source": "华尔街见闻-快讯",
@@ -995,6 +1030,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时34分"
+        },
+        {
+          "title": "周四美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3050714",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时02分"
         },
         {
           "title": "市值蒸发万亿！美股软件行业空头肆虐 对冲基金年内狂赚240亿美元",
@@ -1021,6 +1067,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时27分 ~ 06时19分]"
+        },
+        {
+          "title": "美股科技股抛售蔓延，闪迪跌近 16%，AMD 跌超 17% 创八年多来最大单日跌幅，光伏板块爆发，如何解读？",
+          "url": "https://www.zhihu.com/question/2002675555208803379",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时42分 ~ 22时02分]"
         },
         {
           "title": "百度将派发股息 美股盘后涨超3%",
@@ -1112,17 +1169,6 @@
           "time_info": "07时20分"
         },
         {
-          "title": "美股科技股抛售蔓延，闪迪跌近 16%，AMD 跌超 17% 创八年多来最大单日跌幅，光伏板块爆发，如何解读？",
-          "url": "https://www.zhihu.com/question/2002675555208803379",
-          "source": "知乎",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时42分"
-        },
-        {
           "title": "金十图示：2026年02月04日（周三）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260205050532468800",
           "source": "金十数据",
@@ -1203,7 +1249,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 24,
+      "match_count": 25,
       "titles": [
         {
           "title": "谷歌All in AI：Q4云收入猛增48%，今年支出指引接近翻倍大超预期，盘后巨震 | 财报见闻",
@@ -1214,8 +1260,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时18分 ~ 20时42分]"
+          "appearance_count": 14,
+          "time_info": "[09时18分 ~ 22时02分]"
         },
         {
           "title": "谷歌财报电话会实录：首要任务是提高算力 否认“AI取代软件”担忧",
@@ -1231,6 +1277,19 @@
           "time_info": "[13时50分 ~ 19时31分]"
         },
         {
+          "title": "谷歌电话会：1850亿支出“不得不花”，确认与苹果合作，Gemini并非SaaS的“终结者”",
+          "url": "https://wallstreetcn.com/articles/3765004",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[15时45分 ~ 22时02分]"
+        },
+        {
           "title": "谷歌ALL in AI！Q4云业务激增48% 2026“烧钱”速度翻倍",
           "url": "https://www.cls.cn/detail/2281032",
           "source": "财联社热门",
@@ -1242,18 +1301,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[12时08分 ~ 16时34分]"
-        },
-        {
-          "title": "谷歌电话会：1850亿支出“不得不花”，确认与苹果合作，Gemini并非SaaS的“终结者”",
-          "url": "https://wallstreetcn.com/articles/3765004",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时45分 ~ 20时42分]"
         },
         {
           "title": "谷歌母公司Alphabet（GOOGL）美股盘后跌1.69%，该公司分析师电话会已经结束。",
@@ -1288,6 +1335,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时19分 ~ 07时20分]"
+        },
+        {
+          "title": "美股三大期指集体走低 谷歌盘前跌超4% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2282073",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时01分 ~ 22时02分]"
         },
         {
           "title": "谷歌母公司Alphabet：所搜同比增长17%。 YouTube 9%的增长来自直接响应的广告。 公司在AI模型中测试广告。",
@@ -1487,7 +1545,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "金价巨震之下，水贝难寻金条现货|传真",
@@ -1510,9 +1568,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时42分"
+        },
+        {
+          "title": "英国央行副行长拉姆斯登：（关于金价波动）在近期价格上涨之后，金价迅速对消息作出反应并不令人意外。",
+          "url": "https://flash.jin10.com/detail/20260205211746257800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时02分"
         },
         {
           "title": "金价波动",
@@ -1532,7 +1601,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时42分"
         },
@@ -1543,7 +1612,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时42分"
         }
