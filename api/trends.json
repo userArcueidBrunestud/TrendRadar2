@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-24T18:41:21.496136+08:00",
-  "total_titles_processed": 1562,
+  "generated_at": "2026-02-24T19:36:17.783441+08:00",
+  "total_titles_processed": 1661,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 67,
+      "match_count": 68,
       "titles": [
         {
           "title": "重兵集结下美伊本周再谈，特朗普面临选择：签“面子协议”和先定点打击",
@@ -69,6 +69,31 @@
           "time_info": "[09时21分 ~ 14时52分]"
         },
         {
+          "title": "特朗普第二任期首场国情咨文会谈什么？“剧透”来了",
+          "url": "https://news.ifeng.com/c/8r0VR9GHBdi",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时47分 ~ 19时36分]"
+        },
+        {
+          "title": "特朗普称将会在3月31日访问中国，外交部回应",
+          "url": "https://www.cls.cn/detail/2293557",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时38分 ~ 19时36分]"
+        },
+        {
           "title": "特朗普接连出招，伤害性不大，侮辱性极强",
           "url": "https://news.ifeng.com/c/8qzr8hme4jH",
           "source": "凤凰网",
@@ -82,6 +107,21 @@
           "time_info": "[09时21分 ~ 16时38分]"
         },
         {
+          "title": "特朗普“换马甲”强征关税！多方抨击：新关税法理依然站不住脚",
+          "url": "https://www.cls.cn/detail/2293302",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10,
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[14时52分 ~ 19时36分]"
+        },
+        {
           "title": "美军最高将领据传告知特朗普：对伊朗动武可能带来重大风险",
           "url": "https://www.cls.cn/detail/2293044",
           "source": "财联社热门",
@@ -93,31 +133,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时21分 ~ 14时52分]"
-        },
-        {
-          "title": "特朗普第二任期首场国情咨文会谈什么？“剧透”来了",
-          "url": "https://news.ifeng.com/c/8r0VR9GHBdi",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时47分 ~ 18时41分]"
-        },
-        {
-          "title": "特朗普称将会在3月31日访问中国，外交部回应",
-          "url": "https://www.cls.cn/detail/2293557",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时38分 ~ 18时41分]"
         },
         {
           "title": "特朗普发出邀请，美国女子冰球队：婉拒了哈",
@@ -143,20 +158,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[07时29分 ~ 12时13分]"
-        },
-        {
-          "title": "特朗普“换马甲”强征关税！多方抨击：新关税法理依然站不住脚",
-          "url": "https://www.cls.cn/detail/2293302",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时52分 ~ 18时41分]"
         },
         {
           "title": "特朗普10%全球关税生效",
@@ -326,6 +327,17 @@
           "time_info": "[06时34分 ~ 07时29分]"
         },
         {
+          "title": "中美就特朗普访华事宜保持着沟通",
+          "url": "https://www.douyin.com/hot/2410424",
+          "source": "抖音",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时38分 ~ 19时36分]"
+        },
+        {
           "title": "特朗普被曝考虑对伊朗先“小打”再“大打”",
           "url": "https://m.thepaper.cn/newsDetail_forward_32645217",
           "source": "澎湃新闻",
@@ -339,15 +351,29 @@
           "time_info": "[09时21分 ~ 13时55分]"
         },
         {
-          "title": "中美就特朗普访华事宜保持着沟通",
-          "url": "https://www.douyin.com/hot/2410424",
-          "source": "抖音",
+          "title": "特朗普称将会在3月31日访问中国，外交部回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32649172",
+          "source": "澎湃新闻",
           "ranks": [
-            10
+            14,
+            12,
+            7
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[16时38分 ~ 18时41分]"
+          "time_info": "[17时47分 ~ 19时36分]"
+        },
+        {
+          "title": "中美就特朗普访华事宜保持沟通",
+          "url": "https://www.toutiao.com/trending/7609338724627234859/",
+          "source": "今日头条",
+          "ranks": [
+            8,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时47分 ~ 19时36分]"
         },
         {
           "title": "特朗普对垒最高法院上演“关税迷云”，对全球贸易和美国经济意味着什么？",
@@ -397,17 +423,6 @@
           "time_info": "[06时34分 ~ 07时29分]"
         },
         {
-          "title": "中美就特朗普访华事宜保持沟通",
-          "url": "https://www.toutiao.com/trending/7609338724627234859/",
-          "source": "今日头条",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时47分 ~ 18时41分]"
-        },
-        {
           "title": "特朗普否认美军将领“反对与伊朗开战”",
           "url": "https://wallstreetcn.com/livenews/3057674",
           "source": "华尔街见闻-快讯",
@@ -442,18 +457,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时38分 ~ 06时34分]"
-        },
-        {
-          "title": "特朗普称将会在3月31日访问中国，外交部回应",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32649172",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时47分 ~ 18时41分]"
         },
         {
           "title": "美国总统特朗普正在考虑新的退休储蓄计划。 特朗普料将在国情咨文中谈及退休计划。（Semafor）",
@@ -701,6 +704,17 @@
           "time_info": "09时21分"
         },
         {
+          "title": "美联储博斯蒂克：对于沃什可能如何应对特朗普的施压 “只有等到那时候才知道”。",
+          "url": "https://flash.jin10.com/detail/20260224191509265800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时36分"
+        },
+        {
           "title": "市场消息：特朗普最近对全球加征了15%的关税，该关税将在150天后到期。届时，国会必须延长该关税。但据三位知情人士透露，一些资深共和党人私下表示，将不会有足够的票数来延长该关税。",
           "url": "https://flash.jin10.com/detail/20260224044047321800",
           "source": "金十数据",
@@ -802,11 +816,12 @@
             8,
             7,
             4,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[06时34分 ~ 18时41分]"
+          "appearance_count": 12,
+          "time_info": "[06时34分 ~ 19时36分]"
         },
         {
           "title": "伊朗外长：有可能达成比2015年伊核协议“更好的协议”",
@@ -844,22 +859,12 @@
             8,
             9,
             10,
-            12
+            12,
+            14
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时47分 ~ 18时41分]"
-        },
-        {
-          "title": "伊朗军队总司令：将誓死捍卫国家独立和主权完整",
-          "url": "https://news.ifeng.com/c/8qyqxrcRN3h",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时47分 ~ 07时29分]"
+          "appearance_count": 19,
+          "time_info": "[00时47分 ~ 19时36分]"
         },
         {
           "title": "美军参联会主席警告：对伊朗动武可能带来重大风险",
@@ -873,8 +878,19 @@
             13
           ],
           "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时21分 ~ 19时36分]"
+        },
+        {
+          "title": "伊朗军队总司令：将誓死捍卫国家独立和主权完整",
+          "url": "https://news.ifeng.com/c/8qyqxrcRN3h",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
           "appearance_count": 9,
-          "time_info": "[09时21分 ~ 18时41分]"
+          "time_info": "[00时47分 ~ 07时29分]"
         },
         {
           "title": "美国已经得到委内瑞拉了，为什么还要去搞伊朗呢?",
@@ -962,6 +978,18 @@
           "time_info": "00时47分"
         },
         {
+          "title": "伊朗一军用直升机坠毁",
+          "url": "https://www.douyin.com/hot/2410332",
+          "source": "抖音",
+          "ranks": [
+            9,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时41分 ~ 19时36分]"
+        },
+        {
           "title": "美军参联会主席警告：对伊朗动武可能带来重大风险",
           "url": "https://wallstreetcn.com/livenews/3057617",
           "source": "华尔街见闻-快讯",
@@ -984,6 +1012,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时38分 ~ 06时34分]"
+        },
+        {
+          "title": "中方回应“美考虑军事打击伊朗”",
+          "url": "https://www.douyin.com/hot/2410571",
+          "source": "抖音",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时41分 ~ 19时36分]"
         },
         {
           "title": "伊朗",
@@ -1041,17 +1080,6 @@
           "time_info": "14时52分"
         },
         {
-          "title": "伊朗一军用直升机坠毁",
-          "url": "https://www.douyin.com/hot/2410332",
-          "source": "抖音",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时41分"
-        },
-        {
           "title": "据伊朗媒体24日报道，一架直升机在伊朗中部坠毁。（新华社）",
           "url": "https://flash.jin10.com/detail/20260224142432525800",
           "source": "金十数据",
@@ -1072,17 +1100,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时46分"
-        },
-        {
-          "title": "中方回应“美考虑军事打击伊朗”",
-          "url": "https://www.douyin.com/hot/2410571",
-          "source": "抖音",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时41分"
         },
         {
           "title": "以色列情报官员：美国的军事能力只能维持四到五天的对伊朗密集空中打击，或者一周的低强度打击。",
@@ -1154,7 +1171,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 22,
+      "match_count": 23,
       "titles": [
         {
           "title": "AI担忧加剧、关税战风险重燃，金融和软件股拖垮美股，黄金四连涨，期银一度涨近8%",
@@ -1165,8 +1182,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时13分 ~ 18时41分]"
+          "appearance_count": 9,
+          "time_info": "[12时13分 ~ 19时36分]"
         },
         {
           "title": "“2028AI末日预言”吓坏市场，投资者掀起抛售潮，美股多板块盘中集体重挫",
@@ -1179,8 +1196,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时21分 ~ 18时41分]"
+          "appearance_count": 10,
+          "time_info": "[09时21分 ~ 19时36分]"
         },
         {
           "title": "关税政策不确定性笼罩市场，美股低开，现货黄金站上5200美元",
@@ -1315,6 +1332,19 @@
           "time_info": "[05时38分 ~ 06时34分]"
         },
         {
+          "title": "Citrini 的「2028 AI 末日预言」吓坏市场，致美股多板块集体重挫，如何看待这份报告的预测？",
+          "url": "https://www.zhihu.com/question/2009566964868150665",
+          "source": "知乎",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时38分 ~ 19时36分]"
+        },
+        {
           "title": "美股三大股指大幅收跌 IBM大跌13%",
           "url": "https://flash.jin10.com/detail/20260224050545152800",
           "source": "金十数据",
@@ -1337,19 +1367,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时47分 ~ 05时38分]"
-        },
-        {
-          "title": "Citrini 的「2028 AI 末日预言」吓坏市场，致美股多板块集体重挫，如何看待这份报告的预测？",
-          "url": "https://www.zhihu.com/question/2009566964868150665",
-          "source": "知乎",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时38分 ~ 18时41分]"
         },
         {
           "title": "区域银行ETF和银行业ETF收跌超4.3%，领跌美股行业ETF",
@@ -1406,6 +1423,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时47分"
+        },
+        {
+          "title": "家得宝调第四季度整后每股收益2.72美元，上年同期3.13美元，预估2.55美元。 第四季度每股收益2.58美元，上年同期3.02美元。 第四季度销售净额382.0亿美元，同比下降3.8%，预估382.7亿美元。 第四季度同店销售增长0.4％，预估下降0.36％。 家得宝预计全年营收变动大约增长2.5％至4.5％。 家得宝预计全年同店销售大约增长0％至2％，预估增长1.71％。 家得宝美股盘前涨2.5%。",
+          "url": "https://wallstreetcn.com/livenews/3058092",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时36分"
         },
         {
           "title": "美股延续跌势，纳指下跌1.01%。",
@@ -1483,11 +1511,12 @@
           "source": "今日头条",
           "ranks": [
             2,
-            1
+            1,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时38分 ~ 18时41分]"
+          "appearance_count": 4,
+          "time_info": "[16时38分 ~ 19时36分]"
         },
         {
           "title": "中方回应美称DeepSeek违反出口管制",
@@ -1495,11 +1524,12 @@
           "source": "百度热搜",
           "ranks": [
             20,
-            29
+            29,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时47分 ~ 18时41分]"
+          "appearance_count": 3,
+          "time_info": "[17时47分 ~ 19时36分]"
         },
         {
           "title": "中信证券：国内脑机接口行业将迎来DeepSeek时刻",
