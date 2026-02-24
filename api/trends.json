@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-24T20:56:50.656856+08:00",
-  "total_titles_processed": 1758,
+  "generated_at": "2026-02-24T22:21:27.518756+08:00",
+  "total_titles_processed": 1875,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 68,
+      "match_count": 69,
       "titles": [
         {
           "title": "重兵集结下美伊本周再谈，特朗普面临选择：签“面子协议”和先定点打击",
@@ -58,17 +58,6 @@
           "time_info": "[00时47分 ~ 09时21分]"
         },
         {
-          "title": "【早报】仅1纳米、功耗最低！北大实现芯片领域重要突破；美最高法院裁定特朗普政府关税政策违法",
-          "url": "https://www.cls.cn/detail/2293072",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时21分 ~ 14时52分]"
-        },
-        {
           "title": "特朗普第二任期首场国情咨文会谈什么？“剧透”来了",
           "url": "https://news.ifeng.com/c/8r0VR9GHBdi",
           "source": "凤凰网",
@@ -77,8 +66,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时47分 ~ 20时56分]"
+          "appearance_count": 5,
+          "time_info": "[17时47分 ~ 22时21分]"
         },
         {
           "title": "特朗普称将会在3月31日访问中国，外交部回应",
@@ -90,8 +79,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时38分 ~ 20时56分]"
+          "appearance_count": 6,
+          "time_info": "[16时38分 ~ 22时21分]"
+        },
+        {
+          "title": "【早报】仅1纳米、功耗最低！北大实现芯片领域重要突破；美最高法院裁定特朗普政府关税政策违法",
+          "url": "https://www.cls.cn/detail/2293072",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时21分 ~ 14时52分]"
         },
         {
           "title": "特朗普“换马甲”强征关税！多方抨击：新关税法理依然站不住脚",
@@ -160,6 +160,21 @@
           "time_info": "[07时29分 ~ 12时13分]"
         },
         {
+          "title": "特朗普称将会在3月31日访问中国，外交部回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32649172",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            12,
+            7,
+            6,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时47分 ~ 22时21分]"
+        },
+        {
           "title": "特朗普10%全球关税生效",
           "url": "https://flash.jin10.com/detail/20260224130914633800",
           "source": "金十数据",
@@ -169,6 +184,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时55分"
+        },
+        {
+          "title": "中美就特朗普访华事宜保持着沟通",
+          "url": "https://www.douyin.com/hot/2410424",
+          "source": "抖音",
+          "ranks": [
+            10,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时38分 ~ 22时21分]"
         },
         {
           "title": "市场消息：美国总统特使威特科夫、特朗普女婿库什纳计划于周四在日内瓦举行美伊会谈。",
@@ -227,17 +254,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时01分 ~ 04时47分]"
-        },
-        {
-          "title": "中美就特朗普访华事宜保持着沟通",
-          "url": "https://www.douyin.com/hot/2410424",
-          "source": "抖音",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时38分 ~ 20时56分]"
         },
         {
           "title": "欧洲央行行长拉加德：央行独立性至关重要。 美国总统特朗普的美联储主席提名人凯文·沃什面临的最大挑战将是做好自己在美联储的本职工作。",
@@ -312,20 +328,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时01分 ~ 03时54分]"
-        },
-        {
-          "title": "特朗普称将会在3月31日访问中国，外交部回应",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32649172",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            12,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时47分 ~ 20时56分]"
         },
         {
           "title": "美国总统特朗普：希望与伊朗达成协议，而不是开战。 我才是哪个决定是否发动战争的人。",
@@ -728,6 +730,17 @@
           "time_info": "05时38分"
         },
         {
+          "title": "白宫称特朗普对伊朗问题的首选手段永远是外交",
+          "url": "https://wallstreetcn.com/livenews/3058164",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时21分"
+        },
+        {
           "title": "美众议院议长：国会不太可能就特朗普关税的立法层面达成共识",
           "url": "https://flash.jin10.com/detail/20260224043714344800",
           "source": "金十数据",
@@ -808,7 +821,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 32,
+      "match_count": 36,
       "titles": [
         {
           "title": "春节假期，美国和伊朗闹到哪一步了？到底打还是不打？｜907编辑部",
@@ -863,11 +876,12 @@
             10,
             12,
             14,
-            15
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时47分 ~ 20时56分]"
+          "appearance_count": 21,
+          "time_info": "[00时47分 ~ 22时21分]"
         },
         {
           "title": "美军参联会主席警告：对伊朗动武可能带来重大风险",
@@ -881,8 +895,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时21分 ~ 20时56分]"
+          "appearance_count": 12,
+          "time_info": "[09时21分 ~ 22时21分]"
         },
         {
           "title": "伊朗军队总司令：将誓死捍卫国家独立和主权完整",
@@ -933,6 +947,28 @@
           "time_info": "[00时47分 ~ 06时34分]"
         },
         {
+          "title": "美媒：美国务卿将向议员通报伊朗情况",
+          "url": "https://flash.jin10.com/detail/20260224221851535800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时21分"
+        },
+        {
+          "title": "美国国务卿卢比奥将于周二向国会高层议员汇报伊朗局势。（Politico）",
+          "url": "https://wallstreetcn.com/livenews/3058187",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时21分"
+        },
+        {
           "title": "伊朗副总统表示，伊朗希望建立从克尔曼沙赫到伊拉克巴格达的货物运输走廊。",
           "url": "https://flash.jin10.com/detail/20260224162158447800",
           "source": "金十数据",
@@ -970,6 +1006,20 @@
           "time_info": "[12时13分 ~ 15时46分]"
         },
         {
+          "title": "伊朗一军用直升机坠毁",
+          "url": "https://www.douyin.com/hot/2410332",
+          "source": "抖音",
+          "ranks": [
+            9,
+            1,
+            16,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时41分 ~ 22时21分]"
+        },
+        {
           "title": "以总理：若遭伊朗袭击 将以其无法想象的力度回击",
           "url": "https://wallstreetcn.com/livenews/3057567",
           "source": "华尔街见闻-快讯",
@@ -981,28 +1031,16 @@
           "time_info": "00时47分"
         },
         {
-          "title": "伊朗一军用直升机坠毁",
-          "url": "https://www.douyin.com/hot/2410332",
-          "source": "抖音",
-          "ranks": [
-            9,
-            1,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时41分 ~ 20时56分]"
-        },
-        {
           "title": "中方回应“美考虑军事打击伊朗”",
           "url": "https://www.douyin.com/hot/2410571",
           "source": "抖音",
           "ranks": [
-            14
+            14,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时41分 ~ 20时56分]"
+          "appearance_count": 4,
+          "time_info": "[18时41分 ~ 22时21分]"
         },
         {
           "title": "美军参联会主席警告：对伊朗动武可能带来重大风险",
@@ -1084,6 +1122,17 @@
           "time_info": "14时52分"
         },
         {
+          "title": "据Politico：美国国务卿鲁比奥将于周二向高级议员通报有关伊朗的情况。",
+          "url": "https://flash.jin10.com/detail/20260224221520116800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时21分"
+        },
+        {
           "title": "据伊朗媒体24日报道，一架直升机在伊朗中部坠毁。（新华社）",
           "url": "https://flash.jin10.com/detail/20260224142432525800",
           "source": "金十数据",
@@ -1101,7 +1150,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时56分"
         },
@@ -1161,6 +1210,17 @@
           "time_info": "09时21分"
         },
         {
+          "title": "在伊朗中国人：华联会已准备撤离方案",
+          "url": "https://www.toutiao.com/trending/7609535429876056107/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时21分"
+        },
+        {
           "title": "以媒：以色列医疗系统为与伊朗“长期战争”做准备",
           "url": "https://wallstreetcn.com/livenews/3057724",
           "source": "华尔街见闻-快讯",
@@ -1189,7 +1249,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时56分"
         }
@@ -1197,7 +1257,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 28,
+      "match_count": 31,
       "titles": [
         {
           "title": "AI担忧加剧、关税战风险重燃，金融和软件股拖垮美股，黄金四连涨，期银一度涨近8%",
@@ -1208,8 +1268,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时13分 ~ 20时56分]"
+          "appearance_count": 11,
+          "time_info": "[12时13分 ~ 22时21分]"
         },
         {
           "title": "“2028AI末日预言”吓坏市场，投资者掀起抛售潮，美股多板块盘中集体重挫",
@@ -1222,8 +1282,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时21分 ~ 20时56分]"
+          "appearance_count": 12,
+          "time_info": "[09时21分 ~ 22时21分]"
         },
         {
           "title": "关税政策不确定性笼罩市场，美股低开，现货黄金站上5200美元",
@@ -1305,7 +1365,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时56分"
         },
@@ -1418,13 +1478,24 @@
           "time_info": "[05时38分 ~ 06时34分]"
         },
         {
+          "title": "美股盘前芯片板块拉升，AMD拿下大单暴涨15%，金银回落，基本金属拉升，离岸人民币升破6.88",
+          "url": "https://wallstreetcn.com/articles/3766041",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时21分"
+        },
+        {
           "title": "META美股盘前走低，现跌0.2%。",
           "url": "https://wallstreetcn.com/livenews/3058129",
           "source": "华尔街见闻-快讯",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时56分"
         },
@@ -1435,7 +1506,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时56分"
         },
@@ -1446,9 +1517,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时56分"
+        },
+        {
+          "title": "美股三大期指集体走高 AMD盘前一度大涨15% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2293967",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时21分"
         },
         {
           "title": "华纳兄弟探索公司（WBD）美股盘后涨1.6%。",
@@ -1460,6 +1542,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时34分"
+        },
+        {
+          "title": "周二美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3058173",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时21分"
         },
         {
           "title": "标普500指数收跌71.76点，跌幅1.04%，报6837.75点。 道琼斯工业平均指数收跌821.91点，跌幅1.66%，报48804.06点。 纳斯达克综合指数（纳指）收跌258.796点，跌幅1.13%，报22627.273点。 纳斯达克100指数收跌303.677点，跌幅1.21%，报24708.942点。 纳斯达克生物科技指数收涨0.58%，报6014.09点。 费城半导体指数收跌0.57%，报8213.457点。 费城证交所KBW银行指数收跌4.40%，报161.73点，美股早盘持续下跌，呈现出长尾L形走势。 道琼斯KBW地区银行指数收跌4.27%，报132.90点。",
@@ -1512,7 +1605,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时56分"
         },
@@ -1553,7 +1646,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时56分"
         },
@@ -1714,6 +1807,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时38分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "谷歌表示，ProdureAI将加入谷歌实验室。",
+          "url": "https://flash.jin10.com/detail/20260224221205836800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时21分"
         }
       ]
     },
