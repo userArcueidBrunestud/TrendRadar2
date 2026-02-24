@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-24T19:36:17.783441+08:00",
-  "total_titles_processed": 1661,
+  "generated_at": "2026-02-24T20:56:50.656856+08:00",
+  "total_titles_processed": 1758,
   "failed_sources": [],
   "trends": [
     {
@@ -77,8 +77,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时47分 ~ 19时36分]"
+          "appearance_count": 4,
+          "time_info": "[17时47分 ~ 20时56分]"
         },
         {
           "title": "特朗普称将会在3月31日访问中国，外交部回应",
@@ -90,21 +90,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时38分 ~ 19时36分]"
-        },
-        {
-          "title": "特朗普接连出招，伤害性不大，侮辱性极强",
-          "url": "https://news.ifeng.com/c/8qzr8hme4jH",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时21分 ~ 16时38分]"
+          "appearance_count": 5,
+          "time_info": "[16时38分 ~ 20时56分]"
         },
         {
           "title": "特朗普“换马甲”强征关税！多方抨击：新关税法理依然站不住脚",
@@ -118,8 +105,21 @@
             7
           ],
           "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[14时52分 ~ 20时56分]"
+        },
+        {
+          "title": "特朗普接连出招，伤害性不大，侮辱性极强",
+          "url": "https://news.ifeng.com/c/8qzr8hme4jH",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            9,
+            8
+          ],
+          "is_new": false,
           "appearance_count": 7,
-          "time_info": "[14时52分 ~ 19时36分]"
+          "time_info": "[09时21分 ~ 16时38分]"
         },
         {
           "title": "美军最高将领据传告知特朗普：对伊朗动武可能带来重大风险",
@@ -229,6 +229,17 @@
           "time_info": "[02时01分 ~ 04时47分]"
         },
         {
+          "title": "中美就特朗普访华事宜保持着沟通",
+          "url": "https://www.douyin.com/hot/2410424",
+          "source": "抖音",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时38分 ~ 20时56分]"
+        },
+        {
           "title": "欧洲央行行长拉加德：央行独立性至关重要。 美国总统特朗普的美联储主席提名人凯文·沃什面临的最大挑战将是做好自己在美联储的本职工作。",
           "url": "https://wallstreetcn.com/livenews/3057611",
           "source": "华尔街见闻-快讯",
@@ -303,6 +314,20 @@
           "time_info": "[02时01分 ~ 03时54分]"
         },
         {
+          "title": "特朗普称将会在3月31日访问中国，外交部回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32649172",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            12,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时47分 ~ 20时56分]"
+        },
+        {
           "title": "美国总统特朗普：希望与伊朗达成协议，而不是开战。 我才是哪个决定是否发动战争的人。",
           "url": "https://wallstreetcn.com/livenews/3057661",
           "source": "华尔街见闻-快讯",
@@ -327,15 +352,17 @@
           "time_info": "[06时34分 ~ 07时29分]"
         },
         {
-          "title": "中美就特朗普访华事宜保持着沟通",
-          "url": "https://www.douyin.com/hot/2410424",
-          "source": "抖音",
+          "title": "中美就特朗普访华事宜保持沟通",
+          "url": "https://www.toutiao.com/trending/7609338724627234859/",
+          "source": "今日头条",
           "ranks": [
-            10
+            8,
+            20,
+            29
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[16时38分 ~ 19时36分]"
+          "time_info": "[17时47分 ~ 20时56分]"
         },
         {
           "title": "特朗普被曝考虑对伊朗先“小打”再“大打”",
@@ -349,31 +376,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时21分 ~ 13时55分]"
-        },
-        {
-          "title": "特朗普称将会在3月31日访问中国，外交部回应",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32649172",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            12,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时47分 ~ 19时36分]"
-        },
-        {
-          "title": "中美就特朗普访华事宜保持沟通",
-          "url": "https://www.toutiao.com/trending/7609338724627234859/",
-          "source": "今日头条",
-          "ranks": [
-            8,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时47分 ~ 19时36分]"
         },
         {
           "title": "特朗普对垒最高法院上演“关税迷云”，对全球贸易和美国经济意味着什么？",
@@ -710,7 +712,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时36分"
         },
@@ -806,7 +808,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 30,
+      "match_count": 32,
       "titles": [
         {
           "title": "春节假期，美国和伊朗闹到哪一步了？到底打还是不打？｜907编辑部",
@@ -820,8 +822,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[06时34分 ~ 19时36分]"
+          "appearance_count": 13,
+          "time_info": "[06时34分 ~ 20时56分]"
         },
         {
           "title": "伊朗外长：有可能达成比2015年伊核协议“更好的协议”",
@@ -860,11 +862,12 @@
             9,
             10,
             12,
-            14
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时47分 ~ 19时36分]"
+          "appearance_count": 20,
+          "time_info": "[00时47分 ~ 20时56分]"
         },
         {
           "title": "美军参联会主席警告：对伊朗动武可能带来重大风险",
@@ -878,8 +881,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时21分 ~ 19时36分]"
+          "appearance_count": 11,
+          "time_info": "[09时21分 ~ 20时56分]"
         },
         {
           "title": "伊朗军队总司令：将誓死捍卫国家独立和主权完整",
@@ -983,11 +986,23 @@
           "source": "抖音",
           "ranks": [
             9,
-            1
+            1,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时41分 ~ 19时36分]"
+          "appearance_count": 3,
+          "time_info": "[18时41分 ~ 20时56分]"
+        },
+        {
+          "title": "中方回应“美考虑军事打击伊朗”",
+          "url": "https://www.douyin.com/hot/2410571",
+          "source": "抖音",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时41分 ~ 20时56分]"
         },
         {
           "title": "美军参联会主席警告：对伊朗动武可能带来重大风险",
@@ -1012,17 +1027,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时38分 ~ 06时34分]"
-        },
-        {
-          "title": "中方回应“美考虑军事打击伊朗”",
-          "url": "https://www.douyin.com/hot/2410571",
-          "source": "抖音",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时41分 ~ 19时36分]"
         },
         {
           "title": "伊朗",
@@ -1089,6 +1093,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时52分"
+        },
+        {
+          "title": "伊朗军队在南部沿海地区举行军事演习",
+          "url": "https://wallstreetcn.com/livenews/3058119",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时56分"
         },
         {
           "title": "美国被曝考虑在伊核谈判前对伊朗实施有限军事打击，外交部回应",
@@ -1166,12 +1181,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时21分"
+        },
+        {
+          "title": "黎巴嫩官员表示，黎巴嫩方面担心，如果与伊朗的局势进一步恶化，以色列可能会对该国的基础设施发动攻击。",
+          "url": "https://flash.jin10.com/detail/20260224195929987800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时56分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 23,
+      "match_count": 28,
       "titles": [
         {
           "title": "AI担忧加剧、关税战风险重燃，金融和软件股拖垮美股，黄金四连涨，期银一度涨近8%",
@@ -1182,8 +1208,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时13分 ~ 19时36分]"
+          "appearance_count": 10,
+          "time_info": "[12时13分 ~ 20时56分]"
         },
         {
           "title": "“2028AI末日预言”吓坏市场，投资者掀起抛售潮，美股多板块盘中集体重挫",
@@ -1196,8 +1222,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时21分 ~ 19时36分]"
+          "appearance_count": 11,
+          "time_info": "[09时21分 ~ 20时56分]"
         },
         {
           "title": "关税政策不确定性笼罩市场，美股低开，现货黄金站上5200美元",
@@ -1273,6 +1299,17 @@
           "time_info": "09时21分"
         },
         {
+          "title": "诺和诺德(NVO.N)美股盘前下跌约3%。",
+          "url": "https://flash.jin10.com/detail/20260224204400024800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时56分"
+        },
+        {
           "title": "金十图示：2026年02月23日（周一）美股热门股票行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260224015335314800",
           "source": "金十数据",
@@ -1282,6 +1319,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时54分"
+        },
+        {
+          "title": "Citrini 的「2028 AI 末日预言」吓坏市场，致美股多板块集体重挫，如何看待这份报告的预测？",
+          "url": "https://www.zhihu.com/question/2009566964868150665",
+          "source": "知乎",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时38分 ~ 20时56分]"
         },
         {
           "title": "金十图示：2026年02月23日（周一）热门中概股行情一览（美股盘中）",
@@ -1332,19 +1382,6 @@
           "time_info": "[05时38分 ~ 06时34分]"
         },
         {
-          "title": "Citrini 的「2028 AI 末日预言」吓坏市场，致美股多板块集体重挫，如何看待这份报告的预测？",
-          "url": "https://www.zhihu.com/question/2009566964868150665",
-          "source": "知乎",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时38分 ~ 19时36分]"
-        },
-        {
           "title": "美股三大股指大幅收跌 IBM大跌13%",
           "url": "https://flash.jin10.com/detail/20260224050545152800",
           "source": "金十数据",
@@ -1379,6 +1416,39 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时38分 ~ 06时34分]"
+        },
+        {
+          "title": "META美股盘前走低，现跌0.2%。",
+          "url": "https://wallstreetcn.com/livenews/3058129",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时56分"
+        },
+        {
+          "title": "AMD美股盘前涨超15%，META与AMD签署巨额协议，将购买后者AI设备。",
+          "url": "https://wallstreetcn.com/livenews/3058124",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时56分"
+        },
+        {
+          "title": "礼来(LLY.N)美股盘前迅速下跌4%。",
+          "url": "https://flash.jin10.com/detail/20260224203511112800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时56分"
         },
         {
           "title": "华纳兄弟探索公司（WBD）美股盘后涨1.6%。",
@@ -1431,9 +1501,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时36分"
+        },
+        {
+          "title": "AMD(AMD.O)美股盘前涨幅扩大至15%，此前与META达成AI设备和股份交易协议。",
+          "url": "https://flash.jin10.com/detail/20260224200638377800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时56分"
         },
         {
           "title": "美股延续跌势，纳指下跌1.01%。",
@@ -1445,6 +1526,60 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时47分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "中方回应美称DeepSeek违反美出口管制",
+          "url": "https://www.toutiao.com/trending/7610332842534374955/",
+          "source": "今日头条",
+          "ranks": [
+            2,
+            1,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时38分 ~ 19时36分]"
+        },
+        {
+          "title": "如何看待 Anthropic 指控 DeepSeek 、 Kimi 和 MiniMax 「蒸馏攻击」其模型?",
+          "url": "https://www.zhihu.com/question/2009538062087123054",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时56分"
+        },
+        {
+          "title": "中方回应美称DeepSeek违反出口管制",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%BE%8E%E7%A7%B0DeepSeek%E8%BF%9D%E5%8F%8D%E5%87%BA%E5%8F%A3%E7%AE%A1%E5%88%B6",
+          "source": "百度热搜",
+          "ranks": [
+            20,
+            29,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时47分 ~ 19时36分]"
+        },
+        {
+          "title": "中信证券：国内脑机接口行业将迎来DeepSeek时刻",
+          "url": "https://wallstreetcn.com/livenews/3057725",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时21分"
         }
       ]
     },
@@ -1498,49 +1633,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时47分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "中方回应美称DeepSeek违反美出口管制",
-          "url": "https://www.toutiao.com/trending/7610332842534374955/",
-          "source": "今日头条",
-          "ranks": [
-            2,
-            1,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时38分 ~ 19时36分]"
-        },
-        {
-          "title": "中方回应美称DeepSeek违反出口管制",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%BE%8E%E7%A7%B0DeepSeek%E8%BF%9D%E5%8F%8D%E5%87%BA%E5%8F%A3%E7%AE%A1%E5%88%B6",
-          "source": "百度热搜",
-          "ranks": [
-            20,
-            29,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时47分 ~ 19时36分]"
-        },
-        {
-          "title": "中信证券：国内脑机接口行业将迎来DeepSeek时刻",
-          "url": "https://wallstreetcn.com/livenews/3057725",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时21分"
         }
       ]
     },
