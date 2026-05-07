@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-08T01:53:38.471213+08:00",
-  "total_titles_processed": 389,
+  "generated_at": "2026-05-08T03:29:07.521013+08:00",
+  "total_titles_processed": 445,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 23,
+      "match_count": 34,
       "titles": [
         {
           "title": "伊朗划定两条霍尔木兹航道，油价应声大跌",
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时02分 ~ 01时53分]"
+          "appearance_count": 4,
+          "time_info": "[00时02分 ~ 03时29分]"
         },
         {
           "title": "伊朗议会国家安全官员：没有任何铀运出伊朗。",
@@ -41,6 +41,28 @@
           "time_info": "00时02分"
         },
         {
+          "title": "伊朗南部传出爆炸声 具体原因尚不明确",
+          "url": "https://flash.jin10.com/detail/20260508030903418800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时29分"
+        },
+        {
+          "title": "据塔斯尼姆通讯社：爆炸声可能与伊朗革命卫队为警告船只而进行的行动有关。",
+          "url": "https://flash.jin10.com/detail/20260508030645348800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时29分"
+        },
+        {
           "title": "四名知情人士表示，美国中央情报局（CIA）本周的一份机密分析认为，伊朗至少可以在美国海上封锁下维持三至四个月，之后才会面临更严重的经济困境。（华盛顿邮报）",
           "url": "https://wallstreetcn.com/livenews/3100098",
           "source": "华尔街见闻-快讯",
@@ -59,8 +81,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时02分 ~ 01时53分]"
+          "appearance_count": 4,
+          "time_info": "[00时02分 ~ 03时29分]"
         },
         {
           "title": "伊朗总统和最高领袖举行会面",
@@ -70,8 +92,44 @@
             12
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时02分 ~ 03时29分]"
+        },
+        {
+          "title": "伊朗确认将在美加墨世界杯开幕前 14 天抵达美国，如何看待这一决定？伊朗队世界杯发挥可能如何？",
+          "url": "https://www.zhihu.com/question/2035679898308704139",
+          "source": "知乎",
+          "ranks": [
+            18,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时53分 ~ 03时29分]"
+        },
+        {
+          "title": "预测平台Kalshi的交易员们认为：美国要到2027年才能与伊朗达成核协议的概率上升。",
+          "url": "https://wallstreetcn.com/livenews/3100138",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            21
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时02分 ~ 01时53分]"
+          "time_info": "[01时53分 ~ 03时29分]"
+        },
+        {
+          "title": "WTI原油期货转涨，布伦特原油期货重返100美元整数位心理关口上方。 据华尔街日报，伊朗拒绝美国关于霍尔木兹海峡的方案，认为其不切实际。",
+          "url": "https://wallstreetcn.com/livenews/3100128",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时53分 ~ 03时29分]"
         },
         {
           "title": "伊朗外交部发言人7日对伊朗媒体表示，伊朗尚未就美方提出的方案得出结论，也未对美方作出回应。（新华社）",
@@ -102,7 +160,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时53分"
         },
@@ -118,17 +176,6 @@
           "time_info": "00时02分"
         },
         {
-          "title": "预测平台Kalshi的交易员们认为：美国要到2027年才能与伊朗达成核协议的概率上升。",
-          "url": "https://wallstreetcn.com/livenews/3100138",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时53分"
-        },
-        {
           "title": "伊朗针对霍尔木兹海峡通行制定新规要求提交多类信息。",
           "url": "https://flash.jin10.com/detail/20260507234336096800",
           "source": "金十数据",
@@ -138,6 +185,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时02分"
+        },
+        {
+          "title": "伊朗外交部发言人：最高领袖穆杰塔巴全面掌控局势",
+          "url": "https://flash.jin10.com/detail/20260508030102168800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时29分"
         },
         {
           "title": "据CNN报道，伊朗对霍尔木兹海峡通行实施新规。船只必须完成申请以确保安全通行。 另据华尔街日报，伊朗高级官员称，美国无法凭借“不切实际的计划”重开霍尔木兹海峡。",
@@ -162,26 +220,70 @@
           "time_info": "00时02分"
         },
         {
-          "title": "WTI原油期货转涨，布伦特原油期货重返100美元整数位心理关口上方。 据华尔街日报，伊朗拒绝美国关于霍尔木兹海峡的方案，认为其不切实际。",
-          "url": "https://wallstreetcn.com/livenews/3100128",
+          "title": "国际能源署（IEA）署长Birol：IEA迄今仅释放了总石油储备的约20%，如有必要“随时准备再次采取行动”。 加拿大必须确保为其石油生产找到新的出口目的地。 随着各国在伊朗危机后寻求新的能源贸易伙伴，加拿大是一个显而易见的选择。 随着美伊战争持续，市场正步入“波动的深水区”。 一旦美伊战争结束，供应的回归将是渐进的，这将导致市场出现波动。",
+          "url": "https://wallstreetcn.com/livenews/3100149",
           "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时29分"
+        },
+        {
+          "title": "据伊朗迈赫尔通讯社报道，在格什姆岛听到了爆炸声。",
+          "url": "https://flash.jin10.com/detail/20260508025520184800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时29分"
+        },
+        {
+          "title": "欧洲央行执委Schnabel：在我看来，伊朗战争造成的某些伤害难以逆转。 股市定价与全球局势似乎存在脱节。",
+          "url": "https://wallstreetcn.com/livenews/3100146",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时29分"
+        },
+        {
+          "title": "伊朗阿巴斯港市附近听到爆炸声",
+          "url": "https://flash.jin10.com/detail/20260508025407806800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时29分"
+        },
+        {
+          "title": "Axios记者辟谣：过去三周从未报道“协议即将达成”，系伊朗政权宣传攻势",
+          "url": "https://flash.jin10.com/detail/20260508025345869800",
+          "source": "金十数据",
           "ranks": [
             16
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时53分"
+          "time_info": "03时29分"
         },
         {
-          "title": "伊朗确认将在美加墨世界杯开幕前 14 天抵达美国，如何看待这一决定？伊朗队世界杯发挥可能如何？",
-          "url": "https://www.zhihu.com/question/2035679898308704139",
-          "source": "知乎",
+          "title": "据伊朗国家电视台报道，伊朗南部阿巴斯港周边传出数次爆炸声。",
+          "url": "https://flash.jin10.com/detail/20260508024308079800",
+          "source": "金十数据",
           "ranks": [
             18
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时53分"
+          "time_info": "03时29分"
         },
         {
           "title": "伊朗：尚未就美方案作出任何回应",
@@ -201,9 +303,31 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时53分"
+        },
+        {
+          "title": "据伊朗努尔新闻(Nour News)：伊朗最高领袖穆杰塔巴正在管理事态发展，任何行动都需经过他的许可。",
+          "url": "https://flash.jin10.com/detail/20260508023703707800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时29分"
+        },
+        {
+          "title": "据伊朗努尔新闻(Nour News)：伊朗外交部发言人表示，最高领袖穆杰塔巴对所有事务和问题拥有全面监督权。",
+          "url": "https://flash.jin10.com/detail/20260508023655424800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时29分"
         },
         {
           "title": "报道：美国司法部正调查与伊朗战争相关的26亿美元石油交易",
@@ -223,7 +347,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时53分"
         },
@@ -234,7 +358,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时53分"
         },
@@ -264,7 +388,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 8,
+      "match_count": 12,
       "titles": [
         {
           "title": "伊朗战争丨特朗普与教皇争吵后，鲁比奥访问梵蒂冈",
@@ -274,8 +398,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时02分 ~ 01时53分]"
+          "appearance_count": 4,
+          "time_info": "[00时02分 ~ 03时29分]"
         },
         {
           "title": "从狂热支持到强烈担忧，日本“铁粉”也要弃特朗普了？",
@@ -285,8 +409,31 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时02分 ~ 01时53分]"
+          "appearance_count": 4,
+          "time_info": "[00时02分 ~ 03时29分]"
+        },
+        {
+          "title": "特朗普称美伊“很可能”达成协议、威胁谈不成更强力轰炸，伊朗指美报道失实、称还在审阅美方提案",
+          "url": "https://wallstreetcn.com/articles/3771687",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时02分 ~ 03时29分]"
+        },
+        {
+          "title": "美国总统特朗普：已同意给欧盟委员会主席冯德莱恩时间至美国建国250周年纪念日；否则，很遗憾，他们的关税将立即大幅上调。",
+          "url": "https://flash.jin10.com/detail/20260508031004808800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时29分"
         },
         {
           "title": "市场消息：美国财长贝森特与美国商务部长卢特尼克与特朗普一同在白宫会见巴西总统卢拉。",
@@ -306,21 +453,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时53分"
         },
         {
-          "title": "特朗普称美伊“很可能”达成协议、威胁谈不成更强力轰炸，伊朗指美报道失实、称还在审阅美方提案",
-          "url": "https://wallstreetcn.com/articles/3771687",
-          "source": "华尔街见闻",
+          "title": "美国总统特朗普：与欧盟委员会主席冯德莱恩的通话非常愉快。",
+          "url": "https://flash.jin10.com/detail/20260508030827265800",
+          "source": "金十数据",
           "ranks": [
-            5,
-            6
+            3
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时02分 ~ 01时53分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时29分"
         },
         {
           "title": "特朗普访华前瞻——台湾怎么办？",
@@ -330,8 +476,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时02分 ~ 01时53分]"
+          "appearance_count": 4,
+          "time_info": "[00时02分 ~ 03时29分]"
         },
         {
           "title": "巴基斯坦消息人士称美伊接近达成停战谅解备忘录，特朗普：有可能下周达成协议",
@@ -341,8 +487,30 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时02分 ~ 01时53分]"
+          "appearance_count": 4,
+          "time_info": "[00时02分 ~ 03时29分]"
+        },
+        {
+          "title": "美国总统特朗普：会见巴西总统卢拉的情况非常不错。",
+          "url": "https://wallstreetcn.com/livenews/3100155",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时29分"
+        },
+        {
+          "title": "特朗普政府正寻求重启“自由计划”，最早可能在本周实施",
+          "url": "https://wallstreetcn.com/livenews/3100152",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时29分"
         },
         {
           "title": "美情报称伊朗可在特朗普封锁下至少支撑三至四个月",
@@ -358,6 +526,79 @@
       ]
     },
     {
+      "keyword_group": "chatgpt openai",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "OpenAI：GPT-Realtime-2的定价为音频输入每百万token 32美元 音频输出每百万token 64美元",
+          "url": "https://wallstreetcn.com/livenews/3100136",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时53分 ~ 03时29分]"
+        },
+        {
+          "title": "全球AI新王诞生！Anthropic估值冲爆1.2万亿，首次反超OpenAI",
+          "url": "https://wallstreetcn.com/articles/3771759",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时28分 ~ 03时29分]"
+        },
+        {
+          "title": "OpenAI与博通的AI芯片交易遭遇180亿美元融资障碍。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3100153",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时29分"
+        },
+        {
+          "title": "OpenAI：GPT-Realtime-2的定价为音频输入每百万token 32美元，音频输出每百万token 64美元；GPT-Realtime-Translate的定价为每分钟0.034美元；GPT-Realtime-Whisper的定价为每分钟0.017美元。",
+          "url": "https://flash.jin10.com/detail/20260508012049901800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时53分"
+        },
+        {
+          "title": "OpenAI：通过API中的新模型推动语音智能发展。",
+          "url": "https://flash.jin10.com/detail/20260508011634197800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时53分"
+        },
+        {
+          "title": "博通(AVGO.O)股价小幅走低，下跌3.6%，报410美元。有报道称博通与OpenAI的交易因融资问题受阻。",
+          "url": "https://flash.jin10.com/detail/20260508023402510800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时29分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美股",
       "match_count": 6,
       "titles": [
@@ -369,8 +610,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时02分 ~ 01时53分]"
+          "appearance_count": 4,
+          "time_info": "[00时02分 ~ 03时29分]"
         },
         {
           "title": "等待伊朗回应和平协议，美股小幅高开，苹果股价创新高，美油跌4%，白银大涨5%重回80美元",
@@ -380,8 +621,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时02分 ~ 01时53分]"
+          "appearance_count": 4,
+          "time_info": "[00时02分 ~ 03时29分]"
         },
         {
           "title": "重温泡沫巅峰的感觉？当前的美股涨的比1999年还快！",
@@ -391,8 +632,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时02分 ~ 01时53分]"
+          "appearance_count": 4,
+          "time_info": "[00时02分 ~ 03时29分]"
         },
         {
           "title": "美伊接近重启谈判 美股再冲新高 布油跌破97美元 | 今夜看点",
@@ -403,8 +644,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时02分 ~ 01时53分]"
+          "appearance_count": 4,
+          "time_info": "[00时02分 ~ 03时29分]"
         },
         {
           "title": "金十图示：2026年05月07日（周四）美股热门股票行情一览（美股盘中）",
@@ -413,7 +654,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时53分"
         },
@@ -424,46 +665,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时53分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "OpenAI：GPT-Realtime-2的定价为音频输入每百万token 32美元 音频输出每百万token 64美元",
-          "url": "https://wallstreetcn.com/livenews/3100136",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时53分"
-        },
-        {
-          "title": "OpenAI：GPT-Realtime-2的定价为音频输入每百万token 32美元，音频输出每百万token 64美元；GPT-Realtime-Translate的定价为每分钟0.034美元；GPT-Realtime-Whisper的定价为每分钟0.017美元。",
-          "url": "https://flash.jin10.com/detail/20260508012049901800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时53分"
-        },
-        {
-          "title": "OpenAI：通过API中的新模型推动语音智能发展。",
-          "url": "https://flash.jin10.com/detail/20260508011634197800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时53分"
         }
