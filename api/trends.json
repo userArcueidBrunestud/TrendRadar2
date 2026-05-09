@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-09T19:43:43.069560+08:00",
-  "total_titles_processed": 1303,
+  "generated_at": "2026-05-09T20:58:44.639741+08:00",
+  "total_titles_processed": 1382,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 59,
+      "match_count": 63,
       "titles": [
         {
           "title": "美国务卿敦促“进入严肃谈判进程”，美军向伊朗“违反封锁”油轮开火，伊称海湾交火已停但恐重燃",
@@ -18,8 +18,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[03时08分 ~ 19时43分]"
+          "appearance_count": 16,
+          "time_info": "[03时08分 ~ 20时58分]"
+        },
+        {
+          "title": "现场画面：伊朗海军扣押一艘油轮",
+          "url": "https://v.ifeng.com/c/8syr0bovpBY",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[13时41分 ~ 20时58分]"
         },
         {
           "title": "伊朗南部霍尔木兹甘省一港口城市传出爆炸声",
@@ -31,18 +43,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时05分 ~ 10时07分]"
-        },
-        {
-          "title": "现场画面：伊朗海军扣押一艘油轮",
-          "url": "https://v.ifeng.com/c/8syr0bovpBY",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时41分 ~ 19时43分]"
         },
         {
           "title": "伊朗成立波斯湾海峡管理局，过霍尔木兹的船要先填40多道题？",
@@ -67,24 +67,24 @@
           "time_info": "[01时05分 ~ 10时07分]"
         },
         {
-          "title": "伊朗战争丨伊朗官员披露穆杰塔巴伤情",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
-          "source": "凤凰网",
-          "ranks": [
-            1,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时41分 ~ 19时43分]"
-        },
-        {
           "title": "伊朗驻华大使：美国没法施压中国，改变对伊朗关系",
           "url": "https://news.ifeng.com/c/8syp7qZWoVz",
           "source": "凤凰网",
           "ranks": [
             4,
             8
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[13时41分 ~ 20时58分]"
+        },
+        {
+          "title": "伊朗战争丨伊朗官员披露穆杰塔巴伤情",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            6
           ],
           "is_new": false,
           "appearance_count": 8,
@@ -161,6 +161,17 @@
           "time_info": "03时08分"
         },
         {
+          "title": "伊朗官员：全国油田生产持续 暂无哈尔克岛石油泄漏相关报告",
+          "url": "https://wallstreetcn.com/livenews/3101068",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
+        },
+        {
           "title": "伊朗：已做好全面准备回击任何侵略",
           "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%EF%BC%9A%E5%B7%B2%E5%81%9A%E5%A5%BD%E5%85%A8%E9%9D%A2%E5%87%86%E5%A4%87%E5%9B%9E%E5%87%BB%E4%BB%BB%E4%BD%95%E4%BE%B5%E7%95%A5",
           "source": "百度热搜",
@@ -177,11 +188,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            8
+            8,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时51分 ~ 19时43分]"
+          "appearance_count": 3,
+          "time_info": "[18时51分 ~ 20时58分]"
         },
         {
           "title": "伊朗足协公布参加2026年美加墨世界杯10项条件",
@@ -270,6 +282,19 @@
           "time_info": "[01时05分 ~ 06时49分]"
         },
         {
+          "title": "伊朗官员否认“美国袭击伊朗民用船致多人失踪”消息",
+          "url": "https://flash.jin10.com/detail/20260509183051864800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            11,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时51分 ~ 20时58分]"
+        },
+        {
           "title": "伊朗称美军打击伊朗6艘民用船",
           "url": "https://wallstreetcn.com/livenews/3101008",
           "source": "华尔街见闻-快讯",
@@ -294,18 +319,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[17时11分 ~ 19时43分]"
-        },
-        {
-          "title": "伊朗官员否认“美国袭击伊朗民用船致多人失踪”消息",
-          "url": "https://flash.jin10.com/detail/20260509183051864800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时51分 ~ 19时43分]"
         },
         {
           "title": "鲁比奥访意公开施压 质疑为何不支持对伊朗动武",
@@ -367,6 +380,17 @@
           "time_info": "01时05分"
         },
         {
+          "title": "伊朗战争丨中东战火不断，为何全球股市不跌反涨？",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
+        },
+        {
           "title": "鲁比奥访意公开施压 质疑为何不支持对伊朗动武",
           "url": "https://flash.jin10.com/detail/20260509145205803800",
           "source": "金十数据",
@@ -400,6 +424,17 @@
           "time_info": "15时47分"
         },
         {
+          "title": "伊朗官员：全国油田生产持续 暂无哈尔克岛石油泄漏相关报告",
+          "url": "https://flash.jin10.com/detail/20260509193905160800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
+        },
+        {
           "title": "【伊朗议员：美对伊海上封锁行动将遭军事回应】伊朗议会国家安全委员会成员哈兹里安当地时间8日在接受当地媒体采访时表示，“从现在起，美国对伊朗海上封锁的行动将遭到伊朗的军事回应。美国应该为其驱逐舰提供多艘护航舰艇，以便在驱逐舰沉没时能够营救其舰员”。公开资料显示，该议员并不在伊朗政府中担任职务，无法确定其表态是否代表伊朗官方立场。（央视）",
           "url": "https://wallstreetcn.com/livenews/3100834",
           "source": "华尔街见闻-快讯",
@@ -409,6 +444,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时05分"
+        },
+        {
+          "title": "停火期间遇袭，伊朗会强硬反击吗？伊朗大使回应凤凰",
+          "url": "https://news.ifeng.com/c/8szLTDMoDY1",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
         },
         {
           "title": "遭美国扣押的伊朗货船抵达巴基斯坦卡拉奇港",
@@ -714,6 +760,19 @@
           "time_info": "[01时05分 ~ 07时50分]"
         },
         {
+          "title": "受够了！德国喊话多国组建对抗特朗普新联盟",
+          "url": "https://news.ifeng.com/c/8syALbeUOvl",
+          "source": "凤凰网",
+          "ranks": [
+            8,
+            5,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[10时07分 ~ 20时58分]"
+        },
+        {
           "title": "特朗普称中美元首会谈将按计划举行，外交部：目前无进一步信息提供",
           "url": "https://m.thepaper.cn/newsDetail_forward_33121956",
           "source": "澎湃新闻",
@@ -728,17 +787,15 @@
           "time_info": "[01时05分 ~ 15时47分]"
         },
         {
-          "title": "受够了！德国喊话多国组建对抗特朗普新联盟",
-          "url": "https://news.ifeng.com/c/8syALbeUOvl",
+          "title": "近60万买家斥资6000万美元预购特朗普手机，却没人知道发货时间",
+          "url": "https://news.ifeng.com/c/8sytAKXfO4y",
           "source": "凤凰网",
           "ranks": [
-            8,
-            5,
-            9
+            12
           ],
           "is_new": false,
           "appearance_count": 9,
-          "time_info": "[10时07分 ~ 19时43分]"
+          "time_info": "[13时41分 ~ 20时58分]"
         },
         {
           "title": "中方回应何时发布特朗普访华消息",
@@ -755,17 +812,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时05分 ~ 10时07分]"
-        },
-        {
-          "title": "近60万买家斥资6000万美元预购特朗普手机，却没人知道发货时间",
-          "url": "https://news.ifeng.com/c/8sytAKXfO4y",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时41分 ~ 19时43分]"
         },
         {
           "title": "特朗普称中美元首会谈将按计划举行，外交部回应",
@@ -817,6 +863,18 @@
           "time_info": "03时08分"
         },
         {
+          "title": "特朗普：可能恢复“自由计划”行动，伊朗：正制定霍尔木兹海峡相关法律草案",
+          "url": "https://wallstreetcn.com/articles/3771883",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时11分 ~ 20时58分]"
+        },
+        {
           "title": "英特尔大涨！与苹果达成初步芯片制造协议，特朗普政府居中撮合",
           "url": "https://wallstreetcn.com/articles/3771870",
           "source": "华尔街见闻",
@@ -842,16 +900,16 @@
           "time_info": "[04时51分 ~ 06时49分]"
         },
         {
-          "title": "特朗普：可能恢复“自由计划”行动，伊朗：正制定霍尔木兹海峡相关法律草案",
-          "url": "https://wallstreetcn.com/articles/3771883",
-          "source": "华尔街见闻",
+          "title": "俄方同意特朗普提出的停火方案",
+          "url": "https://www.toutiao.com/trending/7637290812788162601/",
+          "source": "今日头条",
           "ranks": [
-            9,
-            8
+            17,
+            30
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时11分 ~ 19时43分]"
+          "appearance_count": 3,
+          "time_info": "[13时41分 ~ 20时58分]"
         },
         {
           "title": "中情局报告泄了特朗普的底",
@@ -924,17 +982,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时50分 ~ 10时07分]"
-        },
-        {
-          "title": "俄方同意特朗普提出的停火方案",
-          "url": "https://www.toutiao.com/trending/7637290812788162601/",
-          "source": "今日头条",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时41分 ~ 13时42分]"
         },
         {
           "title": "特朗普再遭司法重拳，全面关税政策走到尽头？丨Hi，今天怎么看？",
@@ -1281,8 +1328,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时07分 ~ 19时43分]"
+          "appearance_count": 10,
+          "time_info": "[10时07分 ~ 20时58分]"
         },
         {
           "title": "美股收盘：标普纳指周线6连阳 存储、CPU四大牛股均涨超10%",
@@ -1294,8 +1341,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[07时49分 ~ 19时43分]"
+          "appearance_count": 12,
+          "time_info": "[07时49分 ~ 20时58分]"
         },
         {
           "title": "美伊和谈疑云压制风险情绪，美股指收跌，油价走V，离岸人民币盘中创四年新高",
@@ -1447,8 +1494,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时07分 ~ 19时43分]"
+          "appearance_count": 10,
+          "time_info": "[10时07分 ~ 20时58分]"
         },
         {
           "title": "DeepSeek识图模式大范围开放",
@@ -1462,8 +1509,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时41分 ~ 19时43分]"
+          "appearance_count": 9,
+          "time_info": "[13时41分 ~ 20时58分]"
         },
         {
           "title": "DeepSeek睁眼,开放识图模式",
@@ -1472,11 +1519,12 @@
           "ranks": [
             5,
             6,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时11分 ~ 19时43分]"
+          "appearance_count": 5,
+          "time_info": "[17时11分 ~ 20时58分]"
         },
         {
           "title": "阿里未参与DeepSeek融资谈判，市场人士否认“谈崩”传闻",
@@ -1484,11 +1532,12 @@
           "source": "金十数据",
           "ranks": [
             3,
-            8
+            8,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时51分 ~ 19时43分]"
+          "appearance_count": 3,
+          "time_info": "[18时51分 ~ 20时58分]"
         },
         {
           "title": "Deepseek和阿里谈崩了？市场人士：双方应该没有进行谈判",
@@ -1579,11 +1628,12 @@
           "ranks": [
             11,
             7,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时46分 ~ 19时43分]"
+          "appearance_count": 7,
+          "time_info": "[15时46分 ~ 20时58分]"
         },
         {
           "title": "英伟达13倍涨幅不过尔尔？自ChatGPT问世以来的AI疯牛榜正发生巨变！",
@@ -1594,8 +1644,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时41分 ~ 19时43分]"
+          "appearance_count": 7,
+          "time_info": "[13时41分 ~ 20时58分]"
         },
         {
           "title": "彻底撕破脸了！OpenAI官司法庭辩论上演“人身攻击”：马斯克“不懂AI且暴躁”，Altman“人品低劣又虚伪”",
@@ -1605,8 +1655,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时11分 ~ 19时43分]"
+          "appearance_count": 3,
+          "time_info": "[17时11分 ~ 20时58分]"
         }
       ]
     },
