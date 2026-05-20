@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-20T18:21:48.294814+08:00",
-  "total_titles_processed": 1230,
+  "generated_at": "2026-05-20T21:33:55.645905+08:00",
+  "total_titles_processed": 1408,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 39,
+      "match_count": 40,
       "titles": [
         {
           "title": "谷歌I/O大会All in AI：Gemini模型上新，搜索框25年来最大改版，AI眼镜回归，Spark智能体首秀",
@@ -17,8 +17,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时56分 ~ 18时21分]"
+          "appearance_count": 7,
+          "time_info": "[07时56分 ~ 21时33分]"
         },
         {
           "title": "谷歌开发者大会火力全开：AI搜索、代码生成、视频模型齐发",
@@ -203,6 +203,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时26分"
+        },
+        {
+          "title": "对谈谷歌开发者社区核心成员",
+          "url": "https://search.bilibili.com/all?keyword=%E5%AF%B9%E8%B0%88%E8%B0%B7%E6%AD%8C%E5%BC%80%E5%8F%91%E8%80%85%E7%A4%BE%E5%8C%BA%E6%A0%B8%E5%BF%83%E6%88%90%E5%91%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时33分"
         },
         {
           "title": "谷歌发布通用购物车Universal Intelligent Shopping Cart，今年夏季将在美国推出。 将出现在搜索与Gemini APP。",
@@ -450,7 +461,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 37,
+      "match_count": 40,
       "titles": [
         {
           "title": "美防长公开学特朗普讲话，现场一阵哄堂大笑",
@@ -500,6 +511,28 @@
           "time_info": "[10时40分 ~ 14时43分]"
         },
         {
+          "title": "特朗普现身白宫宴会厅施工现场，称这是献给国家的礼物",
+          "url": "https://news.ifeng.com/c/8tHSbfpek1w",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时21分 ~ 21时33分]"
+        },
+        {
+          "title": "港大学者李成：我觉得特朗普对台军售政策会调整",
+          "url": "https://news.ifeng.com/c/8tHoD8gEXdY",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时33分"
+        },
+        {
           "title": "万斯为特朗普超长交易清单辩护",
           "url": "https://flash.jin10.com/detail/20260520075009273800",
           "source": "金十数据",
@@ -509,17 +542,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时57分"
-        },
-        {
-          "title": "特朗普现身白宫宴会厅施工现场，称这是献给国家的礼物",
-          "url": "https://news.ifeng.com/c/8tHSbfpek1w",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时21分"
         },
         {
           "title": "美国参议院推进迫使特朗普从伊朗撤军的法案 共和党议员倒戈",
@@ -714,6 +736,17 @@
           "time_info": "07时57分"
         },
         {
+          "title": "郑丽文：特朗普叫台湾不要再讲“台独”，民进党还装听不懂",
+          "url": "https://news.ifeng.com/c/8tHcSaikz2t",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时33分"
+        },
+        {
           "title": "美国总统特朗普：（关于伊朗）他们不会拥有核武器。",
           "url": "https://flash.jin10.com/detail/20260520073551470800",
           "source": "金十数据",
@@ -778,6 +811,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时56分"
+        },
+        {
+          "title": "贝佐斯：特朗普比第一任期更成熟、更自律。 我仍然会打电话给奥巴马征求意见。 在太空建立数据中心“非常现实”。 地面数据中心的能源预算将会增加。 发射成本需要降低十倍。 人工智能将导致劳动力短缺。 亚马逊没有因为人工智能而裁员。 我在亚马逊、蓝色起源以及普罗米修斯公司的工作经历，都与人工智能相关。 太空产业将会成为一个“庞大规模”的产业。",
+          "url": "https://wallstreetcn.com/livenews/3106732",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时33分"
         },
         {
           "title": "据AXIOS：尽管与盟友关系紧张，美国总统特朗普将出席法国G7峰会。",
@@ -871,7 +915,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 32,
+      "match_count": 35,
       "titles": [
         {
           "title": "伊媒：伊朗格什姆岛传出爆炸声",
@@ -941,7 +985,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时21分"
         },
@@ -998,8 +1042,19 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时42分 ~ 18时21分]"
+          "appearance_count": 4,
+          "time_info": "[14时42分 ~ 21时33分]"
+        },
+        {
+          "title": "伊朗最高领袖说伊朗人民正在进行“历史性抵抗”",
+          "url": "https://wallstreetcn.com/livenews/3106745",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时33分"
         },
         {
           "title": "伊朗革命卫队升级威胁：若再遭打击，战争将蔓延至中东之外",
@@ -1008,7 +1063,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时21分"
         },
@@ -1030,7 +1085,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时21分"
         },
@@ -1085,7 +1140,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时21分"
         },
@@ -1129,7 +1184,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时21分"
         },
@@ -1143,6 +1198,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时40分"
+        },
+        {
+          "title": "伊朗：过去24小时有26艘船只通过霍尔木兹海峡",
+          "url": "https://wallstreetcn.com/livenews/3106729",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时33分"
         },
         {
           "title": "美联储保尔森：如果伊朗冲突持续，将进一步增加通胀和失业的风险。",
@@ -1211,6 +1277,17 @@
           "time_info": "06时09分"
         },
         {
+          "title": "韩国周三与伊朗伊斯兰革命卫队就穿越海峡进行了协调。（伊朗电视台）",
+          "url": "https://wallstreetcn.com/livenews/3106713",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时33分"
+        },
+        {
           "title": "美国中央司令部：美军正继续全面执行针对伊朗的海上封锁行动",
           "url": "https://flash.jin10.com/detail/20260520100946669800",
           "source": "金十数据",
@@ -1236,7 +1313,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 19,
+      "match_count": 22,
       "titles": [
         {
           "title": "谈判前景反复无常，油价先跌后涨，美股承压，科技股领跌",
@@ -1311,6 +1388,17 @@
           "time_info": "06时09分"
         },
         {
+          "title": "周三美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3106748",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时33分"
+        },
+        {
           "title": "周二（5月19日），彭博电动汽车价格回报指数跌1.94%，报3843.70点。 北京时间09:45开始一波加速下跌的行情，美股开盘再次加速下跌。",
           "url": "https://wallstreetcn.com/livenews/3106240",
           "source": "华尔街见闻-快讯",
@@ -1348,6 +1436,18 @@
           "time_info": "[00时47分 ~ 02时56分]"
         },
         {
+          "title": "美股芯片股已严重超买！美银警告：历史7次类似信号后平均暴跌44%",
+          "url": "https://wallstreetcn.com/articles/3772678",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时21分 ~ 21时33分]"
+        },
+        {
           "title": "美股费城半导体指数七日跌幅一度逼近10%，抄底资金开始入场",
           "url": "https://wallstreetcn.com/articles/3772667",
           "source": "华尔街见闻",
@@ -1370,15 +1470,15 @@
           "time_info": "[07时56分 ~ 07时57分]"
         },
         {
-          "title": "美股芯片股已严重超买！美银警告：历史7次类似信号后平均暴跌44%",
-          "url": "https://wallstreetcn.com/articles/3772678",
+          "title": "段永平最新美股持仓曝光！豪掷12亿美元重仓特斯拉，大举加仓英伟达、拼多多",
+          "url": "https://wallstreetcn.com/articles/3772698",
           "source": "华尔街见闻",
           "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时21分"
+          "time_info": "21时33分"
         },
         {
           "title": "AMC院线美股盘后涨6%，该公司CEO买入股票。",
@@ -1447,6 +1547,17 @@
           "time_info": "06时09分"
         },
         {
+          "title": "金十数据整理：每日美股市场要闻速递（2026-05-20）",
+          "url": "https://flash.jin10.com/detail/20260520205239987800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时33分"
+        },
+        {
           "title": "周二（5月19日），美股AI软件先驱指数跌0.12%，报107.31点，高开高走之际、北京时间21:52刷新日高至110.81点，随后回吐涨幅，23:25以来大致持平。 成分股甲骨文收跌2.76%，铿腾电子跌2.27%，ServiceNOW、微软至少跌1.44%，新思科技跌0.91%，GitLab涨1.47%，Datadog涨3.03%，Snowflake涨3.23%。",
           "url": "https://wallstreetcn.com/livenews/3106273",
           "source": "华尔街见闻-快讯",
@@ -1475,17 +1586,6 @@
           "time_info": "[00时47分 ~ 04时26分]"
         },
         {
-          "title": "美债上演“投降式大抛售”，高利率阴霾笼罩股市",
-          "url": "https://wallstreetcn.com/articles/3772671",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时42分 ~ 18时21分]"
-        },
-        {
           "title": "通胀担忧高企，美债收益率飙升至多年高位，标普纳指三连跌，黄金一度跌超2%",
           "url": "https://wallstreetcn.com/articles/3772605",
           "source": "华尔街见闻",
@@ -1495,6 +1595,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时56分 ~ 07时57分]"
+        },
+        {
+          "title": "美债上演“投降式大抛售”，高利率阴霾笼罩股市",
+          "url": "https://wallstreetcn.com/articles/3772671",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时42分 ~ 21时33分]"
         },
         {
           "title": "通胀担忧高企，美债收益率飙升至多年高位，标普、纳指三连跌，黄金一度跌超2%",
@@ -1512,11 +1624,12 @@
           "url": "https://www.cls.cn/detail/2376546",
           "source": "财联社热门",
           "ranks": [
-            6
+            6,
+            4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时21分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时21分 ~ 21时33分]"
         },
         {
           "title": "美债收益率引爆新压力，沃什还没上任就被“围剿”？特朗普改口留后路",
@@ -1569,7 +1682,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时21分"
         }
