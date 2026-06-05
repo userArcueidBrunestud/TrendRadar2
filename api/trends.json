@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-05T15:02:24.533292+08:00",
-  "total_titles_processed": 968,
+  "generated_at": "2026-06-05T18:51:51.497942+08:00",
+  "total_titles_processed": 1185,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 43,
+      "match_count": 47,
       "titles": [
         {
           "title": "特朗普：乐见“普泽会”，俄乌会“妥协”",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时39分 ~ 15时02分]"
+          "appearance_count": 5,
+          "time_info": "[10时39分 ~ 18时51分]"
         },
         {
           "title": "特朗普最新支持率曝光，压力骤增",
@@ -255,6 +255,17 @@
           "time_info": "05时26分"
         },
         {
+          "title": "俄外长说拜登战争已变为特朗普战争",
+          "url": "https://wallstreetcn.com/livenews/3115044",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时51分"
+        },
+        {
           "title": "美国总统特朗普：我们会得到伊朗的核尘埃。 没有在考虑秘密行动夺取伊朗铀。 没有理由去获取伊朗的核尘埃，它已经被掩埋。 现在可以获取伊朗的核尘埃，但没理由这么做。",
           "url": "https://wallstreetcn.com/livenews/3114626",
           "source": "华尔街见闻-快讯",
@@ -264,6 +275,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时26分"
+        },
+        {
+          "title": "巴驻联合国官员喊话特朗普：管住以色列",
+          "url": "https://wallstreetcn.com/livenews/3115043",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时51分"
         },
         {
           "title": "美国总统特朗普：古巴正面临粮食短缺，并且缺乏能源和石油。",
@@ -398,6 +420,17 @@
           "time_info": "05时26分"
         },
         {
+          "title": "特朗普“老冤家”博尔顿被曝同意认罪",
+          "url": "https://wallstreetcn.com/livenews/3115037",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时51分"
+        },
+        {
           "title": "美国总统特朗普：我们将与印度达成贸易协议。",
           "url": "https://flash.jin10.com/detail/20260605043111038800",
           "source": "金十数据",
@@ -418,6 +451,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时26分"
+        },
+        {
+          "title": "特朗普开会睡觉视频曝光",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%BC%80%E4%BC%9A%E7%9D%A1%E8%A7%89%E8%A7%86%E9%A2%91%E6%9B%9D%E5%85%89%23&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时51分"
         },
         {
           "title": "美国财长贝森特：在特朗普2.0政策下，除了四月外，每个月的实际工资均有所增长。",
@@ -489,7 +533,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "据Axios：波士顿联储表示，伊朗战争对美国劳动力市场的冲击预计有限。",
@@ -537,6 +581,18 @@
           "time_info": "[05时26分 ~ 07时03分]"
         },
         {
+          "title": "一图看懂｜主战还是主和？伊朗高层有什么分歧？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33310457",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时01分 ~ 18时51分]"
+        },
+        {
           "title": "伊朗“圣城旅”喊话以色列",
           "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E2%80%9C%E5%9C%A3%E5%9F%8E%E6%97%85%E2%80%9D%E5%96%8A%E8%AF%9D%E4%BB%A5%E8%89%B2%E5%88%97",
           "source": "百度热搜",
@@ -548,17 +604,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时15分 ~ 07时03分]"
-        },
-        {
-          "title": "一图看懂｜主战还是主和？伊朗高层有什么分歧？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33310457",
-          "source": "澎湃新闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时01分 ~ 15时02分]"
         },
         {
           "title": "伊朗外长回忆哈梅内伊遇袭当天细节",
@@ -658,6 +703,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时47分"
+        },
+        {
+          "title": "据伊朗塔斯尼姆通讯社：伊朗外长阿拉格齐与哈马斯高级领导人哈利勒·哈亚讨论了加沙及更广泛地区的最新局势发展，双方重申支持巴勒斯坦事业，并支持旨在结束以色列军事行动的相关努力。",
+          "url": "https://flash.jin10.com/detail/20260605181500509800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时51分"
         },
         {
           "title": "美国财长贝森特：当（美国和以色列挑起的）伊朗冲突结束时，能源价格将回落。 伊朗冲突“已经被暂停”。",
@@ -773,7 +829,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "博通电话会：CEO坦言谷歌正“另寻新欢”，但需求旺盛订单排到2028年，将打造算力融资平台",
@@ -810,6 +866,17 @@
           "time_info": "00时47分"
         },
         {
+          "title": "谷歌计划两年内释放 3200 万只蚊子，旨在减少蚊子数抑制疾病传播，放蚊为啥能灭蚊？背后是什么原理？",
+          "url": "https://www.zhihu.com/question/2045932866278895886",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时51分"
+        },
+        {
           "title": "谷歌公司：与Intersect在美国得州建设Meitner Energy Center。 其中，一个新数据中心的电力供应将来自Gray County和Roberts County。",
           "url": "https://wallstreetcn.com/livenews/3114563",
           "source": "华尔街见闻-快讯",
@@ -835,8 +902,19 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "报道：美国政府拟收购AI公司股份并向全民派息，OpenAI Altman是主要推手",
+          "url": "https://wallstreetcn.com/articles/3773921",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时51分"
+        },
         {
           "title": "OpenAI：改善ChatGPT中的记忆合成，以优化新鲜度、连续性和相关性。",
           "url": "https://flash.jin10.com/detail/20260605000634320800",
@@ -858,6 +936,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时47分"
+        },
+        {
+          "title": "微软CEO深度访谈：过度依赖OpenAI曾让公司陷入被动，软件“未死”但传统SaaS已到转折点",
+          "url": "https://wallstreetcn.com/articles/3773884",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时51分"
         }
       ]
     },
