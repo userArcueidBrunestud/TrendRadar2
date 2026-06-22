@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-23T05:29:40.897250+08:00",
-  "total_titles_processed": 384,
+  "generated_at": "2026-06-23T07:14:26.343569+08:00",
+  "total_titles_processed": 503,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 28,
+      "match_count": 38,
       "titles": [
         {
           "title": "王毅会见伊朗最高国家安全委员会副秘书",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时42分 ~ 05时29分]"
+          "appearance_count": 3,
+          "time_info": "[02时42分 ~ 07时14分]"
         },
         {
           "title": "伊媒：伊朗代表团拒绝继续在瑞士进行伊美谈判",
@@ -26,8 +26,21 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时42分 ~ 05时29分]"
+          "appearance_count": 3,
+          "time_info": "[02时42分 ~ 07时14分]"
+        },
+        {
+          "title": "如何看待伊朗队在洛杉矶更衣室留下的感谢信？",
+          "url": "https://www.zhihu.com/question/2052442119843701055",
+          "source": "知乎",
+          "ranks": [
+            8,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时42分 ~ 07时14分]"
         },
         {
           "title": "伊朗公布哈梅内伊葬礼安排",
@@ -58,9 +71,21 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时29分"
+        },
+        {
+          "title": "伊朗谈判团队称伊美谈判达成5项要点",
+          "url": "https://wallstreetcn.com/articles/3775177",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时42分 ~ 07时14分]"
         },
         {
           "title": "伊朗议长：伊美应共同保障黎巴嫩领土完整",
@@ -69,7 +94,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时29分"
         },
@@ -85,39 +110,26 @@
           "time_info": "02时42分"
         },
         {
+          "title": "伊朗议长：霍尔木兹海峡将按伊方制定的机制进行管理",
+          "url": "https://news.ifeng.com/c/8u8tDRAoBuA",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时14分"
+        },
+        {
           "title": "据伊朗塔斯尼姆通讯社：伊朗央行行长称，德黑兰在现有协议下没有义务从美国购买农业投入品。",
           "url": "https://flash.jin10.com/detail/20260623044637225800",
           "source": "金十数据",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时29分"
-        },
-        {
-          "title": "如何看待伊朗队在洛杉矶更衣室留下的感谢信？",
-          "url": "https://www.zhihu.com/question/2052442119843701055",
-          "source": "知乎",
-          "ranks": [
-            8,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时42分 ~ 05时29分]"
-        },
-        {
-          "title": "伊朗谈判团队称伊美谈判达成5项要点",
-          "url": "https://wallstreetcn.com/articles/3775177",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时42分 ~ 05时29分]"
         },
         {
           "title": "头条世界杯｜贝兰万德封神！坚硬的不是球门，是这支伊朗的命",
@@ -127,20 +139,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时42分 ~ 05时29分]"
-        },
-        {
-          "title": "伊朗队在洛杉矶更衣室留下感谢信",
-          "url": "https://www.toutiao.com/trending/7654111669110669353/",
-          "source": "今日头条",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时42分 ~ 05时29分]"
+          "appearance_count": 3,
+          "time_info": "[02时42分 ~ 07时14分]"
         },
         {
           "title": "伊朗的抗争是否在实际意义上阻止了第三次世界大战的爆发？",
@@ -148,11 +148,25 @@
           "source": "知乎",
           "ranks": [
             20,
-            12
+            12,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时42分 ~ 05时29分]"
+          "appearance_count": 3,
+          "time_info": "[02时42分 ~ 07时14分]"
+        },
+        {
+          "title": "伊朗队在洛杉矶更衣室留下感谢信",
+          "url": "https://www.toutiao.com/trending/7654111669110669353/",
+          "source": "今日头条",
+          "ranks": [
+            13,
+            12,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时42分 ~ 07时14分]"
         },
         {
           "title": "比利时0-0伊朗",
@@ -163,8 +177,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时42分 ~ 05时29分]"
+          "appearance_count": 3,
+          "time_info": "[02时42分 ~ 07时14分]"
         },
         {
           "title": "伊朗向中方通报伊美谈判最新情况",
@@ -196,9 +210,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时29分"
+        },
+        {
+          "title": "历史性逆转！美国数十年来首允伊朗以美元卖油",
+          "url": "https://flash.jin10.com/detail/20260623064916486800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时14分"
         },
         {
           "title": "伊朗议长：霍尔木兹海峡将按伊方制定的机制进行管理",
@@ -207,9 +232,31 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时29分"
+        },
+        {
+          "title": "伊朗副外长披露伊美谈判后续技术层面磋商机制",
+          "url": "https://flash.jin10.com/detail/20260623064531073800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时14分"
+        },
+        {
+          "title": "伊朗副外长披露伊美谈判后续技术层面磋商机制",
+          "url": "https://wallstreetcn.com/livenews/3123064",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时14分"
         },
         {
           "title": "伊朗总统致敬伊朗国家队",
@@ -229,9 +276,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时29分"
+        },
+        {
+          "title": "伊朗原油重返市场预期升温 油价回归平静",
+          "url": "https://flash.jin10.com/detail/20260623063758383800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时14分"
         },
         {
           "title": "伊朗说将按现行机制继续与国际原子能机构合作",
@@ -289,6 +347,28 @@
           "time_info": "02时42分"
         },
         {
+          "title": "据伊朗媒体报道，伊朗议会议长卡利巴夫、外长阿拉格齐、美国副总统万斯、卡塔尔首相阿尔萨尼及巴基斯坦总理谢里夫将监督未来的谈判。",
+          "url": "https://flash.jin10.com/detail/20260623060715832800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时14分"
+        },
+        {
+          "title": "日企掏钱,伊朗白捡三千亿",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355283&amp;topic_name=%E6%97%A5%E4%BC%81%E6%8E%8F%E9%92%B1%2C%E4%BC%8A%E6%9C%97%E7%99%BD%E6%8D%A1%E4%B8%89%E5%8D%83%E4%BA%BF",
+          "source": "贴吧",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时14分"
+        },
+        {
           "title": "美国副总统万斯：必须让检查员进入伊朗核设施。",
           "url": "https://flash.jin10.com/detail/20260623013855816800",
           "source": "金十数据",
@@ -298,6 +378,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时42分"
+        },
+        {
+          "title": "伊朗否认将用解冻资金买美农产品",
+          "url": "https://flash.jin10.com/detail/20260623055417183800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时14分"
         },
         {
           "title": "IEA署长：伊朗能源危机将推动全球电气化进程",
@@ -311,6 +402,17 @@
           "time_info": "02时42分"
         },
         {
+          "title": "120亿美元？伊朗否认将用解冻资金买美农产品",
+          "url": "https://wallstreetcn.com/livenews/3123047",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时14分"
+        },
+        {
           "title": "美国副总统万斯：（谈伊朗）对我们取得的进展感到非常满意。建立机制确保霍尔木兹通道保持开放。",
           "url": "https://flash.jin10.com/detail/20260623013802023800",
           "source": "金十数据",
@@ -320,23 +422,35 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时42分"
+        },
+        {
+          "title": "阿曼外长：今晚在马斯喀特欢迎了伊朗议会议长卡利巴夫和外长阿拉格齐。双方就近期伊朗与美国的谅解备忘录进行了建设性讨论，特别是霍尔木兹海峡的相关内容。",
+          "url": "https://flash.jin10.com/detail/20260623050922347800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时14分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 23,
+      "match_count": 25,
       "titles": [
         {
           "title": "美伊艰难谈判：万斯称“取得巨大进展”，特朗普威胁“谈不好就炸”，伊朗强硬“合照不拍，抗议离场”",
           "url": "https://wallstreetcn.com/articles/3775145",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时42分 ~ 05时29分]"
+          "appearance_count": 3,
+          "time_info": "[02时42分 ~ 07时14分]"
         },
         {
           "title": "特朗普称伊朗将同意接受武器核查",
@@ -345,7 +459,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时29分"
         },
@@ -361,13 +475,24 @@
           "time_info": "[02时42分 ~ 05时29分]"
         },
         {
+          "title": "特朗普威胁伊朗,美伊谈判暂停",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355324&amp;topic_name=%E7%89%B9%E6%9C%97%E6%99%AE%E5%A8%81%E8%83%81%E4%BC%8A%E6%9C%97%2C%E7%BE%8E%E4%BC%8A%E8%B0%88%E5%88%A4%E6%9A%82%E5%81%9C",
+          "source": "贴吧",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时14分"
+        },
+        {
           "title": "特朗普签署两项行政令 推动2028年部署用于科学研究的量子计算机",
           "url": "https://flash.jin10.com/detail/20260623044248643800",
           "source": "金十数据",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时29分"
         },
@@ -378,7 +503,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时29分"
         },
@@ -411,7 +536,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时29分"
         },
@@ -422,7 +547,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时29分"
         },
@@ -460,6 +585,17 @@
           "time_info": "02时42分"
         },
         {
+          "title": "美媒：特朗普情报系统大裁员启动 “深层政府”清洗行动展开",
+          "url": "https://flash.jin10.com/detail/20260623061805327800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时14分"
+        },
+        {
           "title": "美国总统特朗普背书支持Bruce BlakeMan竞选纽约州长。",
           "url": "https://wallstreetcn.com/livenews/3122971",
           "source": "华尔街见闻-快讯",
@@ -477,7 +613,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时29分"
         },
@@ -488,7 +624,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时29分"
         },
@@ -510,7 +646,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时29分"
         },
@@ -521,7 +657,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时29分"
         },
@@ -543,7 +679,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时29分"
         },
@@ -554,7 +690,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时29分"
         },
@@ -565,7 +701,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时29分"
         },
@@ -576,7 +712,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时29分"
         }
@@ -584,7 +720,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "美伊达成协议文件，美股盘初涨跌互现，半导体股普涨，油价跌超2%",
@@ -598,15 +734,27 @@
           "time_info": "[02时42分 ~ 05时29分]"
         },
         {
+          "title": "美股收盘：三大股指涨跌不一 SpaceX暴跌16% 美光续创历史新高",
+          "url": "https://www.cls.cn/detail/2406186",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时14分"
+        },
+        {
           "title": "美股期指小幅上涨 美光科技盘前涨超4% | 今夜看点",
           "url": "https://www.cls.cn/detail/2405983",
           "source": "财联社热门",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时42分 ~ 05时29分]"
+          "appearance_count": 3,
+          "time_info": "[02时42分 ~ 07时14分]"
         },
         {
           "title": "Credo Technology Group Holding Ltd.维持超过11%的涨幅，暂报303.90美元，美股盘初曾涨至308.67美元创盘中历史新高，Evercore ISI给予该公司超配的初始评级、目标价325美元，分析师Mark Lipacis认为，Credo将越来越被看做一家广泛的铜缆与光纤连接玩家/铜缆+光纤综合方案供应商。",
@@ -626,7 +774,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时29分"
         },
@@ -637,7 +785,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时29分"
         },
@@ -648,7 +796,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时29分"
         }
@@ -676,7 +824,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时29分"
         }
@@ -693,7 +841,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时29分"
         },
@@ -704,7 +852,35 @@
           "ranks": [
             15
           ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时29分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "科技巨头下挫拖累美股大盘，芯片股指、小盘股指逆市新高，原油高开走跌，美债收益率“补涨”",
+          "url": "https://wallstreetcn.com/articles/3775156",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
           "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时14分"
+        },
+        {
+          "title": "长周末归来，美债收益率普遍涨超5个基点",
+          "url": "https://wallstreetcn.com/livenews/3123002",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时29分"
         }
@@ -721,7 +897,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时29分"
         },
@@ -747,28 +923,12 @@
           "url": "https://wallstreetcn.com/articles/3775170",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时42分 ~ 05时29分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "长周末归来，美债收益率普遍涨超5个基点",
-          "url": "https://wallstreetcn.com/livenews/3123002",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时29分"
+          "appearance_count": 3,
+          "time_info": "[02时42分 ~ 07时14分]"
         }
       ]
     }
