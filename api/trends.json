@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-01T12:14:37.515358+08:00",
-  "total_titles_processed": 916,
+  "generated_at": "2026-07-01T16:46:16.460881+08:00",
+  "total_titles_processed": 1116,
   "failed_sources": [],
   "trends": [
     {
@@ -147,7 +147,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时14分"
         },
@@ -180,7 +180,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时14分"
         },
@@ -320,7 +320,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 19,
+      "match_count": 22,
       "titles": [
         {
           "title": "【早报】多只A股公司业绩大增；美股存储概念半年涨超3倍；黄金、原油收跌；法国、挪威晋级世界杯16强",
@@ -331,8 +331,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时02分 ~ 12时14分]"
+          "appearance_count": 3,
+          "time_info": "[08时02分 ~ 16时46分]"
         },
         {
           "title": "美股收盘：三大指数齐升道指刷新高 费城半导体指数半年翻倍",
@@ -369,6 +369,17 @@
           "time_info": "08时02分"
         },
         {
+          "title": "美股盘前，银矿股中下跌，Hecla Mining跌1.5%，Coeur Mining跌1.2%，Silvercorp Metals跌4.2%。",
+          "url": "https://flash.jin10.com/detail/20260701161635225800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时46分"
+        },
+        {
           "title": "城堡证券称散户以创纪录速度抄底美股，6月有望成为交易最活跃月份",
           "url": "https://wallstreetcn.com/livenews/3126910",
           "source": "华尔街见闻-快讯",
@@ -390,6 +401,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时19分 ~ 04时53分]"
+        },
+        {
+          "title": "“炒币”高手特朗普！官方披露2025年加密货币业务斩获超10亿美元，重仓美股科技巨头",
+          "url": "https://wallstreetcn.com/articles/3775893",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时14分 ~ 16时46分]"
         },
         {
           "title": "美股大类资产类ETF多数收跌，上半年布油基金涨超43%，新兴市场ETF、纳指ETF等涨超20%",
@@ -451,17 +474,6 @@
           "time_info": "06时11分"
         },
         {
-          "title": "“炒币”高手特朗普！官方披露2025年加密货币业务斩获超10亿美元，重仓美股科技巨头",
-          "url": "https://wallstreetcn.com/articles/3775893",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时14分"
-        },
-        {
           "title": "大摩警告：美股半导体或迎顶点",
           "url": "https://www.douyin.com/hot/2553354",
           "source": "抖音",
@@ -473,6 +485,17 @@
           "time_info": "00时19分"
         },
         {
+          "title": "人工智能领域“权力更迭”：美股三大芯片股市值Q2增加约2万亿美元",
+          "url": "https://www.cls.cn/detail/2413957",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时46分"
+        },
+        {
           "title": "美股“七巨头”指数6月下跌8.9%，创2025年3月以来最差单月表现。",
           "url": "https://flash.jin10.com/detail/20260701041044172800",
           "source": "金十数据",
@@ -482,6 +505,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时53分"
+        },
+        {
+          "title": "美股盘前， 存储芯片股持续走低，美光科技跌近3%，闪迪跌近4%。",
+          "url": "https://wallstreetcn.com/livenews/3127264",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时46分"
         },
         {
           "title": "金十图示：2026年06月30日（周二）热门中概股行情一览（美股收盘）",
@@ -542,7 +576,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 11,
+      "match_count": 14,
       "titles": [
         {
           "title": "伊朗：未来几天暂无与美方会晤计划",
@@ -622,6 +656,17 @@
           "time_info": "00时19分"
         },
         {
+          "title": "伊朗称一艘外国船只在霍尔木兹海峡航行时搁浅，这艘集装箱船使用的是未经批准航线。（伊朗官方电视台）",
+          "url": "https://wallstreetcn.com/livenews/3127273",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时46分"
+        },
+        {
           "title": "以色列总理内塔尼亚胡：以色列和黎巴嫩一致认为，真主党和伊朗必须离开。",
           "url": "https://wallstreetcn.com/livenews/3126900",
           "source": "华尔街见闻-快讯",
@@ -655,6 +700,17 @@
           "time_info": "02时32分"
         },
         {
+          "title": "伊朗队回国前留下一封信",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E9%98%9F%E5%9B%9E%E5%9B%BD%E5%89%8D%E7%95%99%E4%B8%8B%E4%B8%80%E5%B0%81%E4%BF%A1",
+          "source": "百度热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时46分"
+        },
+        {
           "title": "伊朗石油出口在美国封锁解除后超过4000万桶",
           "url": "https://wallstreetcn.com/livenews/3126957",
           "source": "华尔街见闻-快讯",
@@ -664,6 +720,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时53分"
+        },
+        {
+          "title": "据伊朗国家媒体：一艘外国集装箱船在霍尔木兹海峡搁浅，原因是未按伊朗指定航线行驶。",
+          "url": "https://flash.jin10.com/detail/20260701155829333800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时46分"
         }
       ]
     },
@@ -728,7 +795,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时14分"
         },
@@ -757,8 +824,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时02分 ~ 12时14分]"
+          "appearance_count": 3,
+          "time_info": "[08时02分 ~ 16时46分]"
         },
         {
           "title": "6月份两年期美债实际收益率涨超77个基点，二季度两年期收益率涨超35个基点",
