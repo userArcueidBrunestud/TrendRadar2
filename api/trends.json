@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-07-08T13:15:13.197001+08:00",
-  "total_titles_processed": 1005,
+  "generated_at": "2026-07-08T16:12:11.191956+08:00",
+  "total_titles_processed": 1178,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 70,
+      "match_count": 79,
       "titles": [
+        {
+          "title": "霍尔木兹冲击波！美国撤销伊朗石油销售豁免，美军称开始对伊发动强力打击",
+          "url": "https://wallstreetcn.com/articles/3776409",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时55分 ~ 16时12分]"
+        },
         {
           "title": "美军：开始对伊朗发动系列打击",
           "url": "https://www.cls.cn/detail/2419769",
@@ -33,15 +44,27 @@
           "time_info": "[06时06分 ~ 09时55分]"
         },
         {
-          "title": "霍尔木兹冲击波！美国撤销伊朗石油销售豁免，美军称开始对伊发动强力打击",
-          "url": "https://wallstreetcn.com/articles/3776409",
-          "source": "华尔街见闻",
+          "title": "伊朗总统缺席哈梅内伊送葬仪式，从伊拉克紧急回国",
+          "url": "https://news.ifeng.com/c/8uaIcKZ6By5",
+          "source": "凤凰网",
           "ranks": [
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时55分 ~ 13时15分]"
+          "appearance_count": 4,
+          "time_info": "[13时14分 ~ 16时12分]"
+        },
+        {
+          "title": "美伊和平又生变数？美军发动攻击伊朗强硬回应，症结仍在霍尔木兹！",
+          "url": "https://www.cls.cn/detail/2419839",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时14分 ~ 16时12分]"
         },
         {
           "title": "美国恢复对伊朗石油制裁",
@@ -67,26 +90,15 @@
           "time_info": "[13时14分 ~ 13时15分]"
         },
         {
-          "title": "伊朗总统缺席哈梅内伊送葬仪式，从伊拉克紧急回国",
-          "url": "https://news.ifeng.com/c/8uaIcKZ6By5",
+          "title": "伊朗革命卫队反击：打击了85个美国军事目标",
+          "url": "https://news.ifeng.com/c/8uadsQoFuXq",
           "source": "凤凰网",
           "ranks": [
-            2
+            1
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时14分 ~ 13时15分]"
-        },
-        {
-          "title": "美伊和平又生变数？美军发动攻击伊朗强硬回应，症结仍在霍尔木兹！",
-          "url": "https://www.cls.cn/detail/2419839",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时14分 ~ 13时15分]"
+          "time_info": "[16时11分 ~ 16时12分]"
         },
         {
           "title": "伊朗严正警告美国",
@@ -112,6 +124,17 @@
           "time_info": "[13时14分 ~ 13时15分]"
         },
         {
+          "title": "伊朗议长：霸凌与敲诈的时代已经结束",
+          "url": "https://news.ifeng.com/c/8uanFtiMlYj",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时11分 ~ 16时12分]"
+        },
+        {
           "title": "据Axios：一名美国官员表示，此次打击目标包括伊朗防空系统、海岸监视系统、地对空导弹设施、反舰巡航导弹阵地、无人机发射设施以及港口设施。",
           "url": "https://flash.jin10.com/detail/20260708054432073800",
           "source": "金十数据",
@@ -121,6 +144,30 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时07分"
+        },
+        {
+          "title": "据伊朗国家媒体报道，伊朗最高联合军事指挥部表示，德黑兰将把任何支持美国对伊朗发动袭击的地点视为合法（打击）目标。",
+          "url": "https://flash.jin10.com/detail/20260708154916844800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时12分"
+        },
+        {
+          "title": "美军时隔10天再袭伊朗",
+          "url": "https://www.douyin.com/hot/2562712",
+          "source": "抖音",
+          "ranks": [
+            12,
+            11,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时51分 ~ 16时12分]"
         },
         {
           "title": "以色列总理内塔尼亚胡：若协议实现既定目标，伊朗将获得制裁解除并借此恢复元气，但我认为目前还不会发生。",
@@ -211,6 +258,30 @@
           "time_info": "06时07分"
         },
         {
+          "title": "美军称开始对伊朗发动系列打击",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33539157",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            14,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时55分 ~ 16时12分]"
+        },
+        {
+          "title": "美军再袭伊朗致多人受伤，伊朗总统启程回国，强度是 10 天前四五倍，如何看待此轮打击？",
+          "url": "https://www.zhihu.com/question/2058125610363401206",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时14分 ~ 16时12分]"
+        },
+        {
           "title": "美国撤销伊朗石油制裁豁免，油价飙升",
           "url": "https://www.cls.cn/detail/2419758",
           "source": "财联社热门",
@@ -224,28 +295,16 @@
           "time_info": "[07时51分 ~ 13时15分]"
         },
         {
-          "title": "美军时隔10天再袭伊朗",
-          "url": "https://www.douyin.com/hot/2562712",
-          "source": "抖音",
+          "title": "伊朗称击落一架美军“死神”无人机",
+          "url": "https://www.toutiao.com/trending/7659992996650614826/",
+          "source": "今日头条",
           "ranks": [
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时51分 ~ 13时15分]"
-        },
-        {
-          "title": "美军称开始对伊朗发动系列打击",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33539157",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
+            13,
             14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时55分 ~ 13时15分]"
+          "appearance_count": 4,
+          "time_info": "[13时14分 ~ 16时12分]"
         },
         {
           "title": "美军称开始对伊朗发动一系列有力打击",
@@ -258,17 +317,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时51分 ~ 09时55分]"
-        },
-        {
-          "title": "美军再袭伊朗致多人受伤，伊朗总统启程回国，强度是 10 天前四五倍，如何看待此轮打击？",
-          "url": "https://www.zhihu.com/question/2058125610363401206",
-          "source": "知乎",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时14分 ~ 13时15分]"
         },
         {
           "title": "伊朗多地传出爆炸声",
@@ -293,17 +341,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时47分 ~ 06时07分]"
-        },
-        {
-          "title": "伊朗称击落一架美军“死神”无人机",
-          "url": "https://www.toutiao.com/trending/7659992996650614826/",
-          "source": "今日头条",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时14分 ~ 13时15分]"
         },
         {
           "title": "美军对伊朗发动强力打击",
@@ -357,9 +394,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时15分"
+        },
+        {
+          "title": "知情人士：美袭击伊朗女校因指挥官忽视情报过时警告",
+          "url": "https://wallstreetcn.com/livenews/3130484",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时12分"
         },
         {
           "title": "沙特外交部：伊朗袭击了一艘在霍尔木兹海峡过境的沙特油轮。",
@@ -423,7 +471,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时15分"
         },
@@ -549,6 +597,17 @@
           "time_info": "06时07分"
         },
         {
+          "title": "伊朗革命卫队一成员在应对无人机袭击中身亡",
+          "url": "https://wallstreetcn.com/livenews/3130470",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时12分"
+        },
+        {
           "title": "美国中央司令部：对伊朗的打击将对其针对和攻击商业航运的行为施加成本。",
           "url": "https://flash.jin10.com/detail/20260708051717595800",
           "source": "金十数据",
@@ -593,6 +652,17 @@
           "time_info": "06时07分"
         },
         {
+          "title": "伊朗媒体说一名士兵死于敌军无人机袭击",
+          "url": "https://wallstreetcn.com/livenews/3130467",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时12分"
+        },
+        {
           "title": "据伊朗媒体：伊朗南部格什姆岛和阿巴斯港传出爆炸声。",
           "url": "https://flash.jin10.com/detail/20260708051414461800",
           "source": "金十数据",
@@ -621,7 +691,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时15分"
         },
@@ -632,7 +702,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时15分"
         },
@@ -709,7 +779,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时15分"
         },
@@ -769,6 +839,17 @@
           "time_info": "04时47分"
         },
         {
+          "title": "欧洲航空安全局（EASA）：伊朗领空冲突区通告有效期至8月31日。",
+          "url": "https://flash.jin10.com/detail/20260708151927474800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时12分"
+        },
+        {
           "title": "美国原油涨约3%，美军空袭伊朗",
           "url": "https://wallstreetcn.com/livenews/3130198",
           "source": "华尔街见闻-快讯",
@@ -780,6 +861,17 @@
           "time_info": "07时51分"
         },
         {
+          "title": "据伊朗媒体Fars News：当地官员表示，周三上午，伊朗南部布什尔省的两处军事基地遭到袭击，目前尚无人员伤亡报告。",
+          "url": "https://flash.jin10.com/detail/20260708151901762800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时12分"
+        },
+        {
           "title": "载有伊朗已故最高领袖哈梅内伊遗体的飞机抵达伊拉克",
           "url": "https://wallstreetcn.com/livenews/3130195",
           "source": "华尔街见闻-快讯",
@@ -789,12 +881,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时51分"
+        },
+        {
+          "title": "伊朗外交部：谴责美方袭击和多次违约行为",
+          "url": "https://wallstreetcn.com/livenews/3130454",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时12分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 22,
+      "match_count": 23,
       "titles": [
         {
           "title": "世界杯最大爽剧！特朗普来护航也没用，比利时打烂潜规则",
@@ -858,6 +961,19 @@
           "time_info": "[00时21分 ~ 07时51分]"
         },
         {
+          "title": "特朗普再次扬言控制格陵兰岛 美伊冲突狼烟又起 | 环球市场",
+          "url": "https://www.cls.cn/detail/2419821",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时55分 ~ 16时12分]"
+        },
+        {
           "title": "特朗普政府将今明两年布油价格预期下调超10美元，上调今年美国石油产量预期",
           "url": "https://wallstreetcn.com/livenews/3130093",
           "source": "华尔街见闻-快讯",
@@ -914,18 +1030,6 @@
           "time_info": "[04时47分 ~ 06时07分]"
         },
         {
-          "title": "特朗普再次扬言控制格陵兰岛 美伊冲突狼烟又起 | 环球市场",
-          "url": "https://www.cls.cn/detail/2419821",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时55分 ~ 13时15分]"
-        },
-        {
           "title": "特朗普承认与梅洛尼关系“变糟”：她人不错，但犯了个错误",
           "url": "https://news.ifeng.com/c/8uaXOKn0Dxl",
           "source": "凤凰网",
@@ -957,6 +1061,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时21分 ~ 00时22分]"
+        },
+        {
+          "title": "比利时首相：我不会刺激特朗普",
+          "url": "https://www.baidu.com/s?wd=%E6%AF%94%E5%88%A9%E6%97%B6%E9%A6%96%E7%9B%B8%EF%BC%9A%E6%88%91%E4%B8%8D%E4%BC%9A%E5%88%BA%E6%BF%80%E7%89%B9%E6%9C%97%E6%99%AE",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时11分 ~ 16时12分]"
         },
         {
           "title": "特朗普：对北约在美对伊军事行动中表现感到“失望”",
@@ -1020,7 +1135,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时15分"
         },
@@ -1076,8 +1191,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时51分 ~ 13时15分]"
+          "appearance_count": 6,
+          "time_info": "[07时51分 ~ 16时12分]"
         },
         {
           "title": "美伊局势叠加三星财报扰动，美股全线下挫，半导体指数大跌5%，原油大涨，金银承压",
@@ -1363,7 +1478,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时15分"
         },
@@ -1374,7 +1489,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时15分"
         },
