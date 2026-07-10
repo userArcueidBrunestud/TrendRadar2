@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-10T14:36:32.283530+08:00",
-  "total_titles_processed": 949,
+  "generated_at": "2026-07-10T18:17:21.160705+08:00",
+  "total_titles_processed": 1149,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 29,
+      "match_count": 31,
       "titles": [
         {
           "title": "美军称再次对伊朗发起打击",
@@ -41,8 +41,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时07分 ~ 14时36分]"
+          "appearance_count": 3,
+          "time_info": "[10时07分 ~ 18时17分]"
         },
         {
           "title": "霍尔木兹危机冲击供应：伊朗被曝24小时紧急运出超千万桶原油、卡塔尔暂停LNG产能恢复",
@@ -52,8 +52,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时07分 ~ 14时36分]"
+          "appearance_count": 3,
+          "time_info": "[10时07分 ~ 18时17分]"
         },
         {
           "title": "伊朗称发射导弹摧毁美军一指挥中心",
@@ -114,6 +114,17 @@
           "time_info": "[05时16分 ~ 07时04分]"
         },
         {
+          "title": "伊朗陆军司令哈塔米：伊朗将再次加倍努力，实现殉难领袖的理想。",
+          "url": "https://flash.jin10.com/detail/20260710175028096800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时17分"
+        },
+        {
           "title": "伊朗圣城马什哈德发生枪击事件致2人死亡",
           "url": "https://wallstreetcn.com/livenews/3131573",
           "source": "华尔街见闻-快讯",
@@ -123,6 +134,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时04分"
+        },
+        {
+          "title": "伊朗陆军司令哈塔米：前最高领袖的道路将以更强大的姿态延续下去。",
+          "url": "https://flash.jin10.com/detail/20260710174956212800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时17分"
         },
         {
           "title": "据半岛电视台：伊朗布什尔省省长表示，正在调查布什尔和贾加德克爆炸原因，确认是否由防空系统或敌方投射物引发。",
@@ -337,7 +359,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
         {
           "title": "美军又袭伊朗！特朗普威胁“今夜”再打、恢复海上封锁，后一度“降温”：美伊局势升级会很快平息",
@@ -396,6 +418,18 @@
           "time_info": "[01时13分 ~ 07时04分]"
         },
         {
+          "title": "特朗普称“日本导弹”打美国航母，白宫回应",
+          "url": "https://news.ifeng.com/c/8udg4food2U",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时07分 ~ 18时17分]"
+        },
+        {
           "title": "乌克兰总统泽连斯基：与美国总统特朗普详细讨论了爱国者导弹生产的许可证问题。",
           "url": "https://flash.jin10.com/detail/20260710010810950800",
           "source": "金十数据",
@@ -405,18 +439,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时14分"
-        },
-        {
-          "title": "特朗普称“日本导弹”打美国航母，白宫回应",
-          "url": "https://news.ifeng.com/c/8udg4food2U",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时07分 ~ 14时36分]"
         },
         {
           "title": "美国商务部长卢特尼克：总统特朗普知道油价会保持在低位。（福克斯商业新闻）",
@@ -436,11 +458,24 @@
           "source": "凤凰网",
           "ranks": [
             6,
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时07分 ~ 18时17分]"
+        },
+        {
+          "title": "特朗普“把自己困住了”，陷入两难",
+          "url": "https://news.ifeng.com/c/8uddEUs34xh",
+          "source": "凤凰网",
+          "ranks": [
+            9,
             7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时07分 ~ 14时36分]"
+          "time_info": "[14时36分 ~ 18时17分]"
         },
         {
           "title": "以色列向美国递交新情报：伊朗再被曝策划刺杀特朗普",
@@ -474,17 +509,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时16分"
-        },
-        {
-          "title": "特朗普“把自己困住了”，陷入两难",
-          "url": "https://news.ifeng.com/c/8uddEUs34xh",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时36分"
         },
         {
           "title": "以色列总理办公室：美国总统特朗普通报美方在海湾地区的行动。",
@@ -542,6 +566,17 @@
           "time_info": "10时07分"
         },
         {
+          "title": "克里姆林宫：俄罗斯总统普京与美国总统特朗普的电话交谈尚未进行。",
+          "url": "https://flash.jin10.com/detail/20260710174534667800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时17分"
+        },
+        {
           "title": "内塔尼亚胡与特朗普通话，商定保持两国政策协调",
           "url": "https://wallstreetcn.com/livenews/3131529",
           "source": "华尔街见闻-快讯",
@@ -594,6 +629,17 @@
           "time_info": "[01时13分 ~ 05时16分]"
         },
         {
+          "title": "市场暂时搁置地缘风险，油价下跌，芯片股再撑美股，黄金加密货币反弹",
+          "url": "https://wallstreetcn.com/articles/3776523",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时07分 ~ 18时17分]"
+        },
+        {
           "title": "美股期指上涨 纳指期货涨近1% 芯片股盘前集体走强 | 今夜看点",
           "url": "https://www.cls.cn/detail/2422043",
           "source": "财联社热门",
@@ -604,17 +650,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时13分 ~ 10时07分]"
-        },
-        {
-          "title": "市场暂时搁置地缘风险，油价下跌，芯片股再撑美股，黄金加密货币反弹",
-          "url": "https://wallstreetcn.com/articles/3776523",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时07分 ~ 14时36分]"
         },
         {
           "title": "【早报】美股贵金属、存储股集体爆发；油价下挫，黄金走强；兆易创新、工业富联等业绩预计倍增；法国成首支四强球队",
@@ -783,11 +818,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            7
+            7,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时07分 ~ 14时36分]"
+          "appearance_count": 3,
+          "time_info": "[10时07分 ~ 18时17分]"
         },
         {
           "title": "OpenAI：Chatgpt Work将开始向网页版和移动端的Pro、Enterprise及Edu用户推出，Plus和Business用户将在未来几天陆续获得访问权限。",
