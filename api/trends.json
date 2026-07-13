@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-13T07:45:03.706797+08:00",
-  "total_titles_processed": 510,
+  "generated_at": "2026-07-13T09:59:14.658030+08:00",
+  "total_titles_processed": 671,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 48,
+      "match_count": 52,
       "titles": [
         {
           "title": "伊朗关闭霍尔木兹海峡、打击美在中东目标，美军对伊发动新一轮袭击、多地传出爆炸声",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时50分 ~ 07时45分]"
+          "appearance_count": 10,
+          "time_info": "[00时50分 ~ 09时59分]"
         },
         {
           "title": "伊朗发布最高领袖穆杰塔巴的全新照片",
@@ -41,17 +41,6 @@
           "time_info": "[00时50分 ~ 07时45分]"
         },
         {
-          "title": "伊朗伊斯兰革命卫队宣布关闭霍尔木兹海峡",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33568960",
-          "source": "澎湃新闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时50分 ~ 06时40分]"
-        },
-        {
           "title": "伊朗打击美国在中东地区目标",
           "url": "https://m.thepaper.cn/newsDetail_forward_33569534",
           "source": "澎湃新闻",
@@ -61,16 +50,15 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时50分 ~ 07时45分]"
+          "appearance_count": 10,
+          "time_info": "[00时50分 ~ 09时59分]"
         },
         {
-          "title": "伊朗：霍尔木兹海峡目前无法通行",
-          "url": "https://wallstreetcn.com/livenews/3132431",
-          "source": "华尔街见闻-快讯",
+          "title": "伊朗伊斯兰革命卫队宣布关闭霍尔木兹海峡",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33568960",
+          "source": "澎湃新闻",
           "ranks": [
-            3,
-            25
+            4
           ],
           "is_new": false,
           "appearance_count": 6,
@@ -84,11 +72,24 @@
             7,
             19,
             14,
-            12
+            12,
+            20
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时50分 ~ 07时45分]"
+          "appearance_count": 10,
+          "time_info": "[00时50分 ~ 09时59分]"
+        },
+        {
+          "title": "伊朗：霍尔木兹海峡目前无法通行",
+          "url": "https://wallstreetcn.com/livenews/3132431",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时50分 ~ 06时40分]"
         },
         {
           "title": "伊朗导弹打击中东美军目标 画面公布",
@@ -106,13 +107,35 @@
           "time_info": "[00时50分 ~ 07时45分]"
         },
         {
+          "title": "【早报】美国对伊朗发动打击；油价大涨，黄金跌破4100美元；半导体设备龙头，今日复牌",
+          "url": "https://www.cls.cn/detail/2423960",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时58分 ~ 09时59分]"
+        },
+        {
+          "title": "伊朗外交部发表声明，强烈谴责美军新一轮袭击",
+          "url": "https://news.ifeng.com/c/8uiM52n08OU",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时58分 ~ 09时59分]"
+        },
+        {
           "title": "美国否认伊朗袭击致3名美军士兵死亡",
           "url": "https://wallstreetcn.com/livenews/3132467",
           "source": "华尔街见闻-快讯",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时45分"
         },
@@ -123,7 +146,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时45分"
         },
@@ -429,6 +452,17 @@
           "time_info": "[05时41分 ~ 06时40分]"
         },
         {
+          "title": "中东局势追踪：伊朗、阿曼展开通航磋商 霍尔木兹海峡再度关闭",
+          "url": "https://www.cls.cn/detail/2423670",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时58分 ~ 09时59分]"
+        },
+        {
           "title": "美国中央司令部：伊朗声称三名美军丧生的说法不实",
           "url": "https://flash.jin10.com/detail/20260713043105812800",
           "source": "金十数据",
@@ -531,7 +565,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时45分"
         },
@@ -542,9 +576,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时45分"
+        },
+        {
+          "title": "美军袭击伊朗一水泵站 致1死4伤",
+          "url": "https://wallstreetcn.com/livenews/3132512",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时59分"
         },
         {
           "title": "据CNN：美国中央司令部发言人霍金斯上尉表示，在过去一小时内，伊朗革命卫队向通过霍尔木兹海峡的商船开火。截至目前，美军飞机已成功击落一枚伊朗巡航导弹和一架单向攻击无人机。",
@@ -575,7 +620,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时45分"
         },
@@ -594,7 +639,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "特朗普立下数千枚导弹“报复遗嘱”，万斯可以不听吗？",
@@ -629,6 +674,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时50分 ~ 07时45分]"
+        },
+        {
+          "title": "特朗普：伊朗违背承诺，刚谈完不到一小时就袭击商船",
+          "url": "https://news.ifeng.com/c/8uidsBIJWO9",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时58分 ~ 09时59分]"
         },
         {
           "title": "特朗普在对伊战争上“没有什么可以向美国选民兜售的”",
@@ -670,6 +726,46 @@
       ]
     },
     {
+      "keyword_group": "chatgpt openai",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "苹果起诉OpenAI引骂战，马斯克炮轰Altman欺诈，Altman反讽其吹嘘“太空数据中心”",
+          "url": "https://wallstreetcn.com/articles/3776720",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时50分 ~ 09时59分]"
+        },
+        {
+          "title": "苹果指控OpenAI偷窃商业机密",
+          "url": "https://search.bilibili.com/all?keyword=%E8%8B%B9%E6%9E%9C%E6%8C%87%E6%8E%A7OpenAI%E5%81%B7%E7%AA%83%E5%95%86%E4%B8%9A%E6%9C%BA%E5%AF%86",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时58分 ~ 09时59分]"
+        },
+        {
+          "title": "印度本土为何跑不出一家OpenAI",
+          "url": "https://www.toutiao.com/trending/7661777860511665706/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时58分 ~ 09时59分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "美股",
       "match_count": 2,
       "titles": [
@@ -695,23 +791,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时40分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "苹果起诉OpenAI引骂战，马斯克炮轰Altman欺诈，Altman反讽其吹嘘“太空数据中心”",
-          "url": "https://wallstreetcn.com/articles/3776720",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时50分 ~ 07时45分]"
         }
       ]
     }
