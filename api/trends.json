@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-21T05:04:01.225186+08:00",
-  "total_titles_processed": 454,
+  "generated_at": "2026-07-21T06:51:18.868264+08:00",
+  "total_titles_processed": 529,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 26,
+      "match_count": 32,
       "titles": [
         {
           "title": "伊朗启动位于Bushehr核电站周边的防空系统。（MEHR）",
@@ -14,9 +14,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时04分"
+        },
+        {
+          "title": "据伊通社（IRNA）：伊朗阿巴斯港市再次传出爆炸声。",
+          "url": "https://flash.jin10.com/detail/20260721062632478800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时51分"
         },
         {
           "title": "美官员：本月伊朗袭击已致近100名美军人员受伤",
@@ -25,7 +36,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时04分"
         },
@@ -48,8 +59,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时26分 ~ 05时04分]"
+          "appearance_count": 5,
+          "time_info": "[01时26分 ~ 06时51分]"
         },
         {
           "title": "伊朗一名省级安全官员称，伊朗武装部队于周一凌晨在法尔斯省代什库德市附近侦测并摧毁了一枚美方射弹。 该官员并未透露这枚射弹的型号，也未说明残骸是否造成损毁或人员伤亡。",
@@ -94,7 +105,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时04分"
         },
@@ -105,7 +116,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时04分"
         },
@@ -116,9 +127,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时04分"
+        },
+        {
+          "title": "伊朗军方发射多枚导弹，打击科威特境内目标Camp Arifjan（阿里夫坚军营）。（伊朗官方媒体IRIB）",
+          "url": "https://wallstreetcn.com/livenews/3137118",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时51分"
         },
         {
           "title": "据伊朗迈赫尔通讯社：伊朗布什尔核电站附近传来防空系统启动的声音。",
@@ -127,7 +149,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时04分"
         },
@@ -149,7 +171,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时04分"
         },
@@ -160,7 +182,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时04分"
         },
@@ -204,7 +226,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时04分"
         },
@@ -231,6 +253,17 @@
           "time_info": "03时28分"
         },
         {
+          "title": "据伊通社（IRNA）：伊朗伊斯法罕省副省长表示，今晚该省未发生爆炸。",
+          "url": "https://flash.jin10.com/detail/20260721054624994800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时51分"
+        },
+        {
           "title": "伊朗官员：伊朗中部霍梅尼市郊一处工业设施遭袭，未造成人员伤亡，潜在损失规模仍在评估中。",
           "url": "https://flash.jin10.com/detail/20260721002652582800",
           "source": "金十数据",
@@ -240,6 +273,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时26分"
+        },
+        {
+          "title": "据伊朗迈赫尔通讯社：位于科威特、驻有美军的阿里·萨利姆（Ali Salem）空军基地遭到了袭击。",
+          "url": "https://flash.jin10.com/detail/20260721053811429800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时51分"
         },
         {
           "title": "伊媒：伊朗南部两省传出爆炸声",
@@ -253,6 +297,17 @@
           "time_info": "01时26分"
         },
         {
+          "title": "科威特军方表示，防空系统目前正在拦截伊朗的导弹和无人机。",
+          "url": "https://flash.jin10.com/detail/20260721052530774800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时51分"
+        },
+        {
           "title": "美国中央司令部：截至7月20日，美军已迫使7艘商船改道，并使1艘商船失去行动能力，以阻止船只进出伊朗港口。",
           "url": "https://flash.jin10.com/detail/20260721001012625800",
           "source": "金十数据",
@@ -262,6 +317,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时26分"
+        },
+        {
+          "title": "伊朗迈赫尔通讯社：伊朗中部伊斯法罕传出爆炸声。",
+          "url": "https://flash.jin10.com/detail/20260721051715347800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时51分"
         },
         {
           "title": "伊朗外长阿拉格齐会见伊朗驻意大利、法国和英国大使，就双边关系及相关议题进行讨论。",
@@ -292,7 +358,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时04分"
         }
@@ -300,7 +366,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 16,
+      "match_count": 21,
       "titles": [
         {
           "title": "特朗普：伊朗每杀死一名美军，必将付出数倍代价",
@@ -310,8 +376,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时28分 ~ 05时04分]"
+          "appearance_count": 4,
+          "time_info": "[03时28分 ~ 06时51分]"
         },
         {
           "title": "美国总统特朗普：以色列总理内塔尼亚胡在美国期间不会以任何形式遭到逮捕。",
@@ -331,7 +397,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时04分"
         },
@@ -347,6 +413,41 @@
           "time_info": "01时26分"
         },
         {
+          "title": "如何看特朗普不愿离开颁奖台",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E7%9C%8B%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8D%E6%84%BF%E7%A6%BB%E5%BC%80%E9%A2%81%E5%A5%96%E5%8F%B0",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时26分 ~ 06时51分]"
+        },
+        {
+          "title": "西班牙夺冠庆祝合影，特朗普迟迟不肯离场",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33618793",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时26分 ~ 06时51分]"
+        },
+        {
+          "title": "特朗普喊话国际足联主席，「美国必须再次举办世界杯，且要在我任期间实现」，这可能性有多大？背后有何考量？",
+          "url": "https://www.zhihu.com/question/2062557149230903440",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时26分 ~ 06时51分]"
+        },
+        {
           "title": "特朗普暗示美军将对伊朗发动强硬报复",
           "url": "https://wallstreetcn.com/livenews/3137059",
           "source": "华尔街见闻-快讯",
@@ -357,40 +458,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时28分 ~ 05时04分]"
-        },
-        {
-          "title": "如何看特朗普不愿离开颁奖台",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E7%9C%8B%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8D%E6%84%BF%E7%A6%BB%E5%BC%80%E9%A2%81%E5%A5%96%E5%8F%B0",
-          "source": "bilibili 热搜",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时26分 ~ 05时04分]"
-        },
-        {
-          "title": "西班牙夺冠庆祝合影，特朗普迟迟不肯离场",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33618793",
-          "source": "澎湃新闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时26分 ~ 05时04分]"
-        },
-        {
-          "title": "特朗普喊话国际足联主席，「美国必须再次举办世界杯，且要在我任期间实现」，这可能性有多大？背后有何考量？",
-          "url": "https://www.zhihu.com/question/2062557149230903440",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时26分 ~ 05时04分]"
         },
         {
           "title": "美国总统特朗普声称：以色列总理内塔尼亚胡无论如何都不会在美国被逮捕。",
@@ -416,6 +483,39 @@
           "time_info": "01时26分"
         },
         {
+          "title": "美国总统特朗普：与其讨论了北海石油、贸易、军事同盟以及霍尔木兹海峡扫雷事宜。",
+          "url": "https://flash.jin10.com/detail/20260721062036986800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时51分"
+        },
+        {
+          "title": "美国总统特朗普：将在不久的将来就共同关心的话题与英国新任首相举行会晤。",
+          "url": "https://flash.jin10.com/detail/20260721062031972800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时51分"
+        },
+        {
+          "title": "美国总统特朗普：与英国新任首相进行了非常好的交谈。",
+          "url": "https://flash.jin10.com/detail/20260721061943905800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时51分"
+        },
+        {
           "title": "英国首相伯纳姆：希望未来能邀请特朗普访问曼彻斯特，亲身感受这座城市的魅力。",
           "url": "https://flash.jin10.com/detail/20260721003411398800",
           "source": "金十数据",
@@ -425,6 +525,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时26分"
+        },
+        {
+          "title": "美国总统特朗普声称：与英国首相伯纳姆关系非常不错。 我们讨论了北海石油和贸易问题。 将在不久的将来与伯纳姆会见。",
+          "url": "https://wallstreetcn.com/livenews/3137114",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时51分"
         },
         {
           "title": "特朗普：伊朗每杀死一名美国士兵都将付出“数倍”代价",
@@ -444,7 +555,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时04分"
         },
@@ -455,9 +566,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时04分"
+        },
+        {
+          "title": "美国总统特朗普：加拿大对从美国进口的汽车征收特定关税并实施配额限制，但未对其他国家采取此类措施。",
+          "url": "https://flash.jin10.com/detail/20260721051526286800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时51分"
         },
         {
           "title": "特朗普下令审查国防供应链 保障关键环节战时保障",
@@ -466,7 +588,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时04分"
         },
@@ -485,7 +607,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "芯片股抛售暂歇，美股高开，存储芯片股普涨，SK海力士涨4%，油价转跌",
@@ -500,6 +622,17 @@
           "time_info": "[01时26分 ~ 05时04分]"
         },
         {
+          "title": "中东局势与财报季双重压力下，美股高开走低，芯片股抛售暂歇，中概收涨，油价过山车",
+          "url": "https://wallstreetcn.com/articles/3777383",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时51分"
+        },
+        {
           "title": "美股芯片板块盘前反弹 中东局势扑朔迷离 | 今夜看点",
           "url": "https://www.cls.cn/detail/2431734",
           "source": "财联社热门",
@@ -507,8 +640,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时26分 ~ 05时04分]"
+          "appearance_count": 5,
+          "time_info": "[01时26分 ~ 06时51分]"
         },
         {
           "title": "美股存储芯片反弹",
@@ -518,8 +651,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时26分 ~ 05时04分]"
+          "appearance_count": 5,
+          "time_info": "[01时26分 ~ 06时51分]"
         },
         {
           "title": "美股大类资产类ETF涨跌各异",
@@ -528,7 +661,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时04分"
         },
@@ -539,9 +672,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时04分"
+        },
+        {
+          "title": "美股收盘：高开低走三大指数齐收跌 光通信、存储概念整体反弹",
+          "url": "https://www.cls.cn/detail/2431934",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时51分"
         },
         {
           "title": "纳斯达克金龙中国指数收涨0.90%，报6337.52点，（高开之后）美股早盘呈现出V形走势，北京时间00:33刷新日高至6397.94点，之后再次回吐涨幅。 热门中概股里，阿里巴巴初步收涨4.7%，腾讯涨3.6%，百度涨2.4%，拼多多涨2.3%，网易涨2.2%，小鹏则跌2.6%，日月光半导体跌3.7%。 ETF中，中概互联网指数ETF（KWEB）收涨2.35%，中国科技指数ETF（CQQQ）收涨0.22%。 德银嘉实沪深300指数ETF（ASHR）收涨1.04%，MSCI新兴市场ex中国ETF（EMXC）收跌0.12%，XtrackersHarvest中证50（ASHS）收跌1.39%。",
@@ -550,7 +694,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时04分"
         },
@@ -561,7 +705,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时04分"
         },
@@ -572,7 +716,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时04分"
         },
@@ -583,7 +727,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时04分"
         }
@@ -591,7 +735,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "为什么豆包没有被 DeepSeek「斩杀」？",
@@ -600,11 +744,12 @@
           "ranks": [
             15,
             13,
-            8
+            8,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时26分 ~ 05时04分]"
+          "appearance_count": 5,
+          "time_info": "[01时26分 ~ 06时51分]"
         },
         {
           "title": "如何看待最近网传的 DeepSeek v4 正式版灰测？",
@@ -616,6 +761,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时26分"
+        },
+        {
+          "title": "如何看待追光总裁称《三国第一部：争洛阳》以曹操为主角，是参考了 DeepSeek 的建议?",
+          "url": "https://www.zhihu.com/question/2061868472049652679",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时51分"
         }
       ]
     },
@@ -642,7 +798,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时04分"
         }
@@ -659,7 +815,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时04分"
         }
