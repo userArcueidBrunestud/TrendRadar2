@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-24T20:14:59.493326+08:00",
-  "total_titles_processed": 1419,
+  "generated_at": "2026-07-24T22:48:56.296329+08:00",
+  "total_titles_processed": 1577,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 46,
+      "match_count": 53,
       "titles": [
         {
           "title": "伊朗称袭击美国亚马逊公司在巴林的数据基础设施，这个地方有多重要？将造成哪些影响？",
@@ -28,8 +28,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时56分 ~ 20时14分]"
+          "appearance_count": 6,
+          "time_info": "[09时56分 ~ 22时48分]"
         },
         {
           "title": "伊朗外长：扣押他国资产“极具煽动性”",
@@ -60,7 +60,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时14分"
         },
@@ -93,7 +93,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时14分"
         },
@@ -107,6 +107,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时03分"
+        },
+        {
+          "title": "美国财政部宣布对伊朗实施新一轮制裁",
+          "url": "https://wallstreetcn.com/livenews/3139521",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时48分"
+        },
+        {
+          "title": "被曝向胡塞武装空运军官和武器，伊朗怎么说？",
+          "url": "https://news.ifeng.com/c/8v0y8EzOzBv",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时48分"
         },
         {
           "title": "伊朗国家广播公司：格什姆岛南岸传出爆炸声。",
@@ -262,9 +284,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时14分"
+        },
+        {
+          "title": "科威特国防部：科威特防空系统目前正在拦截从伊朗发射的敌对目标。",
+          "url": "https://flash.jin10.com/detail/20260724222436037800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时48分"
         },
         {
           "title": "据伊朗媒体Fars News：伊朗南部城市阿瓦兹发生多起爆炸声 。",
@@ -295,7 +328,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时14分"
         },
@@ -309,6 +342,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时15分"
+        },
+        {
+          "title": "伊朗外长阿拉格齐：伊朗已经表明不会屈服于美国的霸凌，我们不会对威胁、压力或恐吓做出回应。",
+          "url": "https://flash.jin10.com/detail/20260724222340369800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时48分"
         },
         {
           "title": "伊朗伊斯兰革命卫队称袭击科威特的AL-ADIRI美军基地。",
@@ -331,6 +375,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时15分"
+        },
+        {
+          "title": "伊朗外长阿拉格齐：已与作为调解方的巴基斯坦讨论了其倡议和提案。问题不在于美国与我们之间缺乏调解人，而在于美国人的问题处理方式。",
+          "url": "https://flash.jin10.com/detail/20260724222325080800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时48分"
+        },
+        {
+          "title": "美官员否认伊朗拒绝停火提议",
+          "url": "https://wallstreetcn.com/livenews/3139511",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时48分"
+        },
+        {
+          "title": "美官员否认伊朗拒绝停火提议",
+          "url": "https://flash.jin10.com/detail/20260724222048676800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时48分"
         },
         {
           "title": "伊朗媒体：美军导弹袭击伊朗南部Qeshm Island的Suaz小镇。",
@@ -523,7 +600,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 27,
+      "match_count": 31,
       "titles": [
         {
           "title": "特朗普：我们与伊朗只是小规模冲突",
@@ -553,6 +630,17 @@
           "time_info": "[03时03分 ~ 20时14分]"
         },
         {
+          "title": "特朗普称“接近”决定发动“大规模攻击”，伊朗被曝为军事升级做准备、尤其地面入侵",
+          "url": "https://wallstreetcn.com/articles/3777811",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时56分 ~ 22时48分]"
+        },
+        {
           "title": "委内瑞拉石油多着呢！特朗普：我们才不需要霍尔木兹海峡",
           "url": "https://m.thepaper.cn/newsDetail_forward_33643805",
           "source": "澎湃新闻",
@@ -568,27 +656,28 @@
           "time_info": "[01时11分 ~ 16时11分]"
         },
         {
-          "title": "特朗普称“接近”决定发动“大规模攻击”，伊朗被曝为军事升级做准备、尤其地面入侵",
-          "url": "https://wallstreetcn.com/articles/3777811",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时56分 ~ 20时14分]"
-        },
-        {
           "title": "油价破百！胡塞武装开辟“红海战场”，特朗普权衡“更大规模战争”，乌克兰也来“火上浇油”",
           "url": "https://wallstreetcn.com/articles/3777830",
           "source": "华尔街见闻",
           "ranks": [
             8,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时11分 ~ 20时14分]"
+          "appearance_count": 4,
+          "time_info": "[16时11分 ~ 22时48分]"
+        },
+        {
+          "title": "以总理办公室：内塔尼亚胡将访美 与特朗普会晤",
+          "url": "https://flash.jin10.com/detail/20260724223621938800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时48分"
         },
         {
           "title": "美参议院否决限制特朗普对伊战争权力的决议案",
@@ -682,6 +771,17 @@
           "time_info": "01时11分"
         },
         {
+          "title": "以色列宣称：总理内塔尼亚胡下周二将会见美国总统特朗普。",
+          "url": "https://wallstreetcn.com/livenews/3139516",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时48分"
+        },
+        {
           "title": "美国参议院阻止了限制特朗普对伊战争权力的决议。",
           "url": "https://flash.jin10.com/detail/20260724003337969800",
           "source": "金十数据",
@@ -743,7 +843,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时14分"
         },
@@ -781,6 +881,17 @@
           "time_info": "04时54分"
         },
         {
+          "title": "以色列总理办公室：以色列总理内塔尼亚胡将于周二在白宫会见美国总统特朗普。",
+          "url": "https://flash.jin10.com/detail/20260724221517947800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时48分"
+        },
+        {
           "title": "白宫新闻秘书Leavitt：沙特有望迅速加入（亚伯拉罕）协议，美国总统特朗普已经与沙特讨论这方面的问题。 将设法最终敲定美国与沙特之间的（核能）协议。 将继续与沙特对话。",
           "url": "https://wallstreetcn.com/livenews/3138978",
           "source": "华尔街见闻-快讯",
@@ -790,6 +901,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时11分"
+        },
+        {
+          "title": "以色列总理办公室：以色列总理内塔尼亚胡将于周一应美国总统特朗普邀请访问华盛顿。",
+          "url": "https://flash.jin10.com/detail/20260724221512312800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时48分"
         },
         {
           "title": "报道：特朗普称接近就“大规模袭击伊朗”做决定",
@@ -839,7 +961,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 23,
+      "match_count": 26,
       "titles": [
         {
           "title": "AI开支担忧与地缘风险夹击美股，标普创月内最大跌幅，特斯拉跌超14%，油价破百，黄金重挫",
@@ -850,8 +972,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[06时55分 ~ 20时14分]"
+          "appearance_count": 9,
+          "time_info": "[06时55分 ~ 22时48分]"
         },
         {
           "title": "油价飙至六周高位，美股指承压收跌，AI基建股盘后大涨，金银再走强",
@@ -865,6 +987,17 @@
           "time_info": "[01时11分 ~ 06时56分]"
         },
         {
+          "title": "“关税战”来最惨的1天！美股“科技龙头”Mag 7单日市值蒸发近8000亿美元",
+          "url": "https://wallstreetcn.com/articles/3777828",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时15分 ~ 22时48分]"
+        },
+        {
           "title": "美股",
           "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1&t=31&band_rank=9&Refer=top",
           "source": "微博",
@@ -875,17 +1008,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[01时11分 ~ 07时55分]"
-        },
-        {
-          "title": "“关税战”来最惨的1天！美股“科技龙头”Mag 7单日市值蒸发近8000亿美元",
-          "url": "https://wallstreetcn.com/articles/3777828",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时15分 ~ 20时14分]"
         },
         {
           "title": "美股收盘：七巨头齐跌特斯拉重挫14% 纳指降2%布油站上100美元",
@@ -989,7 +1111,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时14分"
         },
@@ -1022,7 +1144,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时14分"
         },
@@ -1066,9 +1188,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时14分"
+        },
+        {
+          "title": "美股纳指低开0.1% 英特尔小幅高开",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E7%BA%B3%E6%8C%87%E4%BD%8E%E5%BC%800.1%25+%E8%8B%B1%E7%89%B9%E5%B0%94%E5%B0%8F%E5%B9%85%E9%AB%98%E5%BC%80",
+          "source": "百度热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时48分"
         },
         {
           "title": "周五亚太盘初，纳指期货涨0.3%。 目前（美股盘后），科技股英特尔涨4.5%，甲骨文涨2%，AMD涨1.4%，特斯拉反弹1.1%，美光跌0.4%。",
@@ -1102,6 +1235,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时59分"
+        },
+        {
+          "title": "美股盘初，主要行业ETF涨跌不一，全球航空业ETF涨超1%，网络股指数ETF涨近1%，半导体ETF跌近1%。",
+          "url": "https://wallstreetcn.com/livenews/3139499",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时48分"
+        },
+        {
+          "title": "美股盘初：道指涨0.2%，存储芯片股普跌，英特尔跌约1%，Amkor涨约6%",
+          "url": "https://wallstreetcn.com/livenews/3139496",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时48分"
         }
       ]
     },
@@ -1119,8 +1274,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时11分 ~ 20时14分]"
+          "appearance_count": 4,
+          "time_info": "[16时11分 ~ 22时48分]"
         },
         {
           "title": "新闻蒸馏器｜OpenAI模型失控事件后，美国两党议员推动“AI终止开关法案”",
@@ -1128,11 +1283,12 @@
           "source": "澎湃新闻",
           "ranks": [
             15,
-            13
+            13,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时56分 ~ 20时14分]"
+          "appearance_count": 3,
+          "time_info": "[18时56分 ~ 22时48分]"
         },
         {
           "title": "OpenAI总裁布罗克曼表示，目标始终是为用户需要完成的一切任务提供最便宜模型。",
@@ -1413,7 +1569,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "美元指数涨超0.3%，日元跌0.4%逼近164",
@@ -1437,6 +1593,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时54分"
+        },
+        {
+          "title": "北美科技软件股指数ETF涨约1.8%，报88.69美元，有望脱离6月26日以来最低位87.10美元。",
+          "url": "https://wallstreetcn.com/livenews/3139505",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时48分"
         }
       ]
     },
