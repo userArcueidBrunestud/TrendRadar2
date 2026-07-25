@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-25T22:56:34.728354+08:00",
-  "total_titles_processed": 1360,
+  "generated_at": "2026-07-25T23:59:30.495314+08:00",
+  "total_titles_processed": 1407,
   "failed_sources": [],
   "trends": [
     {
@@ -65,17 +65,6 @@
           "time_info": "04时13分"
         },
         {
-          "title": "一切都怪战争和通胀！美国股市中的“特朗普交易”正沦为输家",
-          "url": "https://wallstreetcn.com/livenews/3139778",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时56分"
-        },
-        {
           "title": "美国总统特朗普：美国国务卿鲁比奥与副总统万斯谈论了伊朗问题。",
           "url": "https://flash.jin10.com/detail/20260725034352232800",
           "source": "金十数据",
@@ -121,6 +110,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时13分"
+        },
+        {
+          "title": "一切都怪战争和通胀！美国股市中的“特朗普交易”正沦为输家",
+          "url": "https://wallstreetcn.com/livenews/3139778",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时56分 ~ 23时59分]"
         },
         {
           "title": "特朗普称美国与伊朗仍在对话",
@@ -174,6 +175,29 @@
           "time_info": "[11时59分 ~ 16时56分]"
         },
         {
+          "title": "两位巴西消息人士：巴西拒绝向两名试图质询巴西选举制度的特朗普政府特使签发签证。",
+          "url": "https://flash.jin10.com/detail/20260725222304302800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时56分 ~ 23时59分]"
+        },
+        {
+          "title": "特朗普称准备第四次竞选总统",
+          "url": "https://news.ifeng.com/c/8v378W8XMdI",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时56分 ~ 23时59分]"
+        },
+        {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-07-25）",
           "url": "https://flash.jin10.com/detail/20260725183311628800",
           "source": "金十数据",
@@ -184,6 +208,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[19时59分 ~ 21时21分]"
+        },
+        {
+          "title": "特朗普突然宣布：将第四次竞选总统！他头戴印有“特朗普2028”字样的小红帽称：我已经很有经验了，将再次出马",
+          "url": "https://wallstreetcn.com/articles/3777927",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时56分 ~ 23时59分]"
         },
         {
           "title": "特朗普称詹姆斯是种族主义者",
@@ -198,28 +233,6 @@
           "time_info": "[11时59分 ~ 14时16分]"
         },
         {
-          "title": "两位巴西消息人士：巴西拒绝向两名试图质询巴西选举制度的特朗普政府特使签发签证。",
-          "url": "https://flash.jin10.com/detail/20260725222304302800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时56分"
-        },
-        {
-          "title": "特朗普称准备第四次竞选总统",
-          "url": "https://news.ifeng.com/c/8v378W8XMdI",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时56分"
-        },
-        {
           "title": "美国总统特朗普：已做好在伊朗采取更高级别军事行动的准备。",
           "url": "https://flash.jin10.com/detail/20260725034104359800",
           "source": "金十数据",
@@ -229,17 +242,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时13分"
-        },
-        {
-          "title": "特朗普突然宣布：将第四次竞选总统！他头戴印有“特朗普2028”字样的小红帽称：我已经很有经验了，将再次出马",
-          "url": "https://wallstreetcn.com/articles/3777927",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时56分"
         },
         {
           "title": "美国总统特朗普：因为（山火产生的）烟雾问题，将对加拿大征收高额关税。",
@@ -325,7 +327,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时56分"
         },
@@ -575,7 +577,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 39,
+      "match_count": 40,
       "titles": [
         {
           "title": "被曝向胡塞武装空运军官和武器，伊朗怎么说？",
@@ -587,8 +589,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[02时14分 ~ 22时56分]"
+          "appearance_count": 15,
+          "time_info": "[02时14分 ~ 23时59分]"
         },
         {
           "title": "伊朗外长：无需更多调解者，美应改变态度",
@@ -609,8 +611,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时22分 ~ 22时56分]"
+          "appearance_count": 6,
+          "time_info": "[18时22分 ~ 23时59分]"
         },
         {
           "title": "伊朗公布美军近期袭击伤亡数据",
@@ -644,22 +646,24 @@
           "url": "https://wallstreetcn.com/livenews/3139779",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时56分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时56分 ~ 23时59分]"
         },
         {
           "title": "美国对伊朗实施“冷热交替”策略，当前首要目标可能是......",
           "url": "https://flash.jin10.com/detail/20260725223644816800",
           "source": "金十数据",
           "ranks": [
-            3
+            3,
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时56分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时56分 ~ 23时59分]"
         },
         {
           "title": "市场消息：巴基斯坦方面警告伊朗，关闭“曼德海峡”将使局势进一步复杂化。",
@@ -799,6 +803,18 @@
           "time_info": "[05时58分 ~ 08时04分]"
         },
         {
+          "title": "分析｜美国本轮已连续袭击伊朗13晚，以色列为何“隐身”？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33650717",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时21分 ~ 23时59分]"
+        },
+        {
           "title": "伊朗和阿曼就霍尔木兹海峡问题举行会谈",
           "url": "https://wallstreetcn.com/livenews/3139646",
           "source": "华尔街见闻-快讯",
@@ -837,6 +853,18 @@
           "time_info": "[19时59分 ~ 21时21分]"
         },
         {
+          "title": "伊朗官员：镐山设施“目前是空的”",
+          "url": "https://flash.jin10.com/detail/20260725214500074800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时56分 ~ 23时59分]"
+        },
+        {
           "title": "据伊朗Press TV：也门方面袭击炼油厂后，沙特各地出现大规模排队加油的现象。",
           "url": "https://flash.jin10.com/detail/20260725151742483800",
           "source": "金十数据",
@@ -873,16 +901,16 @@
           "time_info": "[11时59分 ~ 14时16分]"
         },
         {
-          "title": "分析｜美国本轮已连续袭击伊朗13晚，以色列为何“隐身”？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33650717",
-          "source": "澎湃新闻",
+          "title": "伊朗官员：镐山设施“目前是空的”，袭击一个空置的仓库只有利于制造虚假信息",
+          "url": "https://wallstreetcn.com/livenews/3139764",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            18,
-            16
+            16,
+            20
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[21时21分 ~ 22时56分]"
+          "time_info": "[22时56分 ~ 23时59分]"
         },
         {
           "title": "据悉巴林和科威特对伊朗境内目标进行了空袭",
@@ -929,17 +957,6 @@
           "time_info": "11时59分"
         },
         {
-          "title": "伊朗官员：镐山设施“目前是空的”",
-          "url": "https://flash.jin10.com/detail/20260725214500074800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时56分"
-        },
-        {
           "title": "连续13晚打击伊朗后，美军未再宣布对伊朗发动空袭",
           "url": "https://flash.jin10.com/detail/20260725132754175800",
           "source": "金十数据",
@@ -949,6 +966,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时16分"
+        },
+        {
+          "title": "伊朗打击亚马逊数据中心，卫星图像公布",
+          "url": "https://www.cls.cn/detail/2437013",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时59分"
         },
         {
           "title": "王毅会见伊朗外长阿拉格齐",
@@ -971,17 +999,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时13分"
-        },
-        {
-          "title": "伊朗官员：镐山设施“目前是空的”，袭击一个空置的仓库只有利于制造虚假信息",
-          "url": "https://wallstreetcn.com/livenews/3139764",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时56分"
         },
         {
           "title": "据美联社：美军周五表示，向另一艘试图突破其对伊朗港口封锁的商船开火。美军在阿曼湾使M/T Lavine号油轮丧失了航行能力。",
@@ -1053,8 +1070,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时03分 ~ 22时56分]"
+          "appearance_count": 11,
+          "time_info": "[08时03分 ~ 23时59分]"
         },
         {
           "title": "【早报】美股芯片股重挫；油价跳水、黄金微涨；视网膜芯片获准在欧上市；宁德时代抛出A股史上最大规模回购方案",
@@ -1066,8 +1083,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时03分 ~ 22时56分]"
+          "appearance_count": 11,
+          "time_info": "[08时03分 ~ 23时59分]"
         },
         {
           "title": "“关税战”来最惨的1天！美股“科技龙头”Mag 7单日市值蒸发近8000亿美元",
@@ -1095,8 +1112,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时03分 ~ 22时56分]"
+          "appearance_count": 11,
+          "time_info": "[08时03分 ~ 23时59分]"
         },
         {
           "title": "AI开支担忧与地缘风险夹击美股，标普创月内最大跌幅，特斯拉跌超14%，油价破百，黄金重挫",
