@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-12T06:35:03.693619+08:00",
-  "total_titles_processed": 600,
+  "generated_at": "2026-08-12T07:33:01.707286+08:00",
+  "total_titles_processed": 650,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 24,
+      "match_count": 26,
       "titles": [
         {
           "title": "伊朗讽美：对制裁“病态依赖”，丧失了独立思考能力",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时49分 ~ 06时35分]"
+          "appearance_count": 12,
+          "time_info": "[00时49分 ~ 07时33分]"
         },
         {
           "title": "伊朗高层近期密集调整军政核心职位，是出于哪些考虑？向外界传递了怎样的信息？",
@@ -31,8 +31,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时49分 ~ 06时35分]"
+          "appearance_count": 12,
+          "time_info": "[00时49分 ~ 07时33分]"
         },
         {
           "title": "结束会晤后，伊朗总统透露最高领袖身体状况",
@@ -191,6 +191,17 @@
           "time_info": "[03时57分 ~ 05时03分]"
         },
         {
+          "title": "伊朗石油部长：伊天然气日产能有望大幅回升",
+          "url": "https://wallstreetcn.com/livenews/3148273",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时33分"
+        },
+        {
           "title": "伊朗总统称加强与巴基斯坦的关系有助于提升地区安全",
           "url": "https://flash.jin10.com/detail/20260812040643167800",
           "source": "金十数据",
@@ -200,6 +211,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时03分"
+        },
+        {
+          "title": "伊朗石油部长：伊天然气日产能有望大幅回升",
+          "url": "https://flash.jin10.com/detail/20260812063020231800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时33分"
         },
         {
           "title": "美军称使用导弹袭击一艘驶向伊朗港口的商船",
@@ -293,7 +315,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "美伊协议“希望渺茫”，油价大涨，英伟达循环融资担忧拖累美股，光通信股重挫",
@@ -303,8 +325,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时49分 ~ 06时35分]"
+          "appearance_count": 12,
+          "time_info": "[00时49分 ~ 07时33分]"
         },
         {
           "title": "巴基斯坦称美伊“接近达成”协议，油价应声跳水，美股高开，存储芯片股普涨，黄金小幅上涨",
@@ -327,8 +349,19 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时49分 ~ 06时35分]"
+          "appearance_count": 12,
+          "time_info": "[00时49分 ~ 07时33分]"
+        },
+        {
+          "title": "美股收盘：美伊僵局施压三大指数续跌 存储&光通信概念整体反弹",
+          "url": "https://www.cls.cn/detail/2451784",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时32分 ~ 07时33分]"
         },
         {
           "title": "周二（8月11日），美股行业ETF涨跌各异，网络股指数ETF收跌0.96%，可选消费ETF跌0.36%，科技行业ETF跌0.12%，半导体ETF涨0.62%，全球航空业ETF涨0.83%，能源业ETF涨1.25%。 标普500指数的11个板块中，电信板块收跌2.12%，房地产板块跌0.86%，信息技术/科技板块跌0.26%，能源板块涨1.06%。",
@@ -349,11 +382,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            13
+            13,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时38分 ~ 06时35分]"
+          "appearance_count": 3,
+          "time_info": "[05时38分 ~ 07时33分]"
         },
         {
           "title": "Firefly Aerospace二季度营收1.177亿美元，上年同期亏损0.155亿美元。 二季度调整后EBITDA亏损0.612亿美元，分析师预期亏损0.479亿美元。 二季度每股亏损0.57美元，上年同期亏损5.78美元。 Firefly美股盘后跌3.6%。",
@@ -478,7 +512,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "特朗普称伊朗谈判代表“非常狡猾”，但美有三种策略",
@@ -489,8 +523,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时49分 ~ 06时35分]"
+          "appearance_count": 12,
+          "time_info": "[00时49分 ~ 07时33分]"
         },
         {
           "title": "伊朗密集换将，特朗普提“索赔”，美伊协议“希望渺茫”？",
@@ -500,8 +534,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时49分 ~ 06时35分]"
+          "appearance_count": 12,
+          "time_info": "[00时49分 ~ 07时33分]"
         },
         {
           "title": "美法官叫停美邮政局执行特朗普涉限制邮寄选票的行政令",
@@ -509,11 +543,12 @@
           "source": "金十数据",
           "ranks": [
             1,
-            9
+            9,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时38分 ~ 06时35分]"
+          "appearance_count": 3,
+          "time_info": "[05时38分 ~ 07时33分]"
         },
         {
           "title": "美国总统特朗普：医疗补助将不再为未成年人提供性别转换手术和激素治疗的资金。",
@@ -526,6 +561,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时38分 ~ 06时35分]"
+        },
+        {
+          "title": "美法官叫停美邮政局执行特朗普涉限制邮寄选票的行政令",
+          "url": "https://wallstreetcn.com/livenews/3148261",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时35分 ~ 07时33分]"
         },
         {
           "title": "美国法官阻止邮政服务根据特朗普命令限制邮寄投票。",
@@ -551,15 +598,15 @@
           "time_info": "[06时34分 ~ 06时35分]"
         },
         {
-          "title": "美法官叫停美邮政局执行特朗普涉限制邮寄选票的行政令",
-          "url": "https://wallstreetcn.com/livenews/3148261",
-          "source": "华尔街见闻-快讯",
+          "title": "特朗普据悉考虑削减资本利得税以提振中期选举",
+          "url": "https://flash.jin10.com/detail/20260812064319870800",
+          "source": "金十数据",
           "ranks": [
-            6
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时35分"
+          "time_info": "07时33分"
         },
         {
           "title": "特朗普威胁将针对纽约市税收采取联邦层面行动",
@@ -660,22 +707,24 @@
           "url": "https://flash.jin10.com/detail/20260812055132698800",
           "source": "金十数据",
           "ranks": [
-            1
+            1,
+            15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时35分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时35分 ~ 07时33分]"
         },
         {
           "title": "OpenAI向亚马逊Redrock开放Daybreak权限。",
           "url": "https://wallstreetcn.com/livenews/3148266",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时35分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时35分 ~ 07时33分]"
         },
         {
           "title": "美国参议院Sanders发函，要求OpenAI、Anthropic、Meta等众多AI公司暂停开发。（纽约时报）",
@@ -742,17 +791,6 @@
       "match_count": 4,
       "titles": [
         {
-          "title": "谷歌将在美洲新增三条海底光缆系统",
-          "url": "https://wallstreetcn.com/livenews/3148264",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时35分"
-        },
-        {
           "title": "谷歌(GOOG.O)：将视频点播服务引入Google TV Freeplay。",
           "url": "https://flash.jin10.com/detail/20260812012754420800",
           "source": "金十数据",
@@ -763,6 +801,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时52分 ~ 02时50分]"
+        },
+        {
+          "title": "谷歌将在美洲新增三条海底光缆系统",
+          "url": "https://wallstreetcn.com/livenews/3148264",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时35分 ~ 07时33分]"
         },
         {
           "title": "谷歌：Gemini月活用户数超过10亿",
@@ -804,8 +854,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时49分 ~ 06时35分]"
+          "appearance_count": 12,
+          "time_info": "[00时49分 ~ 07时33分]"
         },
         {
           "title": "梁文锋跻身全球最富有50人之列",
@@ -818,19 +868,20 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时50分 ~ 06时35分]"
+          "appearance_count": 6,
+          "time_info": "[02时50分 ~ 07时33分]"
         },
         {
           "title": "DeepSeek会偷偷给人取外号",
           "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E4%BC%9A%E5%81%B7%E5%81%B7%E7%BB%99%E4%BA%BA%E5%8F%96%E5%A4%96%E5%8F%B7%23&t=31&band_rank=10&Refer=top",
           "source": "微博",
           "ranks": [
-            10
+            10,
+            26
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时34分"
+          "appearance_count": 3,
+          "time_info": "[06时34分 ~ 07时33分]"
         }
       ]
     },
