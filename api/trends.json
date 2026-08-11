@@ -1,11 +1,472 @@
 {
-  "generated_at": "2026-08-11T14:53:46.953405+08:00",
-  "total_titles_processed": 1158,
+  "generated_at": "2026-08-11T16:05:54.769502+08:00",
+  "total_titles_processed": 1285,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "伊朗",
+      "match_count": 40,
+      "titles": [
+        {
+          "title": "结束会晤后，伊朗总统透露最高领袖身体状况",
+          "url": "https://news.ifeng.com/c/8vUfY9eJoTT",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时05分 ~ 16时05分]"
+        },
+        {
+          "title": "伊朗最高安全官员换人，雷扎伊何许人也？",
+          "url": "https://news.ifeng.com/c/8vTiqvCqOyW",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时44分 ~ 06时29分]"
+        },
+        {
+          "title": "伊朗最高领袖调整6名军方高层，美媒：德黑兰发出了信号",
+          "url": "https://news.ifeng.com/c/8vUtL7Lqyat",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时28分 ~ 16时05分]"
+        },
+        {
+          "title": "伊朗更强硬的强硬派来了",
+          "url": "https://news.ifeng.com/c/8vUncUovk9A",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时05分 ~ 16时05分]"
+        },
+        {
+          "title": "伊朗：若乌不赔偿 伊朗就自己动手了",
+          "url": "https://www.toutiao.com/trending/7671598956682723379/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时28分 ~ 13时01分]"
+        },
+        {
+          "title": "伊朗总统称与最高领袖会谈了七八个小时",
+          "url": "https://news.ifeng.com/c/8vUUCRouqKj",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时27分 ~ 09时05分]"
+        },
+        {
+          "title": "伊朗的5个条件，美国是否会照单全收？",
+          "url": "https://news.ifeng.com/c/8vTVeZD1iIn",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时44分 ~ 00时45分]"
+        },
+        {
+          "title": "只闻其事不见其人，伊朗最高领袖为何“隐身”？",
+          "url": "https://v.ifeng.com/c/8vU8lHyEo4N",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时05分 ~ 11时28分]"
+        },
+        {
+          "title": "市场消息：伊朗革命卫队海军司令表示，任何外国船只通过霍尔木兹海峡都会受到伊朗军队的识别、跟踪和监控。",
+          "url": "https://flash.jin10.com/detail/20260811001859720800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时45分"
+        },
+        {
+          "title": "伊朗最高领袖签署命令：6人任高级军事指挥官",
+          "url": "https://news.ifeng.com/c/8vUC8C2pHLn",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时05分"
+        },
+        {
+          "title": "伊朗警告乌克兰不赔偿就动手",
+          "url": "https://www.toutiao.com/trending/7671598956682723379/",
+          "source": "今日头条",
+          "ranks": [
+            2,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时55分 ~ 16时05分]"
+        },
+        {
+          "title": "伊朗总统之子反思伊朗国际形象",
+          "url": "https://www.toutiao.com/trending/7671499615899877402/",
+          "source": "今日头条",
+          "ranks": [
+            5,
+            14,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时00分 ~ 14时53分]"
+        },
+        {
+          "title": "“伊朗说了算”，海湾国家被迫接受霍尔木兹新常态",
+          "url": "https://flash.jin10.com/detail/20260811110335188800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时28分"
+        },
+        {
+          "title": "伊朗石油部官方网站Shana：伊朗石油部长帕克内贾德称，到九月底将有9500万立方米天然气的生产周期恢复。",
+          "url": "https://flash.jin10.com/detail/20260811154832896800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时05分"
+        },
+        {
+          "title": "伊朗总统称与最高领袖会谈七八个小时，其健康状况很好",
+          "url": "https://wallstreetcn.com/livenews/3147684",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            22,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时33分 ~ 06时29分]"
+        },
+        {
+          "title": "德国外长瓦德富尔：在与伊朗外长阿拉格奇的通话中，我敦促伊朗与地区邻国和美国进行建设性谈判，以结束冲突。霍尔木兹海峡必须无条件开放，确保所有船只自由安全地航行。",
+          "url": "https://flash.jin10.com/detail/20260811041240333800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时33分 ~ 05时34分]"
+        },
+        {
+          "title": "伊朗“圣城旅”指挥官到访巴格达 同伊拉克多方会晤",
+          "url": "https://flash.jin10.com/detail/20260811045926051800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时34分 ~ 06时29分]"
+        },
+        {
+          "title": "伊朗更强硬的强硬派来了",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%9B%B4%E5%BC%BA%E7%A1%AC%E7%9A%84%E5%BC%BA%E7%A1%AC%E6%B4%BE%E6%9D%A5%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时00分 ~ 14时53分]"
+        },
+        {
+          "title": "伊朗总统称最高领袖健康状况很好",
+          "url": "https://www.toutiao.com/trending/7672040770148417546/",
+          "source": "今日头条",
+          "ranks": [
+            10,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时28分 ~ 13时01分]"
+        },
+        {
+          "title": "伊朗总统称与最高领袖会谈七八个小时",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%80%BB%E7%BB%9F%E7%A7%B0%E4%B8%8E%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%E4%BC%9A%E8%B0%88%E4%B8%83%E5%85%AB%E4%B8%AA%E5%B0%8F%E6%97%B6",
+          "source": "百度热搜",
+          "ranks": [
+            14,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时28分 ~ 13时01分]"
+        },
+        {
+          "title": "伊朗“圣城旅”指挥官到访巴格达，同伊拉克多方会晤",
+          "url": "https://wallstreetcn.com/livenews/3147698",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时34分 ~ 06时29分]"
+        },
+        {
+          "title": "伊朗最高领袖将任命数名高级指挥官",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%E5%B0%86%E4%BB%BB%E5%91%BD%E6%95%B0%E5%90%8D%E9%AB%98%E7%BA%A7%E6%8C%87%E6%8C%A5%E5%AE%98",
+          "source": "百度热搜",
+          "ranks": [
+            19,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时33分 ~ 05时34分]"
+        },
+        {
+          "title": "伊朗与巴基斯坦外长通电话，讨论霍尔木兹海峡谈判与防务协议。",
+          "url": "https://wallstreetcn.com/livenews/3147604",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时45分"
+        },
+        {
+          "title": "伊朗石油部长表示，到9月底将有9500万立方米的天然气恢复进入生产循环。（伊朗官方通讯社Shana）",
+          "url": "https://wallstreetcn.com/livenews/3147937",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时05分"
+        },
+        {
+          "title": "伊朗和巴基斯坦外长在通话中讨论霍尔木兹海谈判及防务协议。",
+          "url": "https://flash.jin10.com/detail/20260810235617403800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时45分"
+        },
+        {
+          "title": "市场消息：伊朗外长阿拉格齐与德国外交部长讨论了双边、地区和国际局势。",
+          "url": "https://flash.jin10.com/detail/20260810234432760800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时45分"
+        },
+        {
+          "title": "市场消息：伊朗外交部长与德国外长通电话。",
+          "url": "https://flash.jin10.com/detail/20260810234334198800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时45分"
+        },
+        {
+          "title": "伊朗最高领袖对武装部队进行新任命",
+          "url": "https://wallstreetcn.com/livenews/3147599",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时45分"
+        },
+        {
+          "title": "市场消息：伊朗最高领袖任命阿卜杜拉希（Abdollahi）为武装部队总参谋长。",
+          "url": "https://flash.jin10.com/detail/20260810233849122800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时45分"
+        },
+        {
+          "title": "伊朗：每当华盛顿发现自己无力开展外交，就会退而诉诸制裁",
+          "url": "https://wallstreetcn.com/livenews/3147668",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时33分"
+        },
+        {
+          "title": "市场消息：伊朗最高领袖任命六名新军事指挥官。",
+          "url": "https://flash.jin10.com/detail/20260810233716507800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时45分"
+        },
+        {
+          "title": "伊朗最高领袖将任命数名高级军事指挥官",
+          "url": "https://wallstreetcn.com/livenews/3147590",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时45分"
+        },
+        {
+          "title": "伊朗称美以是造成中东地区动荡根源",
+          "url": "https://www.toutiao.com/trending/7671798549898657855/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时28分"
+        },
+        {
+          "title": "巴基斯坦外交部：伊朗外长同巴基斯坦外长讨论地区与国际局势。 双方就地区及国际事态交换看法，重点围绕地区局势演变以及维护和平稳定的各项努力。 巴外长与阿拉格齐复盘巴、土、沙三方《麦加协议》的各项条款，并着重强调该协议对促进地区和平安全的目标。",
+          "url": "https://wallstreetcn.com/livenews/3147587",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时45分"
+        },
+        {
+          "title": "伊朗警告乌克兰：不赔偿就动手",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E8%AD%A6%E5%91%8A%E4%B9%8C%E5%85%8B%E5%85%B0%EF%BC%9A%E4%B8%8D%E8%B5%94%E5%81%BF%E5%B0%B1%E5%8A%A8%E6%89%8B",
+          "source": "百度热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时05分"
+        },
+        {
+          "title": "伊朗外长阿拉格齐：在最近的战争中，伊朗向全世界证明了自己，展现出其作为一支强大且不可战胜的力量的形象。",
+          "url": "https://flash.jin10.com/detail/20260811153518529800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时05分"
+        },
+        {
+          "title": "伊朗外长阿拉格齐： 我们的武装力量牺牲了生命，击败了世界上最大的所谓军队。这不是口号，而是全世界公认的事实。",
+          "url": "https://flash.jin10.com/detail/20260811153504492800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时05分"
+        },
+        {
+          "title": "伊朗外长阿拉格齐：没人料到伊朗可以迫使敌人提出谈判要求。",
+          "url": "https://flash.jin10.com/detail/20260811153421582800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时05分"
+        },
+        {
+          "title": "伊朗：美国对制裁“病态依赖”",
+          "url": "https://www.toutiao.com/trending/7672205841336483846/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时28分"
+        },
+        {
+          "title": "伊朗总统与最高领袖会谈七八个小时",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E6%80%BB%E7%BB%9F%E4%B8%8E%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%E4%BC%9A%E8%B0%88%E4%B8%83%E5%85%AB%E4%B8%AA%E5%B0%8F%E6%97%B6%23&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时28分"
+        }
+      ]
+    },
+    {
       "keyword_group": "特朗普",
-      "match_count": 35,
+      "match_count": 37,
       "titles": [
         {
           "title": "还剩85天，特朗普全面收缩，伊朗左冲右突",
@@ -20,6 +481,17 @@
           "time_info": "[00时44分 ~ 07时27分]"
         },
         {
+          "title": "“特朗普关联”石油公司擅运钻探设备上岛，格陵兰强烈警告",
+          "url": "https://news.ifeng.com/c/8vUAxbsrTSq",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时05分 ~ 16时05分]"
+        },
+        {
           "title": "伊朗回应特朗普“棋局”比喻：伊朗人是“专业棋手”",
           "url": "https://news.ifeng.com/c/8vTu2Im0JsI",
           "source": "凤凰网",
@@ -29,17 +501,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时44分 ~ 07时27分]"
-        },
-        {
-          "title": "“特朗普关联”石油公司擅运钻探设备上岛，格陵兰强烈警告",
-          "url": "https://news.ifeng.com/c/8vUAxbsrTSq",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时05分 ~ 14时53分]"
         },
         {
           "title": "新闻蒸馏器｜内塔尼亚胡公开拒绝美国15点加沙计划，与特朗普罕见摊牌",
@@ -78,6 +539,31 @@
           "time_info": "[09时05分 ~ 13时55分]"
         },
         {
+          "title": "伊朗密集换将，特朗普提“索赔”，美伊协议“希望渺茫”？",
+          "url": "https://wallstreetcn.com/articles/3779107",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时28分 ~ 16时05分]"
+        },
+        {
+          "title": "特朗普：美军已100%控制霍尔木兹海峡",
+          "url": "https://news.ifeng.com/c/8vUfcNGWBFb",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时05分 ~ 16时05分]"
+        },
+        {
           "title": "伊朗称“目前伊美没有进行任何谈判”，特朗普表态“正在低调处理”",
           "url": "https://wallstreetcn.com/articles/3779034",
           "source": "华尔街见闻",
@@ -90,15 +576,15 @@
           "time_info": "[00时44分 ~ 07时27分]"
         },
         {
-          "title": "特朗普：美军已100%控制霍尔木兹海峡",
-          "url": "https://news.ifeng.com/c/8vUfcNGWBFb",
+          "title": "外媒曝出重大消息：特朗普放弃对伊朗的头号要求",
+          "url": "https://news.ifeng.com/c/8vUFosuJumv",
           "source": "凤凰网",
           "ranks": [
-            8
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时05分 ~ 14时53分]"
+          "appearance_count": 2,
+          "time_info": "[14时53分 ~ 16时05分]"
         },
         {
           "title": "特朗普“狮子大开口”向伊朗开出“赔偿清单”，霍尔木兹海峡协议前景瞬间黯淡",
@@ -112,28 +598,28 @@
           "time_info": "07时27分"
         },
         {
-          "title": "伊朗密集换将，特朗普提“索赔”，美伊协议“希望渺茫”？",
-          "url": "https://wallstreetcn.com/articles/3779107",
-          "source": "华尔街见闻",
+          "title": "曝特朗普上月秘密乘运输机回国",
+          "url": "https://www.toutiao.com/trending/7672053116451389486/",
+          "source": "今日头条",
           "ranks": [
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时28分 ~ 14时53分]"
-        },
-        {
-          "title": "外媒曝出重大消息：特朗普放弃对伊朗的头号要求",
-          "url": "https://news.ifeng.com/c/8vUFosuJumv",
-          "source": "凤凰网",
-          "ranks": [
-            4
+            5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时53分"
+          "time_info": "16时05分"
+        },
+        {
+          "title": "和平希望又受挫！特朗普称美军已“100%控制”霍尔木兹，并向伊朗索赔",
+          "url": "https://www.cls.cn/detail/2450709",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时00分 ~ 16时05分]"
         },
         {
           "title": "美媒：特朗普上月秘密乘运输机回国",
@@ -158,19 +644,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时29分 ~ 07时27分]"
-        },
-        {
-          "title": "和平希望又受挫！特朗普称美军已“100%控制”霍尔木兹，并向伊朗索赔",
-          "url": "https://www.cls.cn/detail/2450709",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时00分 ~ 14时53分]"
         },
         {
           "title": "释疑｜总在开盘前喊停？从两万五千条交易数据，看特朗普投资“玄学”",
@@ -376,6 +849,17 @@
           "time_info": "04时33分"
         },
         {
+          "title": "特朗普称美国对伊朗有三种“策略”",
+          "url": "https://wallstreetcn.com/livenews/3147920",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时05分"
+        },
+        {
           "title": "美国总统特朗普：（当被问及伊朗战争接下来会发生什么时）你们很快就会知道了。",
           "url": "https://flash.jin10.com/detail/20260811032829058800",
           "source": "金十数据",
@@ -411,403 +895,8 @@
       ]
     },
     {
-      "keyword_group": "伊朗",
-      "match_count": 34,
-      "titles": [
-        {
-          "title": "结束会晤后，伊朗总统透露最高领袖身体状况",
-          "url": "https://news.ifeng.com/c/8vUfY9eJoTT",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时05分 ~ 14时53分]"
-        },
-        {
-          "title": "伊朗最高安全官员换人，雷扎伊何许人也？",
-          "url": "https://news.ifeng.com/c/8vTiqvCqOyW",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时44分 ~ 06时29分]"
-        },
-        {
-          "title": "伊朗最高领袖调整6名军方高层，美媒：德黑兰发出了信号",
-          "url": "https://news.ifeng.com/c/8vUtL7Lqyat",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时28分 ~ 14时53分]"
-        },
-        {
-          "title": "伊朗：若乌不赔偿 伊朗就自己动手了",
-          "url": "https://www.toutiao.com/trending/7671598956682723379/",
-          "source": "今日头条",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时28分 ~ 13时01分]"
-        },
-        {
-          "title": "伊朗更强硬的强硬派来了",
-          "url": "https://news.ifeng.com/c/8vUncUovk9A",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时05分 ~ 14时53分]"
-        },
-        {
-          "title": "伊朗总统称与最高领袖会谈了七八个小时",
-          "url": "https://news.ifeng.com/c/8vUUCRouqKj",
-          "source": "凤凰网",
-          "ranks": [
-            1,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时27分 ~ 09时05分]"
-        },
-        {
-          "title": "伊朗的5个条件，美国是否会照单全收？",
-          "url": "https://news.ifeng.com/c/8vTVeZD1iIn",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时44分 ~ 00时45分]"
-        },
-        {
-          "title": "只闻其事不见其人，伊朗最高领袖为何“隐身”？",
-          "url": "https://v.ifeng.com/c/8vU8lHyEo4N",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时05分 ~ 11时28分]"
-        },
-        {
-          "title": "市场消息：伊朗革命卫队海军司令表示，任何外国船只通过霍尔木兹海峡都会受到伊朗军队的识别、跟踪和监控。",
-          "url": "https://flash.jin10.com/detail/20260811001859720800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时45分"
-        },
-        {
-          "title": "伊朗最高领袖签署命令：6人任高级军事指挥官",
-          "url": "https://news.ifeng.com/c/8vUC8C2pHLn",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时05分"
-        },
-        {
-          "title": "伊朗总统之子反思伊朗国际形象",
-          "url": "https://www.toutiao.com/trending/7671499615899877402/",
-          "source": "今日头条",
-          "ranks": [
-            5,
-            14,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时00分 ~ 14时53分]"
-        },
-        {
-          "title": "“伊朗说了算”，海湾国家被迫接受霍尔木兹新常态",
-          "url": "https://flash.jin10.com/detail/20260811110335188800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时28分"
-        },
-        {
-          "title": "伊朗警告乌克兰不赔偿就动手",
-          "url": "https://www.toutiao.com/trending/7671598956682723379/",
-          "source": "今日头条",
-          "ranks": [
-            2,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时55分 ~ 14时53分]"
-        },
-        {
-          "title": "伊朗总统称与最高领袖会谈七八个小时，其健康状况很好",
-          "url": "https://wallstreetcn.com/livenews/3147684",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            22,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时33分 ~ 06时29分]"
-        },
-        {
-          "title": "德国外长瓦德富尔：在与伊朗外长阿拉格奇的通话中，我敦促伊朗与地区邻国和美国进行建设性谈判，以结束冲突。霍尔木兹海峡必须无条件开放，确保所有船只自由安全地航行。",
-          "url": "https://flash.jin10.com/detail/20260811041240333800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时33分 ~ 05时34分]"
-        },
-        {
-          "title": "伊朗“圣城旅”指挥官到访巴格达 同伊拉克多方会晤",
-          "url": "https://flash.jin10.com/detail/20260811045926051800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时34分 ~ 06时29分]"
-        },
-        {
-          "title": "伊朗更强硬的强硬派来了",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%9B%B4%E5%BC%BA%E7%A1%AC%E7%9A%84%E5%BC%BA%E7%A1%AC%E6%B4%BE%E6%9D%A5%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时00分 ~ 14时53分]"
-        },
-        {
-          "title": "伊朗总统称最高领袖健康状况很好",
-          "url": "https://www.toutiao.com/trending/7672040770148417546/",
-          "source": "今日头条",
-          "ranks": [
-            10,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时28分 ~ 13时01分]"
-        },
-        {
-          "title": "伊朗总统称与最高领袖会谈七八个小时",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%80%BB%E7%BB%9F%E7%A7%B0%E4%B8%8E%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%E4%BC%9A%E8%B0%88%E4%B8%83%E5%85%AB%E4%B8%AA%E5%B0%8F%E6%97%B6",
-          "source": "百度热搜",
-          "ranks": [
-            14,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时28分 ~ 13时01分]"
-        },
-        {
-          "title": "伊朗“圣城旅”指挥官到访巴格达，同伊拉克多方会晤",
-          "url": "https://wallstreetcn.com/livenews/3147698",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时34分 ~ 06时29分]"
-        },
-        {
-          "title": "伊朗最高领袖将任命数名高级指挥官",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%E5%B0%86%E4%BB%BB%E5%91%BD%E6%95%B0%E5%90%8D%E9%AB%98%E7%BA%A7%E6%8C%87%E6%8C%A5%E5%AE%98",
-          "source": "百度热搜",
-          "ranks": [
-            19,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时33分 ~ 05时34分]"
-        },
-        {
-          "title": "伊朗与巴基斯坦外长通电话，讨论霍尔木兹海峡谈判与防务协议。",
-          "url": "https://wallstreetcn.com/livenews/3147604",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时45分"
-        },
-        {
-          "title": "伊朗和巴基斯坦外长在通话中讨论霍尔木兹海谈判及防务协议。",
-          "url": "https://flash.jin10.com/detail/20260810235617403800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时45分"
-        },
-        {
-          "title": "市场消息：伊朗外长阿拉格齐与德国外交部长讨论了双边、地区和国际局势。",
-          "url": "https://flash.jin10.com/detail/20260810234432760800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时45分"
-        },
-        {
-          "title": "市场消息：伊朗外交部长与德国外长通电话。",
-          "url": "https://flash.jin10.com/detail/20260810234334198800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时45分"
-        },
-        {
-          "title": "伊朗最高领袖对武装部队进行新任命",
-          "url": "https://wallstreetcn.com/livenews/3147599",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时45分"
-        },
-        {
-          "title": "市场消息：伊朗最高领袖任命阿卜杜拉希（Abdollahi）为武装部队总参谋长。",
-          "url": "https://flash.jin10.com/detail/20260810233849122800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时45分"
-        },
-        {
-          "title": "伊朗：每当华盛顿发现自己无力开展外交，就会退而诉诸制裁",
-          "url": "https://wallstreetcn.com/livenews/3147668",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时33分"
-        },
-        {
-          "title": "市场消息：伊朗最高领袖任命六名新军事指挥官。",
-          "url": "https://flash.jin10.com/detail/20260810233716507800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时45分"
-        },
-        {
-          "title": "伊朗最高领袖将任命数名高级军事指挥官",
-          "url": "https://wallstreetcn.com/livenews/3147590",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时45分"
-        },
-        {
-          "title": "伊朗称美以是造成中东地区动荡根源",
-          "url": "https://www.toutiao.com/trending/7671798549898657855/",
-          "source": "今日头条",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时28分"
-        },
-        {
-          "title": "巴基斯坦外交部：伊朗外长同巴基斯坦外长讨论地区与国际局势。 双方就地区及国际事态交换看法，重点围绕地区局势演变以及维护和平稳定的各项努力。 巴外长与阿拉格齐复盘巴、土、沙三方《麦加协议》的各项条款，并着重强调该协议对促进地区和平安全的目标。",
-          "url": "https://wallstreetcn.com/livenews/3147587",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时45分"
-        },
-        {
-          "title": "伊朗：美国对制裁“病态依赖”",
-          "url": "https://www.toutiao.com/trending/7672205841336483846/",
-          "source": "今日头条",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时28分"
-        },
-        {
-          "title": "伊朗总统与最高领袖会谈七八个小时",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E6%80%BB%E7%BB%9F%E4%B8%8E%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%E4%BC%9A%E8%B0%88%E4%B8%83%E5%85%AB%E4%B8%AA%E5%B0%8F%E6%97%B6%23&t=31&band_rank=27&Refer=top",
-          "source": "微博",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时28分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美股",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "美股收盘：芯片股&光通信概念重挫 三大指数收低中概逆市走强",
@@ -820,8 +909,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[06时28分 ~ 14时53分]"
+          "appearance_count": 10,
+          "time_info": "[06时28分 ~ 16时05分]"
         },
         {
           "title": "美伊协议“希望渺茫”，油价大涨，英伟达循环融资担忧拖累美股，光通信股重挫",
@@ -831,8 +920,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时05分 ~ 14时53分]"
+          "appearance_count": 7,
+          "time_info": "[09时05分 ~ 16时05分]"
         },
         {
           "title": "【早报】美股芯片股大跌；中概股逆势走强；原油飙升、黄金收涨；A股又一波回购潮来了",
@@ -843,8 +932,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时27分 ~ 14时53分]"
+          "appearance_count": 8,
+          "time_info": "[07时27分 ~ 16时05分]"
         },
         {
           "title": "美股开盘三大指数下挫，纳指跌0.1%，英特尔跌约3%，霍尔木兹谈判僵局推升油价，黄金维持高位",
@@ -868,6 +957,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时28分 ~ 07时27分]"
+        },
+        {
+          "title": "美股V型反转背后，看涨期权疯狂涌入！盈利扩散正在接管市场主线",
+          "url": "https://flash.jin10.com/detail/20260811154958600800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时05分"
         },
         {
           "title": "美股大类资产类ETF多数收跌，布油基金涨约6.8%",
@@ -976,6 +1076,45 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时27分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "深度求索开设“DeepSeek Harness团队”公众号",
+          "url": "https://flash.jin10.com/detail/20260811154106380800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时05分"
+        },
+        {
+          "title": "如何评价即将发布的 DeepSeek-V4 Pro 正式版，有哪些亮点？",
+          "url": "https://www.zhihu.com/question/2067921583944085650",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时05分"
+        },
+        {
+          "title": "DeepSeek会偷偷给人取外号",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E4%BC%9A%E5%81%B7%E5%81%B7%E7%BB%99%E4%BA%BA%E5%8F%96%E5%A4%96%E5%8F%B7",
+          "source": "百度热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时05分"
         }
       ]
     },
@@ -1099,23 +1238,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时33分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "如何评价即将发布的 DeepSeek-V4 Pro 正式版，有哪些亮点？",
-          "url": "https://www.zhihu.com/question/2067921583944085650",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时05分"
         }
       ]
     },
