@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-11T09:05:35.605556+08:00",
-  "total_titles_processed": 690,
+  "generated_at": "2026-08-11T11:28:38.173507+08:00",
+  "total_titles_processed": 855,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 30,
+      "match_count": 32,
       "titles": [
         {
           "title": "还剩85天，特朗普全面收缩，伊朗左冲右突",
@@ -66,6 +66,17 @@
           "time_info": "[00时44分 ~ 07时27分]"
         },
         {
+          "title": "“特朗普关联”石油公司擅运钻探设备上岛，格陵兰强烈警告",
+          "url": "https://news.ifeng.com/c/8vUAxbsrTSq",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时05分 ~ 11时28分]"
+        },
+        {
           "title": "特朗普“狮子大开口”向伊朗开出“赔偿清单”，霍尔木兹海峡协议前景瞬间黯淡",
           "url": "https://flash.jin10.com/detail/20260811071100479800",
           "source": "金十数据",
@@ -77,15 +88,16 @@
           "time_info": "07时27分"
         },
         {
-          "title": "“特朗普关联”石油公司擅运钻探设备上岛，格陵兰强烈警告",
-          "url": "https://news.ifeng.com/c/8vUAxbsrTSq",
+          "title": "外媒曝出惊人消息：特朗普放弃对伊朗的头号要求",
+          "url": "https://news.ifeng.com/c/8vUFosuJumv",
           "source": "凤凰网",
           "ranks": [
-            3
+            9,
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时05分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时05分 ~ 11时28分]"
         },
         {
           "title": "美国总统特朗普：伊朗已经“囊中羞涩”，在约300%的通胀背景下无力给士兵发放军饷。",
@@ -120,6 +132,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时44分 ~ 00时45分]"
+        },
+        {
+          "title": "特朗普：美军已100%控制霍尔木兹海峡",
+          "url": "https://news.ifeng.com/c/8vUfcNGWBFb",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时05分 ~ 11时28分]"
         },
         {
           "title": "特朗普称美军实际控制霍尔木兹并清除了水雷",
@@ -158,26 +181,15 @@
           "time_info": "[05时34分 ~ 06时29分]"
         },
         {
-          "title": "特朗普：美军已100%控制霍尔木兹海峡",
-          "url": "https://news.ifeng.com/c/8vUfcNGWBFb",
-          "source": "凤凰网",
+          "title": "伊朗密集换将，特朗普提“索赔”，美伊协议“希望渺茫”？",
+          "url": "https://wallstreetcn.com/articles/3779107",
+          "source": "华尔街见闻",
           "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时05分"
-        },
-        {
-          "title": "外媒曝出惊人消息：特朗普放弃对伊朗的头号要求",
-          "url": "https://news.ifeng.com/c/8vUFosuJumv",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时05分"
+          "time_info": "11时28分"
         },
         {
           "title": "特朗普：自从沃什接任美联储主席以来，和他谈过一次",
@@ -197,7 +209,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时05分"
         },
@@ -244,6 +256,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时33分"
+        },
+        {
+          "title": "特朗普发帖称，美国最高法院大法官阿利托已宣布他将再留任一个任期。",
+          "url": "https://wallstreetcn.com/livenews/3147809",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时28分"
         },
         {
           "title": "特朗普媒体科技集团(DJT.O)第二季度营收170万美元，第二季度净亏损2.381亿美元，调整后EBITDA亏损2.235亿美元。",
@@ -348,7 +371,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 23,
+      "match_count": 31,
       "titles": [
         {
           "title": "伊朗最高安全官员换人，雷扎伊何许人也？",
@@ -360,6 +383,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时44分 ~ 06时29分]"
+        },
+        {
+          "title": "结束会晤后，伊朗总统透露最高领袖身体状况",
+          "url": "https://news.ifeng.com/c/8vUfY9eJoTT",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时05分 ~ 11时28分]"
         },
         {
           "title": "伊朗总统称与最高领袖会谈了七八个小时",
@@ -385,15 +419,27 @@
           "time_info": "[00时44分 ~ 00时45分]"
         },
         {
-          "title": "结束会晤后，伊朗总统透露最高领袖身体状况",
-          "url": "https://news.ifeng.com/c/8vUfY9eJoTT",
+          "title": "只闻其事不见其人，伊朗最高领袖为何“隐身”？",
+          "url": "https://v.ifeng.com/c/8vU8lHyEo4N",
           "source": "凤凰网",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时05分 ~ 11时28分]"
+        },
+        {
+          "title": "伊朗：若乌不赔偿 伊朗就自己动手了",
+          "url": "https://www.toutiao.com/trending/7671598956682723379/",
+          "source": "今日头条",
           "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时05分"
+          "time_info": "11时28分"
         },
         {
           "title": "市场消息：伊朗革命卫队海军司令表示，任何外国船只通过霍尔木兹海峡都会受到伊朗军队的识别、跟踪和监控。",
@@ -413,20 +459,31 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时05分"
         },
         {
-          "title": "只闻其事不见其人，伊朗最高领袖为何“隐身”？",
-          "url": "https://v.ifeng.com/c/8vU8lHyEo4N",
+          "title": "伊朗最高领袖调整6名军方高层，美媒：德黑兰发出了信号",
+          "url": "https://news.ifeng.com/c/8vUtL7Lqyat",
           "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时28分"
+        },
+        {
+          "title": "“伊朗说了算”，海湾国家被迫接受霍尔木兹新常态",
+          "url": "https://flash.jin10.com/detail/20260811110335188800",
+          "source": "金十数据",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时05分"
+          "time_info": "11时28分"
         },
         {
           "title": "伊朗总统称与最高领袖会谈七八个小时，其健康状况很好",
@@ -466,6 +523,18 @@
           "time_info": "[05时34分 ~ 06时29分]"
         },
         {
+          "title": "伊朗更强硬的强硬派来了",
+          "url": "https://news.ifeng.com/c/8vUncUovk9A",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时05分 ~ 11时28分]"
+        },
+        {
           "title": "伊朗“圣城旅”指挥官到访巴格达，同伊拉克多方会晤",
           "url": "https://wallstreetcn.com/livenews/3147698",
           "source": "华尔街见闻-快讯",
@@ -490,17 +559,6 @@
           "time_info": "[04时33分 ~ 05时34分]"
         },
         {
-          "title": "伊朗更强硬的强硬派来了",
-          "url": "https://news.ifeng.com/c/8vUncUovk9A",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时05分"
-        },
-        {
           "title": "伊朗与巴基斯坦外长通电话，讨论霍尔木兹海峡谈判与防务协议。",
           "url": "https://wallstreetcn.com/livenews/3147604",
           "source": "华尔街见闻-快讯",
@@ -521,6 +579,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时45分"
+        },
+        {
+          "title": "伊朗总统称最高领袖健康状况很好",
+          "url": "https://www.toutiao.com/trending/7672040770148417546/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时28分"
         },
         {
           "title": "市场消息：伊朗外长阿拉格齐与德国外交部长讨论了双边、地区和国际局势。",
@@ -554,6 +623,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时45分"
+        },
+        {
+          "title": "伊朗总统称与最高领袖会谈七八个小时",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%80%BB%E7%BB%9F%E7%A7%B0%E4%B8%8E%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%E4%BC%9A%E8%B0%88%E4%B8%83%E5%85%AB%E4%B8%AA%E5%B0%8F%E6%97%B6",
+          "source": "百度热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时28分"
         },
         {
           "title": "市场消息：伊朗最高领袖任命阿卜杜拉希（Abdollahi）为武装部队总参谋长。",
@@ -600,6 +680,17 @@
           "time_info": "00时45分"
         },
         {
+          "title": "伊朗称美以是造成中东地区动荡根源",
+          "url": "https://www.toutiao.com/trending/7671798549898657855/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时28分"
+        },
+        {
           "title": "巴基斯坦外交部：伊朗外长同巴基斯坦外长讨论地区与国际局势。 双方就地区及国际事态交换看法，重点围绕地区局势演变以及维护和平稳定的各项努力。 巴外长与阿拉格齐复盘巴、土、沙三方《麦加协议》的各项条款，并着重强调该协议对促进地区和平安全的目标。",
           "url": "https://wallstreetcn.com/livenews/3147587",
           "source": "华尔街见闻-快讯",
@@ -609,6 +700,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时45分"
+        },
+        {
+          "title": "伊朗：美国对制裁“病态依赖”",
+          "url": "https://www.toutiao.com/trending/7672205841336483846/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时28分"
+        },
+        {
+          "title": "伊朗总统与最高领袖会谈七八个小时",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E6%80%BB%E7%BB%9F%E4%B8%8E%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%E4%BC%9A%E8%B0%88%E4%B8%83%E5%85%AB%E4%B8%AA%E5%B0%8F%E6%97%B6%23&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时28分"
         }
       ]
     },
@@ -628,6 +741,19 @@
           "time_info": "[00时44分 ~ 05时34分]"
         },
         {
+          "title": "美股收盘：芯片股&光通信概念重挫 三大指数收低中概逆市走强",
+          "url": "https://www.cls.cn/detail/2450652",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            3,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[06时28分 ~ 11时28分]"
+        },
+        {
           "title": "霍尔木兹僵局推油价大涨5%，英伟达\"循环融资\"担忧打压美股指，芯片指数跌3%，黄金续涨",
           "url": "https://wallstreetcn.com/articles/3779052",
           "source": "华尔街见闻",
@@ -640,28 +766,15 @@
           "time_info": "[06时28分 ~ 07时27分]"
         },
         {
-          "title": "美股收盘：芯片股&光通信概念重挫 三大指数收低中概逆市走强",
-          "url": "https://www.cls.cn/detail/2450652",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            3,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时28分 ~ 09时05分]"
-        },
-        {
           "title": "美伊协议“希望渺茫”，油价大涨，英伟达循环融资担忧拖累美股，光通信股重挫",
           "url": "https://wallstreetcn.com/articles/3779052",
           "source": "华尔街见闻",
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时05分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时05分 ~ 11时28分]"
         },
         {
           "title": "【早报】美股芯片股大跌；中概股逆势走强；原油飙升、黄金收涨；A股又一波回购潮来了",
@@ -672,8 +785,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时27分 ~ 09时05分]"
+          "appearance_count": 3,
+          "time_info": "[07时27分 ~ 11时28分]"
         },
         {
           "title": "美股大类资产类ETF多数收跌，布油基金涨约6.8%",
@@ -768,7 +881,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时05分"
         },
@@ -828,6 +941,47 @@
       ]
     },
     {
+      "keyword_group": "金价",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "国际金价周一涨1.1%，现货白银涨3.2%",
+          "url": "https://wallstreetcn.com/livenews/3147700",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            11,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时34分 ~ 07时27分]"
+        },
+        {
+          "title": "金十图示：2026年08月11日（周二）上海金早盘价为961.33元/克，较国际金价(956.87元/克)，高4.46元/克",
+          "url": "https://flash.jin10.com/detail/20260811110126674800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时28分"
+        },
+        {
+          "title": "金价会涨到多高",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E4%BC%9A%E6%B6%A8%E5%88%B0%E5%A4%9A%E9%AB%98%23&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时28分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美元",
       "match_count": 3,
       "titles": [
@@ -878,7 +1032,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时05分"
         }
@@ -899,25 +1053,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时27分 ~ 09时05分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "国际金价周一涨1.1%，现货白银涨3.2%",
-          "url": "https://wallstreetcn.com/livenews/3147700",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            11,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时34分 ~ 07时27分]"
         }
       ]
     }
