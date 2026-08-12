@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-12T13:28:47.563680+08:00",
-  "total_titles_processed": 1071,
+  "generated_at": "2026-08-12T15:12:27.735951+08:00",
+  "total_titles_processed": 1195,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 31,
+      "match_count": 33,
       "titles": [
         {
           "title": "伊朗讽美：对制裁“病态依赖”，丧失了独立思考能力",
@@ -71,6 +71,17 @@
           "time_info": "[02时50分 ~ 05时38分]"
         },
         {
+          "title": "伊朗，密集“换帅”",
+          "url": "https://news.ifeng.com/c/8vWOAc0ERio",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时15分 ~ 15时12分]"
+        },
+        {
           "title": "据伊朗媒体FarsNews：一些消息来源报道称，沙特雇佣军在也门马里布的阵地再次发生两起爆炸。",
           "url": "https://flash.jin10.com/detail/20260812013243718800",
           "source": "金十数据",
@@ -105,6 +116,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时50分 ~ 03时57分]"
+        },
+        {
+          "title": "伊朗和阿曼“正式开始”向霍尔木兹海峡船舶收费了？",
+          "url": "https://news.ifeng.com/c/8vWSsJCqjj0",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时15分 ~ 15时12分]"
         },
         {
           "title": "据伊朗伊斯兰共和国广播电视台（IRIB）：伊朗总统会见了巴基斯坦内政部长。",
@@ -143,29 +166,6 @@
           "time_info": "[02时50分 ~ 03时57分]"
         },
         {
-          "title": "伊朗，密集“换帅”",
-          "url": "https://news.ifeng.com/c/8vWOAc0ERio",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时15分 ~ 13时28分]"
-        },
-        {
-          "title": "伊朗和阿曼“正式开始”向霍尔木兹海峡船舶收费了？",
-          "url": "https://news.ifeng.com/c/8vWSsJCqjj0",
-          "source": "凤凰网",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时15分 ~ 13时28分]"
-        },
-        {
           "title": "伊朗官员称在伊方条件满足前霍尔木兹海峡不会开放 | 环球市场",
           "url": "https://www.cls.cn/detail/2451814",
           "source": "财联社热门",
@@ -173,8 +173,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时15分 ~ 13时28分]"
+          "appearance_count": 4,
+          "time_info": "[09时15分 ~ 15时12分]"
         },
         {
           "title": "伊朗称在美国满足条件前霍尔木兹海峡不会重开 国际油价短线冲高",
@@ -185,8 +185,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时15分 ~ 13时28分]"
+          "appearance_count": 4,
+          "time_info": "[09时15分 ~ 15时12分]"
         },
         {
           "title": "伊朗革命卫队发言人：如果伊朗再次遭遇威胁，数十万英里的能源输送管线、数千座发电厂、所有美国及非美国的各类系统，乃至接入互联网的全球基础设施都将面临风险。",
@@ -243,7 +243,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时28分"
         },
@@ -312,6 +312,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时50分"
+        },
+        {
+          "title": "巴基斯坦方面表示，巴基斯坦内政部长赴德黑兰会见伊朗官员并进行对话。",
+          "url": "https://flash.jin10.com/detail/20260812144920745800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时12分"
+        },
+        {
+          "title": "巴基斯坦方面表示，将继续推动美国与伊朗之间直接和间接的外交渠道。",
+          "url": "https://flash.jin10.com/detail/20260812144832050800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时12分"
         },
         {
           "title": "伊朗最高国安委秘书：必须结束整个地区的战争，包括黎巴嫩与加沙。",
@@ -406,8 +428,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时34分 ~ 13时28分]"
+          "appearance_count": 5,
+          "time_info": "[06时34分 ~ 15时12分]"
         },
         {
           "title": "美国总统特朗普：我不信任伊朗。",
@@ -496,8 +518,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时15分 ~ 13时28分]"
+          "appearance_count": 4,
+          "time_info": "[09时15分 ~ 15时12分]"
         },
         {
           "title": "美国总统特朗普：医疗补助将不再为未成年人提供性别转换手术和激素治疗的资金。",
@@ -698,6 +720,18 @@
           "time_info": "[00时49分 ~ 05时38分]"
         },
         {
+          "title": "美股收盘：美伊僵局施压三大指数续跌 存储&光通信概念整体反弹",
+          "url": "https://www.cls.cn/detail/2451784",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时32分 ~ 15时12分]"
+        },
+        {
           "title": "中东局势峰回路转 AI撑起美股罕见业绩增速 | 今夜看点",
           "url": "https://www.cls.cn/detail/2451601",
           "source": "财联社热门",
@@ -709,18 +743,6 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[00时49分 ~ 11时58分]"
-        },
-        {
-          "title": "美股收盘：美伊僵局施压三大指数续跌 存储&光通信概念整体反弹",
-          "url": "https://www.cls.cn/detail/2451784",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时32分 ~ 13时28分]"
         },
         {
           "title": "周二（8月11日），美股行业ETF涨跌各异，网络股指数ETF收跌0.96%，可选消费ETF跌0.36%，科技行业ETF跌0.12%，半导体ETF涨0.62%，全球航空业ETF涨0.83%，能源业ETF涨1.25%。 标普500指数的11个板块中，电信板块收跌2.12%，房地产板块跌0.86%，信息技术/科技板块跌0.26%，能源板块涨1.06%。",
@@ -1028,24 +1050,25 @@
           "time_info": "[09时15分 ~ 11时58分]"
         },
         {
+          "title": "135家私募打新宇树科技获配：头部量化扎堆入围 ，梁文锋旗下幻方、九章拿下私募最大份额",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33764096",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时28分 ~ 15时12分]"
+        },
+        {
           "title": "DeepSeek智能体要来了？公众号已完成注册认证",
           "url": "https://wallstreetcn.com/livenews/3148405",
           "source": "华尔街见闻-快讯",
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时28分"
-        },
-        {
-          "title": "135家私募打新宇树科技获配：头部量化扎堆入围 ，梁文锋旗下幻方、九章拿下私募最大份额",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33764096",
-          "source": "澎湃新闻",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时28分"
         },
@@ -1056,7 +1079,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时28分"
         }
@@ -1137,7 +1160,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时28分"
         },
